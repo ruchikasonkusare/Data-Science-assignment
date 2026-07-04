@@ -1,0 +1,2036 @@
+OrderID,OrderDate,CustomerID,CustomerAge,Category,Product,Quantity,UnitPrice,DiscountPercent,Region,PaymentMethod,Rating
+ORD10637,2023-06-24,CUST0187,62.0,Sports,Football,1,1263.47,10,East,Credit Card,4.0
+ORD11755,2023-03-16,CUST0648,35.0,Electronics,Power Bank,2,5881.94,10,East,Debit Card,3.0
+ORD11205,2024-07-11,CUST0547,46.0,Electronics,Power Bank,1,924.31,15,South,UPI,
+ORD10693,2023-04-22,CUST0098,46.0,Electronics,Wireless Earbuds,1,3129.09,5,North,Credit Card,
+ORD11275,2023-11-30,CUST0449,64.0,Electronics,Bluetooth Speaker,2,3362.06,10,Central,Credit Card,
+ORD11568,2024-02-10,CUST0273,55.0,Electronics,Bluetooth Speaker,2,3920.45,25,South,Debit Card,2.0
+ORD10407,2023-01-12,CUST0765,45.0,Fashion,Leather Wallet,1,,5,West,Credit Card,1.0
+ORD11658,2023-06-21,CUST0520,19.0,Beauty,Shampoo 500ml,1,1026.62,5,Central,Net Banking,4.0
+ORD10373,2023-02-23,CUST0477,34.0,Electronics,Power Bank,1,3146.18,0,South,Credit Card,
+ORD10635,2024-05-19,CUST0031,43.0,Beauty,Face Serum,1,1696.62,5,North,UPI,5.0
+ORD11059,2023-01-09,CUST0650,35.0,Beauty,Hair Dryer,1,1705.23,0,South,Cash on Delivery,4.0
+ORD10390,2023-09-14,CUST0054,24.0,Beauty,Hair Dryer,1,1097.86,20,North,Debit Card,2.0
+ORD10894,2024-10-08,CUST0635,40.0,Electronics,Bluetooth Speaker,3,3799.99,0,,Debit Card,4.0
+ORD11576,2023-08-22,CUST0155,40.0,Beauty,Face Serum,2,345.93,10,South,Credit Card,4.0
+ORD10769,2023-05-11,CUST0250,23.0,Home & Kitchen,LED Desk Lamp,3,3826.58,0,North,Net Banking,4.0
+ORD11783,2023-03-19,CUST0329,44.0,Sports,Football,1,1741.42,0,West,Credit Card,2.0
+ORD11167,2023-12-29,CUST0758,32.0,Electronics,Wireless Earbuds,1,3833.98,20,West,UPI,
+ORD11159,2023-01-02,CUST0371,59.0,Electronics,Bluetooth Speaker,1,4476.11,0,East,Net Banking,4.0
+ORD11945,2024-05-27,CUST0208,37.0,Home & Kitchen,Non-stick Pan,-1,361.73,0,North,Credit Card,2.0
+ORD11463,2023-02-08,CUST0276,50.0,Sports,Resistance Band,2,2522.7,20,East,Debit Card,4.0
+ORD11319,2024-09-07,CUST0412,23.0,Home & Kitchen,Storage Rack,1,3442.08,0,South,UPI,5.0
+ORD11861,2023-07-17,CUST0069,33.0,Electronics,Bluetooth Speaker,3,5128.47,5,South,UPI,5.0
+ORD11353,2023-09-25,CUST0102,55.0,Beauty,Face Serum,2,1391.33,0,South,Cash on Delivery,4.0
+ORD10057,2023-09-21,CUST0141,50.0,Sports,Yoga Mat,1,844.98,0,North,UPI,
+ORD10397,2023-07-31,CUST0283,44.0,Home & Kitchen,LED Desk Lamp,1,3117.87,0,West,Net Banking,3.0
+ORD11315,2023-11-30,CUST0529,30.0,Fashion,Leather Wallet,1,1766.79,0,South,,
+ORD11468,2023-01-21,CUST0438,21.0,Fashion,Women's Dress,1,1550.55,10,West,Cash on Delivery,
+ORD11362,2024-01-27,CUST0648,57.0,Electronics,Smartwatch,2,3801.24,5,South,Debit Card,4.0
+ORD11482,2024-04-23,CUST0162,46.0,Electronics,Smartphone Case,5,4346.48,0,North,Cash on Delivery,2.0
+ORD11937,2023-11-30,CUST0700,25.0,Electronics,Smartphone Case,2,3841.23,0,west,Credit Card,3.0
+ORD11087,2024-05-02,CUST0657,31.0,Electronics,Smartwatch,1,4158.52,10,south,UPI,4.0
+ORD11659,2023-08-10,CUST0200,18.0,Fashion,Men's T-Shirt,1,2970.73,0,North,Debit Card,
+ORD10882,2023-12-24,CUST0133,39.0,Electronics,Smartphone Case,4,1283.07,0,West,UPI,2.0
+ORD11232,2023-02-20,CUST0119,26.0,Fashion,Denim Jacket,1,2006.86,0,West,Credit Card,
+ORD10952,2023-08-05,CUST0217,37.0,Electronics,Wireless Earbuds,1,2474.85,10,West,UPI,5.0
+ORD11459,2024-11-18,CUST0552,29.0,Fashion,Men's T-Shirt,3,2564.79,10,West,Credit Card,5.0
+ORD10802,2023-03-08,CUST0610,57.0,Electronics,Smartwatch,1,5413.5,0,North,Credit Card,3.0
+ORD10088,2023-02-18,CUST0498,40.0,Home & Kitchen,Cushion Cover,3,4056.95,5,Central,Credit Card,3.0
+ORD10672,2024-05-03,CUST0108,,Beauty,Lipstick,2,1252.12,5,West,UPI,4.0
+ORD10112,2024-07-11,CUST0014,51.0,Electronics,Bluetooth Speaker,1,5636.02,15,West,,
+ORD10861,2024-08-09,CUST0373,27.0,Electronics,Power Bank,1,5598.75,5,East,Credit Card,
+ORD10858,2024-03-26,CUST0045,29.0,Beauty,Lipstick,1,1785.1,0,West,UPI,5.0
+ORD11337,2023-11-10,CUST0134,42.0,Electronics,Power Bank,1,3642.92,0,East,Net Banking,4.0
+ORD10187,2023-04-16,CUST0731,35.0,Electronics,Wireless Earbuds,2,3993.83,5,,UPI,2.0
+ORD10387,2024-06-16,CUST0815,23.0,Home & Kitchen,Blender,3,,0,West,UPI,
+ORD10528,2023-09-13,CUST0013,27.0,Fashion,Running Shoes,2,1574.7,5,north,Credit Card,3.0
+ORD11101,2023-10-09,CUST0636,35.0,Electronics,Wireless Earbuds,2,1656.99,0,Central,Debit Card,5.0
+ORD11575,2024-10-14,CUST0792,26.0,Home & Kitchen,Blender,2,1953.41,10,south,Credit Card,5.0
+ORD10048,2023-10-17,CUST0489,23.0,Home & Kitchen,LED Desk Lamp,2,1087.89,10,South,UPI,1.0
+ORD11711,2024-09-03,CUST0820,26.0,Home & Kitchen,Storage Rack,2,2656.9,0,North,Credit Card,4.0
+ORD11286,2023-06-01,CUST0306,54.0,Electronics,Smartwatch,1,4299.95,15,North,Debit Card,5.0
+ORD11926,2023-07-16,CUST0523,46.0,Sports,Resistance Band,1,2384.0,15,East,UPI,4.0
+ORD11044,2024-11-07,CUST0039,35.0,Home & Kitchen,Non-stick Pan,6,1263.98,0,South,Credit Card,5.0
+ORD11663,2024-11-24,CUST0354,54.0,Fashion,Running Shoes,1,3035.95,15,west,Credit Card,4.0
+ORD11484,2024-10-24,CUST0756,21.0,Electronics,Power Bank,3,1424.61,0,West,Cash on Delivery,5.0
+ORD10557,2024-12-05,CUST0744,59.0,Fashion,Leather Wallet,1,3024.5,0,West,Debit Card,3.0
+ORD10511,2024-06-04,CUST0492,57.0,Fashion,Women's Dress,2,694.13,10,East,Debit Card,5.0
+ORD11674,2024-01-01,CUST0112,61.0,Home & Kitchen,Storage Rack,1,817.68,10,Central,UPI,5.0
+ORD11844,2024-10-10,CUST0162,38.0,Beauty,Face Serum,2,978.11,0,East,Debit Card,4.0
+ORD10109,2024-06-29,CUST0149,57.0,Home & Kitchen,Non-stick Pan,1,765.04,0,Central,Debit Card,5.0
+ORD11118,2023-10-10,CUST0644,27.0,Fashion,Men's T-Shirt,1,1672.7,5,East,Credit Card,4.0
+ORD11012,2024-07-23,CUST0641,46.0,Fashion,Denim Jacket,1,3040.03,10,North,UPI,4.0
+ORD11505,2023-07-22,CUST0540,56.0,Beauty,Sunscreen SPF50,1,891.42,0,North,Credit Card,2.0
+ORD11445,2024-06-10,CUST0346,28.0,Sports,Football,2,1312.45,15,West,Debit Card,3.0
+ORD10195,2024-12-24,CUST0759,42.0,Fashion,Running Shoes,1,2125.11,0,West,Credit Card,4.0
+ORD11765,2024-12-02,CUST0075,28.0,Sports,Yoga Mat,2,910.85,15,South,UPI,4.0
+ORD11247,2023-10-27,CUST0491,41.0,Beauty,Sunscreen SPF50,2,725.25,20,South,Cash on Delivery,5.0
+ORD10182,2024-03-03,CUST0147,38.0,Sports,Resistance Band,1,1644.77,0,East,UPI,5.0
+ORD10860,2023-12-15,CUST0491,63.0,Sports,Dumbbell Set,1,2367.59,0,East,UPI,5.0
+ORD11411,2024-08-07,CUST0767,25.0,Fashion,Leather Wallet,1,1041.16,0,North,Debit Card,3.0
+ORD11694,2023-08-07,CUST0059,29.0,Home & Kitchen,Cushion Cover,2,1178.36,10,East,Cash on Delivery,3.0
+ORD10415,2024-10-24,CUST0641,33.0,Fashion,Denim Jacket,1,1628.05,5,West,Net Banking,
+ORD11619,2024-01-30,CUST0740,36.0,Home & Kitchen,Storage Rack,2,567.75,10,West,UPI,
+ORD11922,2024-04-03,CUST0093,24.0,Sports,Yoga Mat,1,1384.79,0,North,Debit Card,5.0
+ORD10276,2023-07-22,CUST0292,18.0,Fashion,Running Shoes,1,1611.98,10,East,Credit Card,5.0
+ORD11745,2023-07-31,CUST0689,31.0,Sports,Cricket Bat,2,1336.28,0,North,UPI,5.0
+ORD10684,2024-04-01,CUST0472,22.0,Electronics,Bluetooth Speaker,1,4196.77,0,South,Debit Card,
+ORD11407,2023-02-18,CUST0005,57.0,Fashion,Leather Wallet,3,1714.06,10,West,Credit Card,5.0
+ORD10121,2024-08-21,CUST0626,54.0,Beauty,Face Serum,1,543.26,5,West,Cash on Delivery,3.0
+ORD10764,2024-09-11,CUST0095,47.0,Beauty,Shampoo 500ml,5,1590.92,15,North,Credit Card,5.0
+ORD11665,2023-07-03,CUST0429,26.0,Fashion,Men's T-Shirt,1,3406.58,0,,UPI,5.0
+ORD11210,2023-07-16,CUST0072,48.0,Sports,Football,1,1185.4,10,West,UPI,5.0
+ORD10404,2023-10-02,CUST0173,63.0,Beauty,Face Serum,2,284.09,15,East,UPI,3.0
+ORD11439,2023-07-07,CUST0626,57.0,Beauty,Face Serum,1,239.78,0,East,Net Banking,
+ORD10645,2023-10-14,CUST0068,47.0,Home & Kitchen,Non-stick Pan,1,1573.86,10,West,Net Banking,
+ORD11646,2024-08-14,CUST0707,50.0,Sports,Yoga Mat,1,2901.93,0,south,UPI,3.0
+ORD11734,2023-12-09,CUST0606,41.0,Home & Kitchen,LED Desk Lamp,1,2004.77,20,North,UPI,4.0
+ORD10821,2024-03-31,CUST0145,63.0,Home & Kitchen,LED Desk Lamp,2,1476.11,0,North,Credit Card,
+ORD10951,2024-10-14,CUST0661,,Home & Kitchen,LED Desk Lamp,2,2904.73,0,East,Debit Card,
+ORD10487,2024-07-18,CUST0162,45.0,Sports,Dumbbell Set,1,711.82,0,East,Credit Card,4.0
+ORD10719,2023-10-29,CUST0785,48.0,Home & Kitchen,Cushion Cover,6,358.07,15,West,Credit Card,4.0
+ORD11710,2024-10-20,CUST0301,47.0,Beauty,Face Serum,3,1022.22,0,West,Credit Card,5.0
+ORD10673,2024-04-16,CUST0030,40.0,Home & Kitchen,Cushion Cover,1,1336.23,0,East,Cash on Delivery,
+ORD11514,2023-03-16,CUST0390,57.0,Beauty,Sunscreen SPF50,2,1557.82,15,South,UPI,3.0
+ORD10259,2024-10-11,CUST0476,34.0,Home & Kitchen,Non-stick Pan,6,1835.11,10,East,Net Banking,5.0
+ORD11293,2023-09-28,CUST0553,61.0,Fashion,Denim Jacket,1,2354.01,0,West,UPI,4.0
+ORD11284,2024-10-19,CUST0754,47.0,Fashion,Running Shoes,1,2745.29,10,South,Net Banking,5.0
+ORD10481,2023-10-04,CUST0676,27.0,Fashion,Men's T-Shirt,1,800.86,10,West,UPI,5.0
+ORD11721,2024-10-19,CUST0442,46.0,Home & Kitchen,Cushion Cover,3,1748.88,0,south,Net Banking,5.0
+ORD10727,2024-11-27,CUST0622,42.0,Electronics,Power Bank,2,5512.31,15,North,Debit Card,
+ORD10608,2023-01-05,CUST0449,31.0,Home & Kitchen,Blender,1,980.13,5,Central,Net Banking,3.0
+ORD10656,2024-05-09,CUST0836,52.0,Electronics,Smartphone Case,1,,10,East,Credit Card,4.0
+ORD11894,2023-01-24,CUST0145,39.0,Fashion,Running Shoes,2,3182.31,10,South,UPI,5.0
+ORD10580,2024-09-05,CUST0616,33.0,Electronics,Smartwatch,2,3924.46,0,East,UPI,4.0
+ORD10917,2024-09-04,CUST0245,48.0,Home & Kitchen,Cushion Cover,1,3420.77,0,South,Credit Card,5.0
+ORD11153,2023-11-29,CUST0311,35.0,Fashion,Denim Jacket,3,3078.3,15,North,Cash on Delivery,4.0
+ORD10926,2023-04-05,CUST0653,26.0,Fashion,Women's Dress,1,2057.2,20,North,UPI,5.0
+ORD11630,2024-10-07,CUST0418,19.0,Sports,Dumbbell Set,2,2002.52,15,North,UPI,5.0
+ORD10542,2024-12-17,CUST0848,46.0,Electronics,Smartwatch,2,5494.18,0,East,UPI,1.0
+ORD10920,2024-05-12,CUST0267,52.0,Electronics,Power Bank,2,1592.37,0,West,Credit Card,5.0
+ORD10907,2023-12-05,CUST0639,33.0,Electronics,Wireless Earbuds,1,4672.18,20,East,Net Banking,5.0
+ORD11269,2023-07-04,CUST0280,40.0,Sports,Yoga Mat,1,918.45,10,,UPI,1.0
+ORD10103,2023-11-22,CUST0042,44.0,Beauty,Sunscreen SPF50,4,409.91,0,Central,Cash on Delivery,3.0
+ORD10422,2024-07-21,CUST0530,24.0,Electronics,Power Bank,1,1406.34,0,East,Net Banking,4.0
+ORD11752,2023-08-23,CUST0446,52.0,Beauty,Hair Dryer,1,1567.15,10,West,UPI,3.0
+ORD11794,2023-06-09,CUST0238,60.0,Electronics,Bluetooth Speaker,1,2674.54,10,East,Debit Card,3.0
+ORD11234,2024-02-27,CUST0528,39.0,Electronics,Wireless Earbuds,2,4644.86,0, East ,Debit Card,1.0
+ORD11913,2024-10-19,CUST0345,51.0,Electronics,Power Bank,2,3413.4,5,South,Credit Card,4.0
+ORD11500,2023-06-16,CUST0222,40.0,Beauty,Shampoo 500ml,2,1605.07,0,Central,Debit Card,5.0
+ORD11623,2023-07-14,CUST0603,47.0,Electronics,Bluetooth Speaker,1,4015.5,10,South,UPI,4.0
+ORD11305,2024-01-22,CUST0578,30.0,Fashion,Women's Dress,1,2689.1,0,South,UPI,2.0
+ORD11916,2024-02-13,CUST0670,24.0,Home & Kitchen,Non-stick Pan,1,4003.32,0,South,Debit Card,4.0
+ORD10041,2023-06-27,CUST0653,42.0,Electronics,Smartphone Case,1,5186.66,0,South,Net Banking,4.0
+ORD11714,2024-11-13,CUST0123,34.0,Fashion,Running Shoes,2,1438.48,10,West,UPI,5.0
+ORD11632,2023-07-27,CUST0569,64.0,Sports,Dumbbell Set,2,907.92,10,West,Debit Card,5.0
+ORD11375,2023-06-23,CUST0093,18.0,Home & Kitchen,LED Desk Lamp,3,3291.54,5,North,UPI,5.0
+ORD10429,2024-10-24,CUST0424,24.0,Sports,Cricket Bat,3,2618.4,5,East,Credit Card,
+ORD11508,2024-04-23,CUST0500,49.0,Sports,Resistance Band,1,2216.49,20,East,Credit Card,
+ORD11462,2024-05-21,CUST0190,30.0,Electronics,Wireless Earbuds,1,5539.25,10,North,Debit Card,5.0
+ORD10548,2024-02-07,CUST0148,29.0,Electronics,Bluetooth Speaker,1,,10,West,UPI,5.0
+ORD11797,2023-10-28,CUST0053,52.0,Home & Kitchen,Cushion Cover,2,4372.52,5,West,Credit Card,3.0
+ORD11656,2024-02-25,CUST0729,39.0,Fashion,Denim Jacket,1,1983.59,15,East,Credit Card,3.0
+ORD10237,2023-02-04,CUST0087,58.0,Home & Kitchen,Blender,3,2818.4,5,South,Credit Card,5.0
+ORD10009,2024-02-27,CUST0420,26.0,Fashion,Leather Wallet,1,3055.5,5,North,UPI,
+ORD10170,2023-11-02,CUST0590,39.0,Electronics,Smartwatch,2,2706.22,0,central,UPI,1.0
+ORD10049,2024-05-26,CUST0292,59.0,Sports,Resistance Band,1,619.51,0,North,UPI,4.0
+ORD10349,2024-03-02,CUST0718,23.0,Home & Kitchen,Blender,1,1231.98,0,East,UPI,5.0
+ORD11649,2023-10-19,CUST0322,57.0,Fashion,Leather Wallet,2,3452.31,5,South,Credit Card,
+ORD10232,2023-04-07,CUST0681,31.0,Electronics,Wireless Earbuds,1,5761.36,15,North,UPI,3.0
+ORD11812,2024-12-25,CUST0650,39.0,Fashion,Denim Jacket,1,1866.75,0,East,Debit Card,5.0
+ORD11048,2023-07-03,CUST0166,48.0,Fashion,Leather Wallet,1,1866.54,0,North,Credit Card,4.0
+ORD10135,2023-08-23,CUST0379,64.0,Electronics,Wireless Earbuds,2,3645.87,0,North,Credit Card,5.0
+ORD11045,2024-06-03,CUST0397,49.0,Fashion,Denim Jacket,3,846.6,25,West,UPI,5.0
+ORD10127,2023-02-22,CUST0380,37.0,Electronics,Smartphone Case,2,5947.08,10,West,UPI,5.0
+ORD11977,2024-12-02,CUST0799,50.0,Fashion,Denim Jacket,2,3293.67,5,North,UPI,5.0
+ORD11785,2023-04-11,CUST0038,30.0,Home & Kitchen,Cushion Cover,1,1718.93,25,West,Debit Card,1.0
+ORD10120,2023-06-16,CUST0448,,Beauty,Face Serum,1,1171.21,10, West ,UPI,5.0
+ORD10846,2023-06-03,CUST0455,47.0,Electronics,Smartwatch,4,3817.22,10,Central,Net Banking,4.0
+ORD10651,2024-01-15,CUST0403,55.0,Fashion,Leather Wallet,1,2621.59,10,Central,UPI,4.0
+ORD10367,2023-01-31,CUST0034,29.0,Home & Kitchen,LED Desk Lamp,1,4150.12,0,Central,UPI,
+ORD11006,2024-05-18,CUST0320,46.0,Home & Kitchen,Non-stick Pan,1,2238.26,0,East,Credit Card,3.0
+ORD11157,2023-04-11,CUST0216,24.0,Electronics,Smartphone Case,1,3897.98,25,East,UPI,4.0
+ORD10954,2023-02-13,CUST0473,26.0,Electronics,Smartwatch,2,1616.98,10,West,Debit Card,5.0
+ORD10326,2024-05-13,CUST0691,59.0,Electronics,Bluetooth Speaker,2,808.48,0,Central,Credit Card,3.0
+ORD11820,2024-05-04,CUST0444,33.0,Sports,Resistance Band,1,679.07,20,South,,
+ORD11354,2024-02-23,CUST0664,21.0,Fashion,Running Shoes,2,2968.91,15,Central,Credit Card,5.0
+ORD11668,2024-08-27,CUST0117,33.0,Beauty,Hair Dryer,-1,1343.22,0,North,Credit Card,5.0
+ORD11725,2024-08-06,CUST0563,28.0,Electronics,Smartphone Case,1,2133.49,0,South,UPI,3.0
+ORD10436,2023-03-27,CUST0710,30.0,Electronics,Wireless Earbuds,1,4004.56,10,East,Credit Card,5.0
+ORD10271,2024-09-02,CUST0131,56.0,Electronics,Bluetooth Speaker,1,5651.5,0,South,UPI,
+ORD11790,2023-09-17,CUST0125,45.0,Electronics,Bluetooth Speaker,1,5358.34,0,South,Net Banking,
+ORD10348,2023-07-23,CUST0208,42.0,Electronics,Bluetooth Speaker,1,3428.07,0,East,Debit Card,4.0
+ORD10416,2023-02-24,CUST0148,23.0,Fashion,Denim Jacket,1,2621.27,0,West,Net Banking,5.0
+ORD10224,2023-11-28,CUST0647,41.0,Fashion,Denim Jacket,4,998.32,0,North,Credit Card,5.0
+ORD11825,2023-08-22,CUST0513,30.0,Fashion,Women's Dress,1,3081.53,0,South,Debit Card,1.0
+ORD10178,2024-11-20,CUST0342,26.0,Fashion,Leather Wallet,1,1128.0,10,north,UPI,5.0
+ORD11756,2023-01-07,CUST0615,41.0,Home & Kitchen,Non-stick Pan,1,1275.99,0,West,Credit Card,5.0
+ORD11895,2023-05-23,CUST0253,34.0,Beauty,Hair Dryer,2,1353.47,0,South,Debit Card,5.0
+ORD11822,2023-01-28,CUST0778,21.0,Electronics,Smartwatch,2,1307.1,0,East,Credit Card,4.0
+ORD10655,2023-03-20,CUST0258,51.0,Fashion,Men's T-Shirt,1,1663.3,5,East,Credit Card,2.0
+ORD11529,2023-04-17,CUST0041,36.0,Electronics,Bluetooth Speaker,1,2791.91,5,East,UPI,
+ORD11892,2024-01-02,CUST0584,26.0,Home & Kitchen,LED Desk Lamp,1,3482.1,15,South,Credit Card,5.0
+ORD11589,2024-03-27,CUST0218,62.0,Beauty,Face Serum,1,380.5,0,North,Credit Card,5.0
+ORD10376,2023-02-15,CUST0752,59.0,Fashion,Denim Jacket,1,2892.5,0,West,UPI,2.0
+ORD10919,2023-06-29,CUST0750,48.0,Electronics,Smartphone Case,1,5648.7,5,South,Credit Card,4.0
+ORD11117,2024-02-05,CUST0208,21.0,Electronics,Power Bank,1,3140.99,0,West,Cash on Delivery,5.0
+ORD10454,2023-11-26,CUST0425,59.0,Sports,Dumbbell Set,2,1610.83,10,West,UPI,3.0
+ORD11829,2023-12-31,CUST0348,30.0,Fashion,Leather Wallet,2,749.49,10,West,Debit Card,3.0
+ORD11082,2024-02-17,CUST0817,36.0,Home & Kitchen,Blender,4,3472.25,0,South,Credit Card,5.0
+ORD11771,2023-06-27,CUST0701,36.0,Home & Kitchen,Cushion Cover,1,2915.03,0,West,Debit Card,5.0
+ORD11261,2024-11-23,CUST0720,31.0,Beauty,Lipstick,1,451.64,0,North,Debit Card,
+ORD10302,2023-05-16,CUST0150,59.0,Home & Kitchen,Non-stick Pan,1,4398.76,0,North,Net Banking,4.0
+ORD11446,2024-08-29,CUST0536,55.0,Electronics,Power Bank,5,4159.23,15,West,Credit Card,
+ORD10701,2024-03-19,CUST0048,48.0,Electronics,Bluetooth Speaker,1,4379.81,0,South,UPI,4.0
+ORD11239,2024-09-05,CUST0235,58.0,Electronics,Smartphone Case,1,939.78,5,South,UPI,
+ORD10588,2024-08-15,CUST0178,43.0,Fashion,Denim Jacket,1,2829.21,10,Central,Debit Card,3.0
+ORD10614,2023-01-02,CUST0657,32.0,Fashion,Women's Dress,1,1521.97,5,Central,UPI,
+ORD11509,2024-03-31,CUST0717,19.0,Fashion,Women's Dress,2,1072.42,0,East,UPI,5.0
+ORD11686,2024-04-24,CUST0248,44.0,Home & Kitchen,Non-stick Pan,1,3729.9,10,Central,Debit Card,4.0
+ORD11292,2024-08-13,CUST0752,33.0,Fashion,Men's T-Shirt,1,1907.36,20,Central,Credit Card,3.0
+ORD11370,2023-12-18,CUST0190,40.0,Beauty,Face Serum,1,1339.23,15,West,Credit Card,5.0
+ORD11359,2024-04-12,CUST0432,45.0,Home & Kitchen,LED Desk Lamp,1,2895.42,15,west,UPI,5.0
+ORD11329,2023-06-20,CUST0041,41.0,Fashion,Leather Wallet,1,620.6,15,,Debit Card,4.0
+ORD10586,2024-09-12,CUST0504,50.0,Home & Kitchen,Cushion Cover,1,4096.47,0,North,Cash on Delivery,3.0
+ORD10564,2024-06-01,CUST0557,54.0,Fashion,Denim Jacket,2,1515.11,5,North,Credit Card,4.0
+ORD10889,2024-12-12,CUST0139,56.0,Electronics,Wireless Earbuds,1,4517.15,10,East,Credit Card,4.0
+ORD11675,2023-09-16,CUST0513,62.0,Electronics,Smartphone Case,1,3506.26,0,South,UPI,4.0
+ORD11555,2023-12-21,CUST0486,57.0,Sports,Resistance Band,1,939.38,10,South,UPI,5.0
+ORD10632,2023-03-01,CUST0503,28.0,Fashion,Women's Dress,1,2666.71,0,West,UPI,5.0
+ORD10780,2023-01-18,CUST0001,22.0,Home & Kitchen,Storage Rack,2,3283.55,20,East,UPI,5.0
+ORD10138,2024-11-26,CUST0519,29.0,Home & Kitchen,Cushion Cover,1,2304.38,0, North ,UPI,4.0
+ORD11595,2024-05-14,CUST0392,34.0,Beauty,Face Serum,1,596.07,10,Central,Net Banking,5.0
+ORD10162,2024-01-17,CUST0432,19.0,Sports,Dumbbell Set,5,2170.38,5,East,Credit Card,5.0
+ORD11066,2023-10-25,CUST0203,19.0,Electronics,Bluetooth Speaker,-1,3991.21,10,East,Debit Card,4.0
+ORD10285,2023-04-12,CUST0846,40.0,Electronics,Power Bank,1,3366.12,0,south,UPI,5.0
+ORD11618,2024-08-20,CUST0261,42.0,Fashion,Women's Dress,5,1648.92,10,South,Credit Card,5.0
+ORD10895,2023-08-27,CUST0139,51.0,Fashion,Men's T-Shirt,1,,10,West,Credit Card,5.0
+ORD11216,2023-05-01,CUST0679,,Electronics,Smartwatch,1,5859.79,10,West,Credit Card,
+ORD11506,2023-02-16,CUST0740,34.0,Sports,Dumbbell Set,1,1212.62,10,South,Debit Card,3.0
+ORD11222,2024-06-26,CUST0003,45.0,Beauty,Face Serum,2,1747.41,15,,UPI,5.0
+ORD10767,2024-12-29,CUST0332,58.0,Sports,Football,1,1678.09,10,South,UPI,4.0
+ORD11611,2024-07-26,CUST0654,50.0,Electronics,Wireless Earbuds,1,3945.74,15,West,UPI,4.0
+ORD10193,2024-01-09,CUST0453,49.0,Electronics,Bluetooth Speaker,1,5732.96,10,South,Net Banking,5.0
+ORD10694,2023-07-24,CUST0415,48.0,Sports,Yoga Mat,1,2421.81,10,central,Debit Card,
+ORD11541,2024-08-23,CUST0221,49.0,Electronics,Smartwatch,2,1347.3,10,,UPI,5.0
+ORD10305,2023-12-06,CUST0643,,Electronics,Bluetooth Speaker,2,5772.17,10,East,Net Banking,5.0
+ORD10593,2023-07-02,CUST0334,24.0,Fashion,Denim Jacket,1,3342.3,10,North,UPI,5.0
+ORD11981,2024-03-27,CUST0263,53.0,Beauty,Face Serum,1,955.29,10,West,Net Banking,4.0
+ORD10283,2023-08-04,CUST0111,42.0,Beauty,Shampoo 500ml,1,1329.61,25,,UPI,3.0
+ORD10704,2024-04-11,CUST0081,42.0,Electronics,Smartwatch,1,1892.36,0,South,Credit Card,
+ORD10859,2023-02-14,CUST0521,43.0,Sports,Cricket Bat,1,1858.2,0,South,Credit Card,5.0
+ORD10561,2023-07-16,CUST0411,60.0,Beauty,Hair Dryer,1,606.5,0,east,Net Banking,4.0
+ORD10304,2024-01-07,CUST0060,49.0,Fashion,Running Shoes,2,1216.36,0,North,UPI,5.0
+ORD11562,2024-08-28,CUST0641,41.0,Electronics,Wireless Earbuds,2,5572.54,0,West,Credit Card,5.0
+ORD11546,2023-04-06,CUST0372,59.0,Electronics,Bluetooth Speaker,2,4859.98,15,West,Credit Card,4.0
+ORD10535,2023-07-20,CUST0019,23.0,Fashion,Running Shoes,2,3215.85,0,South,Credit Card,2.0
+ORD11661,2023-10-12,CUST0526,63.0,Sports,Resistance Band,2,2392.74,0,South,Cash on Delivery,
+ORD10698,2023-06-28,CUST0632,44.0,Electronics,Power Bank,1,5389.12,0,West,Credit Card,4.0
+ORD11225,2023-05-19,CUST0103,51.0,Home & Kitchen,Non-stick Pan,1,3972.66,10,West,UPI,3.0
+ORD11052,2023-02-03,CUST0096,38.0,Home & Kitchen,Storage Rack,1,442.98,10,North,Debit Card,4.0
+ORD10731,2024-06-07,CUST0234,51.0,Beauty,Lipstick,1,1345.22,0,East,Debit Card,3.0
+ORD10749,2024-09-01,CUST0540,59.0,Beauty,Sunscreen SPF50,3,865.74,20,West,Debit Card,3.0
+ORD10242,2023-11-06,CUST0802,62.0,Fashion,Denim Jacket,2,3237.73,15,North,Debit Card,4.0
+ORD10547,2023-07-05,CUST0660,64.0,Home & Kitchen,Non-stick Pan,1,1631.95,5,North,,5.0
+ORD11924,2024-09-09,CUST0586,33.0,Fashion,Denim Jacket,4,2204.97,5,West,Credit Card,
+ORD10936,2024-05-18,CUST0610,18.0,Fashion,Running Shoes,1,2759.01,10,North,Credit Card,4.0
+ORD11083,2024-11-22,CUST0213,59.0,Fashion,Running Shoes,3,3440.78,0,West,Credit Card,
+ORD11490,2024-03-17,CUST0055,47.0,Home & Kitchen,Storage Rack,1,1887.02,10,North,Credit Card,1.0
+ORD10076,2023-04-05,CUST0532,32.0,Home & Kitchen,Non-stick Pan,1,1490.79,5,Central,UPI,3.0
+ORD10191,2023-10-17,CUST0401,41.0,Beauty,Sunscreen SPF50,2,1479.6,5,East,UPI,4.0
+ORD10644,2023-01-22,CUST0718,25.0,Fashion,Running Shoes,1,2586.9,0,Central,Credit Card,5.0
+ORD11098,2023-07-31,CUST0046,41.0,Home & Kitchen,Storage Rack,3,3110.51,10,South,Credit Card,5.0
+ORD11091,2024-11-18,CUST0577,26.0,Fashion,Women's Dress,2,1208.72,0,south,Debit Card,
+ORD11888,2023-02-03,CUST0783,37.0,Beauty,Sunscreen SPF50,1,589.52,10,South,UPI,4.0
+ORD11605,2023-07-02,CUST0465,31.0,Electronics,Smartwatch,2,876.95,0,West,Credit Card,1.0
+ORD10613,2024-08-02,CUST0307,23.0,Home & Kitchen,Non-stick Pan,1,3670.53,0,West,Credit Card,4.0
+ORD11556,2023-09-08,CUST0659,52.0,Sports,Cricket Bat,1,251.53,10,East,UPI,4.0
+ORD11851,2023-03-31,CUST0552,64.0,Home & Kitchen,Cushion Cover,1,2213.27,0,West,UPI,5.0
+ORD11326,2023-09-03,CUST0006,29.0,Home & Kitchen,Non-stick Pan,1,3865.9,0, South ,Debit Card,3.0
+ORD11268,2024-01-31,CUST0291,62.0,Fashion,Women's Dress,1,2642.91,15,East,UPI,4.0
+ORD10526,2023-04-26,CUST0700,34.0,Electronics,Power Bank,1,5755.32,0,East,Debit Card,5.0
+ORD10126,2023-05-28,CUST0077,24.0,Home & Kitchen,Blender,4,1768.17,15,South,Credit Card,3.0
+ORD11985,2023-05-01,CUST0437,60.0,Sports,Football,1,485.07,0,East,Credit Card,4.0
+ORD10609,2024-12-01,CUST0709,20.0,Fashion,Women's Dress,1,2142.91,10,Central,UPI,1.0
+ORD10383,2023-05-29,CUST0066,19.0,Home & Kitchen,Storage Rack,3,3062.58,5,South,Net Banking,4.0
+ORD11235,2023-09-29,CUST0450,24.0,Sports,Cricket Bat,1,2932.63,15,East,Debit Card,4.0
+ORD11849,2024-10-31,CUST0202,20.0,Electronics,Smartphone Case,3,2994.42,10,North,Net Banking,5.0
+ORD10293,2023-05-11,CUST0560,45.0,Electronics,Power Bank,1,1324.95,5,West,Cash on Delivery,3.0
+ORD11080,2023-06-23,CUST0356,32.0,Fashion,Leather Wallet,3,3034.21,0,North,Cash on Delivery,4.0
+ORD11934,2024-11-12,CUST0173,61.0,Fashion,Women's Dress,1,1479.89,0,West,Debit Card,5.0
+ORD10794,2024-03-23,CUST0423,24.0,Home & Kitchen,Cushion Cover,1,3659.11,0,North,UPI,5.0
+ORD10983,2024-02-25,CUST0442,27.0,Electronics,Power Bank,2,4027.85,20,North,UPI,4.0
+ORD10330,2023-06-08,CUST0435,48.0,Beauty,Shampoo 500ml,1,651.01,0,North,UPI,4.0
+ORD10927,2024-06-18,CUST0425,56.0,Fashion,Denim Jacket,1,1024.48,10,North,Credit Card,5.0
+ORD10038,2024-08-26,CUST0599,24.0,Electronics,Bluetooth Speaker,1,5254.05,20,West,Credit Card,5.0
+ORD10809,2023-05-09,CUST0290,26.0,Home & Kitchen,LED Desk Lamp,1,1764.58,0,East,Net Banking,1.0
+ORD10822,2023-09-23,CUST0004,41.0,Home & Kitchen,Cushion Cover,1,2540.19,5,Central,Credit Card,4.0
+ORD10779,2023-12-05,CUST0057,28.0,Beauty,Face Serum,1,1405.98,0,South,UPI,3.0
+ORD10332,2023-02-08,CUST0183,27.0,Home & Kitchen,Cushion Cover,1,1038.57,5,South,Cash on Delivery,5.0
+ORD10286,2023-11-05,CUST0205,37.0,Sports,Cricket Bat,2,511.89,0,,UPI,5.0
+ORD11607,2023-06-15,CUST0575,56.0,Home & Kitchen,Storage Rack,1,3355.06,10,Central,Debit Card,4.0
+ORD10369,2023-06-08,CUST0623,32.0,Fashion,Denim Jacket,1,411.55,25,North,UPI,4.0
+ORD11890,2024-05-13,CUST0657,54.0,Sports,Resistance Band,1,906.72,0,West,UPI,3.0
+ORD10371,2023-10-08,CUST0574,25.0,Home & Kitchen,LED Desk Lamp,1,528.02,15,East,Debit Card,1.0
+ORD11972,2023-07-13,CUST0222,52.0,Sports,Dumbbell Set,3,801.12,5,West,Credit Card,3.0
+ORD10896,2024-02-13,CUST0464,41.0,Electronics,Bluetooth Speaker,1,2752.14,15,South,UPI,
+ORD11132,2024-06-20,CUST0163,23.0,Electronics,Smartwatch,1,1479.82,0,Central,UPI,3.0
+ORD11182,2023-05-01,CUST0410,63.0,Electronics,Wireless Earbuds,1,2929.98,0,Central,UPI,3.0
+ORD10901,2024-10-27,CUST0597,,Beauty,Shampoo 500ml,3,1395.63,0,West,Credit Card,1.0
+ORD11689,2023-05-28,CUST0341,46.0,Sports,Football,2,1854.59,0,Central,Credit Card,4.0
+ORD11542,2023-07-24,CUST0063,47.0,Beauty,Shampoo 500ml,3,291.39,25,North,UPI,4.0
+ORD11585,2023-04-11,CUST0564,64.0,Beauty,Face Serum,1,1085.74,15,South,UPI,3.0
+ORD10203,2024-06-21,CUST0368,35.0,Beauty,Hair Dryer,1,1513.58,10,South,Credit Card,5.0
+ORD10709,2023-07-04,CUST0825,25.0,Sports,Dumbbell Set,3,546.89,0,East,Credit Card,
+ORD10675,2024-07-04,CUST0296,35.0,Electronics,Bluetooth Speaker,1,3492.28,10,East,UPI,3.0
+ORD10061,2024-08-04,CUST0775,64.0,Electronics,Wireless Earbuds,2,3505.2,0,North,Credit Card,5.0
+ORD10772,2024-02-13,CUST0249,34.0,Electronics,Smartphone Case,1,1752.76,5,East,UPI,3.0
+ORD10994,2024-01-07,CUST0534,41.0,Home & Kitchen,LED Desk Lamp,1,2029.12,10,Central,Credit Card,5.0
+ORD10615,2024-04-19,CUST0138,58.0,Home & Kitchen,Cushion Cover,5,2552.62,10,South,Debit Card,3.0
+ORD10310,2024-06-25,CUST0690,45.0,Electronics,Wireless Earbuds,1,5168.3,10,North,Credit Card,4.0
+ORD11410,2023-08-21,CUST0239,31.0,Home & Kitchen,Blender,4,2889.71,10,West,Cash on Delivery,3.0
+ORD10574,2023-10-29,CUST0736,51.0,Sports,Yoga Mat,2,2895.82,5,East,Credit Card,
+ORD11088,2024-01-01,CUST0751,52.0,Electronics,Power Bank,1,1758.57,0,north,Debit Card,5.0
+ORD10352,2024-08-17,CUST0412,48.0,Fashion,Men's T-Shirt,1,2470.56,0,East,UPI,3.0
+ORD10550,2024-05-06,CUST0491,29.0,Fashion,Women's Dress,1,1542.73,0,South,Net Banking,
+ORD10997,2024-07-31,CUST0331,28.0,Electronics,Bluetooth Speaker,2,5001.65,15,Central,Debit Card,3.0
+ORD11226,2023-03-01,CUST0049,20.0,Beauty,Sunscreen SPF50,3,989.56,20,West,Debit Card,4.0
+ORD11669,2023-01-09,CUST0704,45.0,Electronics,Wireless Earbuds,1,5097.7,0,West,Cash on Delivery,5.0
+ORD10559,2023-07-02,CUST0176,46.0,Home & Kitchen,Storage Rack,1,2627.17,10,South,Credit Card,5.0
+ORD10298,2023-06-01,CUST0601,27.0,Fashion,Women's Dress,1,1268.71,0,East,UPI,5.0
+ORD10099,2024-08-13,CUST0035,49.0,Fashion,Women's Dress,1,650.28,0, East ,Cash on Delivery,5.0
+ORD11697,2024-05-02,CUST0053,35.0,Fashion,Women's Dress,1,655.81,15,West,Net Banking,4.0
+ORD10261,2023-01-23,CUST0173,43.0,Electronics,Power Bank,1,5042.33,0,South,,3.0
+ORD11557,2024-09-03,CUST0604,49.0,Beauty,Shampoo 500ml,1,1704.1,10,East,Credit Card,5.0
+ORD10159,2023-12-19,CUST0216,58.0,Beauty,Lipstick,1,1683.89,0,South,Credit Card,5.0
+ORD11130,2023-01-16,CUST0618,55.0,Beauty,Face Serum,4,1179.52,0,East,UPI,
+ORD10702,2023-05-08,CUST0422,37.0,Sports,Dumbbell Set,3,2504.35,5,,Credit Card,5.0
+ORD11638,2023-05-07,CUST0659,61.0,Electronics,Smartwatch,1,5651.78,0,South,UPI,
+ORD10322,2023-09-19,CUST0160,58.0,Electronics,Wireless Earbuds,1,3290.38,10,North,UPI,4.0
+ORD11917,2023-07-05,CUST0741,37.0,Home & Kitchen,Cushion Cover,3,804.19,0,South,Credit Card,4.0
+ORD11679,2024-12-17,CUST0658,29.0,Electronics,Bluetooth Speaker,2,1335.13,0,North,UPI,5.0
+ORD11793,2023-07-14,CUST0422,26.0,Electronics,Bluetooth Speaker,3,3464.11,10,South,Net Banking,4.0
+ORD11287,2024-07-10,CUST0340,36.0,Beauty,Sunscreen SPF50,3,345.29,5,North,UPI,5.0
+ORD11202,2024-04-19,CUST0012,42.0,Sports,Football,5,1084.0,10,North,UPI,5.0
+ORD10800,2024-01-02,CUST0084,,Sports,Dumbbell Set,1,2067.18,10,North,Credit Card,2.0
+ORD11989,2024-06-05,CUST0800,40.0,Sports,Yoga Mat,1,1224.01,10,East,Cash on Delivery,4.0
+ORD10083,2024-10-13,CUST0554,33.0,Fashion,Women's Dress,2,3125.11,0,East,Debit Card,
+ORD11478,2023-08-08,CUST0139,59.0,Home & Kitchen,Cushion Cover,1,2465.49,20,West,UPI,5.0
+ORD11907,2023-11-11,CUST0460,32.0,Electronics,Power Bank,1,4163.19,10,West,Cash on Delivery,
+ORD11599,2023-07-25,CUST0036,29.0,Fashion,Running Shoes,1,2379.88,0,East,Debit Card,5.0
+ORD10105,2023-11-16,CUST0144,60.0,Electronics,Bluetooth Speaker,1,5717.61,10,East,Credit Card,5.0
+ORD11923,2024-09-04,CUST0487,42.0,Sports,Football,1,2873.6,0,West,Cash on Delivery,4.0
+ORD11982,2024-07-21,CUST0215,44.0,Sports,Resistance Band,1,1396.3,0,West,UPI,3.0
+ORD11963,2024-04-25,CUST0583,23.0,Fashion,Leather Wallet,2,502.41,0,North,UPI,5.0
+ORD10773,2024-11-14,CUST0089,64.0,Electronics,Power Bank,1,2822.13,10,South,UPI,5.0
+ORD10853,2024-08-31,CUST0387,48.0,Home & Kitchen,Non-stick Pan,1,887.78,15,South,Debit Card,4.0
+ORD11854,2023-03-28,CUST0839,32.0,Fashion,Denim Jacket,1,1231.01,0,West,Credit Card,3.0
+ORD11995,2023-02-12,CUST0448,33.0,Beauty,Sunscreen SPF50,3,1407.99,5,North,Credit Card,4.0
+ORD11453,2024-08-13,CUST0673,60.0,Beauty,Lipstick,1,565.19,5,East,Credit Card,4.0
+ORD10813,2024-08-16,CUST0164,41.0,Home & Kitchen,LED Desk Lamp,1,841.12,15,East,Credit Card,4.0
+ORD11954,2024-10-20,CUST0426,29.0,Fashion,Running Shoes,5,2920.03,10,North,UPI,5.0
+ORD11440,2023-12-16,CUST0737,36.0,Home & Kitchen,Storage Rack,2,2305.25,10,North,Debit Card,3.0
+ORD11369,2024-04-10,CUST0419,51.0,Electronics,Power Bank,1,5935.29,5,South,Credit Card,5.0
+ORD11173,2023-12-15,CUST0612,52.0,Beauty,Face Serum,2,1716.24,5,East,Credit Card,5.0
+ORD10536,2024-12-30,CUST0377,,Sports,Cricket Bat,1,1163.67,10,East,Debit Card,2.0
+ORD11762,2024-04-11,CUST0393,32.0,Beauty,Lipstick,2,471.86,5,West,Credit Card,4.0
+ORD11677,2024-09-02,CUST0171,22.0,Fashion,Leather Wallet,1,3098.65,25,North,Credit Card,
+ORD10730,2023-05-31,CUST0593,20.0,Fashion,Running Shoes,1,1511.34,10,West,Credit Card,
+ORD10134,2024-01-20,CUST0678,45.0,Sports,Yoga Mat,2,1703.49,0,Central,Cash on Delivery,5.0
+ORD10228,2024-01-06,CUST0023,46.0,Electronics,Wireless Earbuds,1,5672.48,10,North,Credit Card,2.0
+ORD10368,2024-09-07,CUST0075,24.0,Electronics,Smartphone Case,2,4031.7,15,Central,Credit Card,5.0
+ORD11220,2023-08-26,CUST0181,20.0,Electronics,Smartphone Case,1,886.48,0,North,Debit Card,5.0
+ORD10092,2023-08-23,CUST0280,,Electronics,Power Bank,1,1804.68,0,Central,Cash on Delivery,4.0
+ORD10442,2024-12-24,CUST0223,24.0,Fashion,Women's Dress,1,1513.47,10,North,Debit Card,5.0
+ORD10808,2024-04-13,CUST0498,20.0,Beauty,Lipstick,1,1550.61,0,North,Credit Card,4.0
+ORD10433,2024-01-02,CUST0343,59.0,Electronics,Bluetooth Speaker,1,3045.61,0,West,Net Banking,4.0
+ORD11253,2023-09-25,CUST0152,22.0,Fashion,Women's Dress,2,2741.45,10,East,Debit Card,5.0
+ORD10012,2024-05-05,CUST0687,39.0,Electronics,Power Bank,3,2262.42,0,East,UPI,5.0
+ORD11825,2023-08-22,CUST0513,30.0,Fashion,Women's Dress,1,3081.53,0,South,Debit Card,1.0
+ORD10573,2024-03-05,CUST0224,45.0,Beauty,Face Serum,1,746.35,10,South,Debit Card,2.0
+ORD10054,2023-01-01,CUST0194,33.0,Beauty,Face Serum,2,861.69,0,South,UPI,5.0
+ORD10268,2023-11-19,CUST0435,52.0,Beauty,Sunscreen SPF50,2,992.75,0,South,Credit Card,
+ORD11713,2023-06-22,CUST0520,33.0,Home & Kitchen,LED Desk Lamp,1,,15,North,Net Banking,3.0
+ORD11603,2024-09-03,CUST0748,61.0,Home & Kitchen,Blender,1,4062.42,0,North,UPI,
+ORD11090,2023-08-03,CUST0145,57.0,Beauty,Shampoo 500ml,1,403.51,0,West,Credit Card,2.0
+ORD11377,2024-11-03,CUST0345,46.0,Electronics,Bluetooth Speaker,2,5754.33,10,North,Credit Card,
+ORD11857,2024-11-06,CUST0054,26.0,Electronics,Bluetooth Speaker,1,3411.39,0,East,Credit Card,5.0
+ORD10538,2023-01-15,CUST0074,53.0,Fashion,Denim Jacket,1,1490.57,10,South,Credit Card,
+ORD10108,2024-04-28,CUST0169,36.0,Fashion,Running Shoes,1,3377.82,10, North ,Debit Card,1.0
+ORD10703,2024-01-12,CUST0181,56.0,Fashion,Denim Jacket,1,1095.86,0,Central,Cash on Delivery,4.0
+ORD10066,2024-10-01,CUST0461,36.0,Beauty,Lipstick,1,1722.45,0,North,Net Banking,4.0
+ORD10852,2024-08-18,CUST0636,39.0,Sports,Football,2,2289.23,10,North,UPI,4.0
+ORD11323,2024-12-01,CUST0077,49.0,Fashion,Denim Jacket,2,1976.37,10,West,Credit Card,4.0
+ORD11116,2023-10-24,CUST0630,45.0,Electronics,Power Bank,2,3454.22,0,Central,UPI,3.0
+ORD11952,2023-06-15,CUST0527,49.0,Sports,Resistance Band,-1,2543.37,10,Central,UPI,2.0
+ORD10168,2023-02-20,CUST0725,43.0,Home & Kitchen,Storage Rack,1,3357.1,15,North,Credit Card,
+ORD10817,2024-05-20,CUST0203,38.0,Electronics,Smartphone Case,1,5140.88,10,East,UPI,3.0
+ORD10401,2023-02-19,CUST0554,61.0,Fashion,Running Shoes,1,3222.28,0,North,Debit Card,3.0
+ORD10537,2024-06-20,CUST0571,39.0,Fashion,Denim Jacket,1,3029.65,0,West,UPI,5.0
+ORD10661,2023-12-27,CUST0661,60.0,Electronics,Smartwatch,1,950.6,10,South,UPI,5.0
+ORD10265,2023-02-04,CUST0624,,Electronics,Bluetooth Speaker,2,928.84,0,South,Debit Card,4.0
+ORD10626,2023-10-30,CUST0566,25.0,Home & Kitchen,LED Desk Lamp,2,876.63,0,East,Credit Card,3.0
+ORD11420,2023-06-06,CUST0547,43.0,Beauty,Lipstick,1,1109.71,0,Central,Debit Card,1.0
+ORD10670,2024-08-19,CUST0147,24.0,Home & Kitchen,LED Desk Lamp,4,4031.73,5,Central,Credit Card,3.0
+ORD11804,2023-09-11,CUST0132,21.0,Electronics,Smartwatch,4,1581.86,20,Central,UPI,3.0
+ORD10834,2023-10-11,CUST0184,41.0,Fashion,Leather Wallet,2,2431.76,0,East,Debit Card,
+ORD11200,2023-01-21,CUST0417,25.0,Fashion,Men's T-Shirt,1,1153.07,10,East,UPI,4.0
+ORD10269,2024-07-02,CUST0671,37.0,Fashion,Men's T-Shirt,1,1465.83,25,North,Credit Card,
+ORD11001,2024-06-03,CUST0812,52.0,Home & Kitchen,Cushion Cover,4,464.6,20,Central,UPI,5.0
+ORD10004,2023-08-17,CUST0663,31.0,Home & Kitchen,Non-stick Pan,1,1927.41,0,West,Debit Card,5.0
+ORD11941,2023-04-18,CUST0151,19.0,Electronics,Wireless Earbuds,2,1144.05,10,West,Credit Card,5.0
+ORD11960,2023-07-17,CUST0089,63.0,Electronics,Smartphone Case,3,4871.7,0, North ,UPI,4.0
+ORD11476,2023-09-27,CUST0207,64.0,Electronics,Smartphone Case,1,5694.36,0,South,UPI,4.0
+ORD10307,2023-04-25,CUST0501,26.0,Sports,Resistance Band,1,481.95,0,,UPI,4.0
+ORD10642,2023-02-27,CUST0830,60.0,Electronics,Power Bank,1,964.58,10,East,Debit Card,3.0
+ORD11387,2024-09-12,CUST0253,62.0,Fashion,Women's Dress,1,953.82,0,South,Debit Card,4.0
+ORD11154,2024-12-27,CUST0704,21.0,Electronics,Power Bank,1,4539.76,0,South,UPI,4.0
+ORD11206,2024-05-08,CUST0243,32.0,Sports,Football,1,2092.63,0,North,Credit Card,4.0
+ORD10018,2023-03-21,CUST0737,63.0,Electronics,Power Bank,2,5113.03,10,South,UPI,5.0
+ORD10249,2023-10-26,CUST0637,27.0,Home & Kitchen,LED Desk Lamp,1,3772.2,0,West,UPI,5.0
+ORD11817,2023-07-06,CUST0265,23.0,Electronics,Bluetooth Speaker,1,4129.04,0,West,Cash on Delivery,
+ORD10969,2024-12-07,CUST0628,62.0,Electronics,Smartphone Case,2,5622.04,0,West,UPI,5.0
+ORD10448,2023-06-29,CUST0188,21.0,Fashion,Denim Jacket,2,829.05,0, North ,Credit Card,4.0
+ORD10937,2024-06-27,CUST0805,23.0,Fashion,Running Shoes,1,1457.52,0,North,Net Banking,4.0
+ORD10282,2023-07-12,CUST0078,52.0,Fashion,Men's T-Shirt,1,2412.21,0,North,Net Banking,3.0
+ORD10590,2023-02-23,CUST0482,18.0,Electronics,Power Bank,2,2834.6,10,West,Credit Card,5.0
+ORD11738,2023-07-03,CUST0811,30.0,Home & Kitchen,Non-stick Pan,2,3224.46,0,East,UPI,
+ORD11583,2024-06-13,CUST0497,33.0,Fashion,Women's Dress,1,3007.5,0,North,,1.0
+ORD11772,2024-04-02,CUST0179,28.0,Sports,Dumbbell Set,1,1078.64,10,North,Cash on Delivery,4.0
+ORD10300,2023-04-08,CUST0087,60.0,Electronics,Smartwatch,2,1161.98,0,North,Net Banking,2.0
+ORD11136,2024-04-05,CUST0806,19.0,Fashion,Leather Wallet,1,2515.86,0,North,Credit Card,5.0
+ORD11637,2024-02-08,CUST0145,29.0,Fashion,Running Shoes,1,1628.79,0,West,Credit Card,5.0
+ORD11299,2024-10-29,CUST0119,39.0,Sports,Football,3,2546.19,0,east,Net Banking,4.0
+ORD11339,2024-11-04,CUST0775,,Sports,Resistance Band,2,1134.78,10,East,Cash on Delivery,4.0
+ORD10303,2023-07-06,CUST0704,64.0,Home & Kitchen,LED Desk Lamp,1,3375.74,0,East,Debit Card,5.0
+ORD10513,2023-01-16,CUST0371,57.0,Fashion,Running Shoes,1,2090.54,0,Central,UPI,3.0
+ORD11264,2024-10-13,CUST0780,46.0,Fashion,Men's T-Shirt,2,1792.36,0,Central,UPI,4.0
+ORD10342,2023-02-24,CUST0637,51.0,Electronics,Power Bank,5,3039.17,15,Central,Net Banking,3.0
+ORD10803,2024-06-29,CUST0067,58.0,Home & Kitchen,LED Desk Lamp,1,528.56,0,west,Credit Card,5.0
+ORD11725,2024-08-06,CUST0563,28.0,Electronics,Smartphone Case,1,2133.49,0,South,UPI,3.0
+ORD10260,2024-05-05,CUST0454,41.0,Sports,Dumbbell Set,1,1896.86,5,West,Credit Card,5.0
+ORD10620,2024-05-17,CUST0589,49.0,Fashion,Running Shoes,1,3156.68,0,West,Debit Card,5.0
+ORD11094,2023-06-30,CUST0462,54.0,Beauty,Sunscreen SPF50,1,1528.54,5,South,Debit Card,4.0
+ORD11071,2024-06-11,CUST0295,42.0,Electronics,Bluetooth Speaker,1,5630.93,5,Central,Credit Card,2.0
+ORD11858,2023-05-21,CUST0272,50.0,Fashion,Running Shoes,1,3437.43,20,East,Debit Card,5.0
+ORD10141,2023-11-01,CUST0314,19.0,Home & Kitchen,LED Desk Lamp,2,3407.03,5,South,Cash on Delivery,5.0
+ORD10166,2023-02-27,CUST0069,53.0,Sports,Resistance Band,2,729.98,5,North,,4.0
+ORD10556,2023-03-09,CUST0190,,Electronics,Smartphone Case,2,1258.47,0,West,Credit Card,4.0
+ORD11664,2024-07-03,CUST0645,33.0,Home & Kitchen,LED Desk Lamp,1,483.15,0,West,UPI,
+ORD10050,2024-12-01,CUST0255,19.0,Fashion,Leather Wallet,1,2076.66,15,West,UPI,5.0
+ORD11846,2024-05-31,CUST0262,51.0,Sports,Football,1,1690.48,0,West,Debit Card,5.0
+ORD10765,2024-03-17,CUST0576,39.0,Fashion,Men's T-Shirt,2,3026.05,0,Central,UPI,4.0
+ORD11953,2024-02-22,CUST0621,36.0,Home & Kitchen,Cushion Cover,1,2542.97,5,East,Credit Card,5.0
+ORD11885,2024-04-20,CUST0807,34.0,Fashion,Men's T-Shirt,3,3430.24,10,West,Cash on Delivery,4.0
+ORD11899,2023-08-11,CUST0705,49.0,Electronics,Bluetooth Speaker,2,2556.89,15,North,Credit Card,2.0
+ORD10791,2024-02-26,CUST0278,37.0,Fashion,Women's Dress,1,1271.14,0,Central,,5.0
+ORD11248,2023-03-12,CUST0251,41.0,Home & Kitchen,LED Desk Lamp,1,4316.1,0,West,Credit Card,5.0
+ORD11211,2024-03-06,CUST0721,41.0,Beauty,Face Serum,1,1545.45,0,Central,Net Banking,5.0
+ORD11973,2023-01-25,CUST0464,39.0,Electronics,Smartwatch,1,2635.33,10,North,UPI,4.0
+ORD10425,2023-10-15,CUST0554,54.0,Electronics,Bluetooth Speaker,3,4209.15,0,North,Debit Card,4.0
+ORD11651,2024-04-19,CUST0281,58.0,Electronics,Smartphone Case,1,4752.55,0,South,UPI,5.0
+ORD11416,2024-12-07,CUST0704,39.0,Fashion,Denim Jacket,1,673.44,10,Central,Credit Card,
+ORD10443,2024-03-21,CUST0424,37.0,Home & Kitchen,Storage Rack,1,1118.32,10,East,Cash on Delivery,4.0
+ORD11049,2023-12-03,CUST0782,35.0,Fashion,Women's Dress,1,673.96,15,Central,Debit Card,4.0
+ORD10386,2023-10-11,CUST0125,52.0,Home & Kitchen,LED Desk Lamp,2,2121.69,10,West,Credit Card,4.0
+ORD11265,2024-08-03,CUST0613,38.0,Fashion,Men's T-Shirt,1,1879.0,10,East,Credit Card,5.0
+ORD11302,2024-09-30,CUST0307,55.0,Sports,Yoga Mat,2,2097.58,0,,Debit Card,
+ORD11853,2024-04-27,CUST0530,50.0,Electronics,Smartwatch,1,1334.62,0,West,UPI,4.0
+ORD10001,2023-11-17,CUST0699,36.0,Beauty,Sunscreen SPF50,3,1759.78,0,South,Cash on Delivery,4.0
+ORD11880,2024-06-12,CUST0158,53.0,Home & Kitchen,Cushion Cover,1,1837.05,5, West ,Credit Card,
+ORD10824,2023-01-12,CUST0206,30.0,Beauty,Sunscreen SPF50,1,1343.96,5, North ,Debit Card,
+ORD10554,2024-10-26,CUST0772,20.0,Beauty,Sunscreen SPF50,3,1213.62,15,Central,Net Banking,4.0
+ORD11660,2023-08-05,CUST0542,41.0,Electronics,Smartwatch,1,5580.38,10,West,Debit Card,5.0
+ORD10362,2023-07-20,CUST0304,19.0,Beauty,Hair Dryer,1,241.55,0,Central,UPI,4.0
+ORD10623,2023-09-13,CUST0419,31.0,Electronics,Wireless Earbuds,1,4537.77,0,,Credit Card,5.0
+ORD10829,2024-05-04,CUST0086,55.0,Sports,Football,1,2213.01,10,South,Cash on Delivery,2.0
+ORD10116,2024-07-20,CUST0076,54.0,Electronics,Power Bank,1,4813.62,25,North,UPI,5.0
+ORD11676,2023-04-25,CUST0617,60.0,Home & Kitchen,Non-stick Pan,2,1212.04,0,South,Cash on Delivery,3.0
+ORD10875,2023-06-29,CUST0355,48.0,Home & Kitchen,Storage Rack,2,3130.36,15,East,Debit Card,4.0
+ORD10337,2023-08-05,CUST0502,37.0,Electronics,Smartwatch,1,1249.53,10,East,Credit Card,3.0
+ORD11038,2024-03-28,CUST0082,30.0,Electronics,Smartphone Case,1,2433.93,20,North,Credit Card,3.0
+ORD11875,2024-02-12,CUST0113,62.0,Electronics,Power Bank,2,2478.5,5,South,UPI,2.0
+ORD10202,2024-02-12,CUST0187,29.0,Electronics,Bluetooth Speaker,2,2269.18,0,Central,Debit Card,4.0
+ORD11172,2023-07-21,CUST0330,18.0,Electronics,Smartphone Case,1,2966.9,10,East,Credit Card,3.0
+ORD11013,2024-07-21,CUST0712,53.0,Fashion,Denim Jacket,1,1221.9,5,East,Credit Card,4.0
+ORD10031,2023-01-27,CUST0712,56.0,Home & Kitchen,Cushion Cover,2,2844.89,0,Central,Debit Card,5.0
+ORD11498,2024-10-04,CUST0354,23.0,Fashion,Running Shoes,2,1300.16,10,South,Credit Card,5.0
+ORD11076,2024-09-09,CUST0150,55.0,Beauty,Lipstick,2,1584.88,15,South,Cash on Delivery,4.0
+ORD11540,2024-02-19,CUST0526,57.0,Sports,Football,1,2916.37,0,North,Credit Card,5.0
+ORD11427,2024-04-17,CUST0275,54.0,Electronics,Bluetooth Speaker,2,4274.14,15,North,UPI,5.0
+ORD11397,2024-10-01,CUST0758,61.0,Electronics,Smartwatch,2,3898.79,5,North,Credit Card,
+ORD10408,2023-02-09,CUST0468,59.0,Beauty,Hair Dryer,1,1401.69,15,North,UPI,5.0
+ORD11612,2023-08-16,CUST0202,59.0,Electronics,Smartwatch,1,4062.84,0,East,Credit Card,4.0
+ORD11148,2023-11-06,CUST0365,57.0,Beauty,Shampoo 500ml,4,760.36,0,South,Credit Card,
+ORD10978,2023-02-17,CUST0585,44.0,Fashion,Leather Wallet,1,861.65,5,South,Credit Card,
+ORD11011,2023-05-10,CUST0044,61.0,Fashion,Men's T-Shirt,3,2856.52,10,South,UPI,5.0
+ORD10294,2023-08-12,CUST0228,32.0,Home & Kitchen,LED Desk Lamp,1,3290.4,0,West,UPI,5.0
+ORD10306,2023-12-16,CUST0111,54.0,Sports,Cricket Bat,2,1363.06,0,North,UPI,4.0
+ORD10942,2023-03-28,CUST0081,53.0,Electronics,Wireless Earbuds,3,3401.54,0,East,Credit Card,2.0
+ORD11489,2023-12-27,CUST0582,33.0,Electronics,Power Bank,4,1215.29,0, South ,Debit Card,4.0
+ORD10147,2023-01-31,CUST0404,31.0,Sports,Football,1,2966.03,5,south,UPI,5.0
+ORD11009,2023-06-10,CUST0799,41.0,Fashion,Running Shoes,1,595.36,5,South,UPI,4.0
+ORD10331,2024-11-16,CUST0231,43.0,Electronics,Power Bank,2,4120.67,0,South,UPI,3.0
+ORD11054,2024-02-02,CUST0682,42.0,Beauty,Lipstick,3,917.12,0, nan ,Net Banking,5.0
+ORD10621,2024-03-20,CUST0030,49.0,Electronics,Smartphone Case,1,4839.76,0,East,UPI,
+ORD10758,2024-10-17,CUST0166,,Electronics,Smartphone Case,1,4600.98,0,Central,Debit Card,3.0
+ORD11404,2023-04-23,CUST0574,49.0,Electronics,Wireless Earbuds,1,,0,East,Cash on Delivery,4.0
+ORD10419,2023-07-03,CUST0282,45.0,Electronics,Smartwatch,1,1025.38,10,,Debit Card,5.0
+ORD11700,2024-12-06,CUST0251,45.0,Fashion,Women's Dress,1,608.86,0,East,UPI,2.0
+ORD10479,2024-08-20,CUST0420,59.0,Sports,Resistance Band,1,2234.92,0,Central,Credit Card,4.0
+ORD11442,2024-10-28,CUST0407,58.0,Fashion,Leather Wallet,2,2889.86,15,North,Net Banking,
+ORD10762,2023-07-15,CUST0026,59.0,Fashion,Leather Wallet,2,2753.92,25,south,Debit Card,3.0
+ORD10336,2023-06-28,CUST0318,59.0,Fashion,Denim Jacket,1,3049.03,5,Central,UPI,3.0
+ORD10354,2024-12-19,CUST0201,62.0,Home & Kitchen,Storage Rack,2,2799.76,0,South,Cash on Delivery,3.0
+ORD11356,2023-04-16,CUST0001,22.0,Fashion,Denim Jacket,2,738.33,0,South,UPI,
+ORD11303,2024-06-08,CUST0039,58.0,Electronics,Wireless Earbuds,2,1213.15,10,South,Credit Card,4.0
+ORD10869,2024-01-18,CUST0069,40.0,Beauty,Hair Dryer,5,1330.18,0,North,Debit Card,
+ORD10040,2023-02-28,CUST0419,51.0,Fashion,Women's Dress,3,1744.71,0,South,UPI,4.0
+ORD11037,2024-05-05,CUST0037,35.0,Home & Kitchen,Cushion Cover,4,2936.63,10,East,UPI,4.0
+ORD11979,2024-12-28,CUST0442,55.0,Electronics,Smartwatch,2,3988.91,15,East,UPI,3.0
+ORD11781,2023-02-07,CUST0722,49.0,Electronics,Bluetooth Speaker,1,3879.52,0,Central,UPI,
+ORD11786,2024-06-18,CUST0377,33.0,Sports,Dumbbell Set,1,1340.26,0,,Cash on Delivery,5.0
+ORD10928,2024-08-11,CUST0360,49.0,Electronics,Wireless Earbuds,2,1925.78,15,,Credit Card,4.0
+ORD10081,2023-03-23,CUST0618,50.0,Home & Kitchen,LED Desk Lamp,2,2078.68,10,Central,UPI,
+ORD10435,2023-09-19,CUST0620,19.0,Home & Kitchen,Storage Rack,1,1105.96,0,East,Credit Card,3.0
+ORD11382,2023-04-24,CUST0046,26.0,Beauty,Hair Dryer,-1,1370.44,0,West,UPI,5.0
+ORD11898,2024-06-04,CUST0135,31.0,Beauty,Lipstick,1,630.62,0,South,Credit Card,4.0
+ORD10102,2024-08-03,CUST0066,52.0,Electronics,Smartwatch,1,3637.51,5,South,UPI,
+ORD11429,2023-05-30,CUST0353,42.0,Home & Kitchen,Non-stick Pan,1,2517.41,10,North,Credit Card,4.0
+ORD11550,2024-06-18,CUST0359,58.0,Beauty,Face Serum,2,969.89,5,South,Credit Card,4.0
+ORD11830,2024-12-21,CUST0203,46.0,Beauty,Sunscreen SPF50,1,919.0,20,South,Cash on Delivery,5.0
+ORD10229,2024-05-25,CUST0354,57.0,Home & Kitchen,LED Desk Lamp,3,2631.04,10,Central,Debit Card,5.0
+ORD10624,2024-07-02,CUST0233,21.0,Home & Kitchen,Blender,1,4459.01,0,South,UPI,5.0
+ORD10862,2024-02-12,CUST0819,49.0,Sports,Football,2,570.37,10,South,UPI,2.0
+ORD11430,2024-03-04,CUST0520,18.0,Home & Kitchen,Non-stick Pan,1,2150.59,0,East,UPI,5.0
+ORD10835,2024-11-21,CUST0558,37.0,Electronics,Wireless Earbuds,4,3436.64,10,North,Credit Card,4.0
+ORD11227,2024-05-26,CUST0632,40.0,Home & Kitchen,Cushion Cover,2,3374.94,0,South,UPI,4.0
+ORD11199,2023-04-16,CUST0477,40.0,Sports,Cricket Bat,1,1670.91,10,North,Credit Card,4.0
+ORD10351,2023-07-30,CUST0800,60.0,Fashion,Denim Jacket,1,3122.99,10,north,UPI,4.0
+ORD10465,2023-12-11,CUST0489,59.0,Fashion,Women's Dress,2,2217.79,10,Central,Credit Card,4.0
+ORD11368,2024-05-24,CUST0692,24.0,Electronics,Smartwatch,2,4460.48,10,south,Credit Card,4.0
+ORD10508,2023-01-08,CUST0497,44.0,Electronics,Power Bank,1,2565.2,10,South,Credit Card,5.0
+ORD10596,2024-04-12,CUST0302,61.0,Electronics,Wireless Earbuds,1,1217.46,0,North,UPI,5.0
+ORD11109,2023-10-01,CUST0572,52.0,Sports,Resistance Band,2,882.01,0,East,Credit Card,4.0
+ORD11273,2024-07-25,CUST0167,59.0,Electronics,Power Bank,1,5278.51,10,East,UPI,5.0
+ORD11544,2023-09-19,CUST0241,20.0,Beauty,Lipstick,1,1690.91,0,East,Credit Card,4.0
+ORD10234,2023-12-15,CUST0697,44.0,Electronics,Wireless Earbuds,1,2561.22,20,West,Debit Card,5.0
+ORD11644,2023-03-28,CUST0416,64.0,Electronics,Wireless Earbuds,3,1309.65,0,West,Debit Card,2.0
+ORD11125,2024-12-04,CUST0302,34.0,Fashion,Leather Wallet,1,1931.31,0,East,Debit Card,4.0
+ORD11388,2024-09-17,CUST0771,23.0,Fashion,Women's Dress,1,2918.36,10,South,Cash on Delivery,3.0
+ORD11184,2024-01-07,CUST0274,38.0,Electronics,Smartwatch,1,5881.49,10,West,Credit Card,5.0
+ORD11331,2024-08-18,CUST0029,24.0,Electronics,Bluetooth Speaker,1,879.47,0,South,Debit Card,5.0
+ORD10958,2023-06-04,CUST0200,32.0,Home & Kitchen,Cushion Cover,1,1815.76,0,North,Credit Card,5.0
+ORD10463,2024-09-24,CUST0395,22.0,Sports,Football,1,566.33,10,South,UPI,5.0
+ORD11801,2024-09-13,CUST0271,58.0,Electronics,Bluetooth Speaker,2,4517.18,15, North ,Cash on Delivery,4.0
+ORD11250,2023-07-04,CUST0207,20.0,Fashion,Women's Dress,1,2723.94,5,Central,Debit Card,
+ORD11588,2023-09-09,CUST0343,29.0,Electronics,Bluetooth Speaker,1,2342.28,0,North,Cash on Delivery,5.0
+ORD10284,2023-07-19,CUST0172,47.0,Home & Kitchen,Cushion Cover,1,2391.46,20,East,Credit Card,
+ORD10447,2023-03-08,CUST0095,56.0,Electronics,Bluetooth Speaker,1,5675.32,0,Central,Cash on Delivery,5.0
+ORD10654,2024-05-08,CUST0777,20.0,Electronics,Wireless Earbuds,1,1059.19,0,East,Cash on Delivery,4.0
+ORD10949,2023-06-11,CUST0555,49.0,Sports,Football,1,1102.63,0,Central,Credit Card,5.0
+ORD10065,2023-05-28,CUST0251,24.0,Electronics,Bluetooth Speaker,1,1765.98,20, East ,Credit Card,3.0
+ORD10059,2024-03-02,CUST0016,26.0,Sports,Cricket Bat,1,1959.93,0,South,Debit Card,5.0
+ORD10256,2023-04-13,CUST0614,45.0,Beauty,Shampoo 500ml,1,788.58,10,West,Debit Card,4.0
+ORD11119,2023-08-21,CUST0679,37.0,Beauty,Shampoo 500ml,2,1438.48,20,Central,Debit Card,2.0
+ORD10867,2024-08-20,CUST0638,37.0,Sports,Yoga Mat,1,1668.98,0,Central,UPI,4.0
+ORD10676,2023-07-02,CUST0134,26.0,Sports,Dumbbell Set,1,812.57,5,Central,Credit Card,3.0
+ORD11657,2023-07-28,CUST0186,22.0,Home & Kitchen,LED Desk Lamp,1,2720.14,0,South,Credit Card,3.0
+ORD10714,2024-03-12,CUST0380,63.0,Sports,Dumbbell Set,1,1183.63,0,South,Credit Card,4.0
+ORD10597,2024-01-08,CUST0099,57.0,Beauty,Lipstick,3,233.74,10,East,Debit Card,5.0
+ORD10770,2023-11-10,CUST0412,27.0,Electronics,Bluetooth Speaker,2,4963.76,0,Central,UPI,5.0
+ORD11876,2023-04-06,CUST0347,40.0,Fashion,Denim Jacket,1,2058.57,25,East,Debit Card,4.0
+ORD11662,2024-06-08,CUST0459,29.0,Electronics,Smartwatch,3,2691.18,0,North,Credit Card,4.0
+ORD10993,2023-04-23,CUST0586,,Home & Kitchen,Cushion Cover,2,4024.15,0,South,UPI,3.0
+ORD11270,2024-03-01,CUST0272,39.0,Fashion,Denim Jacket,1,2105.97,10, East ,Credit Card,
+ORD11288,2024-01-31,CUST0827,50.0,Home & Kitchen,Cushion Cover,3,1137.26,5,East,Debit Card,3.0
+ORD10205,2023-11-12,CUST0031,,Home & Kitchen,Cushion Cover,2,2040.59,0,South,UPI,5.0
+ORD10020,2023-04-23,CUST0723,55.0,Electronics,Bluetooth Speaker,-1,1400.55,10,South,UPI,5.0
+ORD10886,2024-01-14,CUST0337,31.0,Fashion,Women's Dress,1,568.94,0,West,Debit Card,5.0
+ORD11547,2023-12-22,CUST0390,19.0,Electronics,Bluetooth Speaker,1,5203.29,0,North,Credit Card,1.0
+ORD11532,2024-09-02,CUST0512,23.0,Fashion,Women's Dress,1,824.59,0,West,Net Banking,2.0
+ORD11274,2024-09-11,CUST0705,64.0,Fashion,Running Shoes,1,3177.74,10,East,Credit Card,4.0
+ORD10751,2023-02-08,CUST0346,22.0,Fashion,Denim Jacket,1,2311.32,0,East,Debit Card,2.0
+ORD11365,2023-12-22,CUST0175,28.0,Fashion,Men's T-Shirt,2,1244.4,0,West,UPI,5.0
+ORD11931,2024-11-12,CUST0846,43.0,Fashion,Denim Jacket,1,2968.27,5,,UPI,4.0
+ORD11761,2024-10-10,CUST0399,40.0,Fashion,Women's Dress,2,2391.58,5,Central,Debit Card,
+ORD10209,2024-05-06,CUST0501,25.0,Fashion,Men's T-Shirt,2,880.45,25,North,Debit Card,
+ORD10289,2024-02-03,CUST0221,42.0,Home & Kitchen,Blender,2,1615.97,0,North,Cash on Delivery,4.0
+ORD10985,2024-09-07,CUST0534,31.0,Fashion,Running Shoes,1,2242.31,10,East,Credit Card,1.0
+ORD10738,2023-11-01,CUST0718,20.0,Sports,Yoga Mat,2,849.67,0,South,Net Banking,4.0
+ORD10409,2024-05-15,CUST0749,54.0,Sports,Resistance Band,1,520.43,10,North,Net Banking,5.0
+ORD11554,2024-08-02,CUST0775,57.0,Electronics,Bluetooth Speaker,1,3306.58,20,central,Credit Card,5.0
+ORD10023,2023-04-13,CUST0409,58.0,Electronics,Wireless Earbuds,1,3284.96,0,South,Cash on Delivery,5.0
+ORD10205,2023-11-12,CUST0031,,Home & Kitchen,Cushion Cover,2,2040.59,0,South,UPI,5.0
+ORD11207,2023-07-10,CUST0847,52.0,Fashion,Leather Wallet,1,3176.67,0,North,Debit Card,5.0
+ORD10341,2024-01-03,CUST0380,18.0,Fashion,Leather Wallet,1,1972.7,0,West,UPI,
+ORD11566,2024-04-12,CUST0784,48.0,Home & Kitchen,Non-stick Pan,1,866.24,0,South,Credit Card,5.0
+ORD11243,2024-12-13,CUST0649,34.0,Home & Kitchen,Storage Rack,3,2672.86,0,West,Credit Card,5.0
+ORD11343,2024-09-16,CUST0051,43.0,Sports,Cricket Bat,5,1015.34,0,Central,UPI,3.0
+ORD10578,2024-12-23,CUST0056,52.0,Sports,Football,2,596.28,20,East,Credit Card,3.0
+ORD11147,2024-04-07,CUST0629,39.0,Beauty,Shampoo 500ml,1,1424.73,25,East,Cash on Delivery,5.0
+ORD10532,2023-11-13,CUST0314,35.0,Electronics,Bluetooth Speaker,3,1265.5,10,North,Debit Card,4.0
+ORD10629,2024-06-27,CUST0467,27.0,Fashion,Running Shoes,1,2237.15,0,North,Credit Card,5.0
+ORD10082,2023-08-21,CUST0681,51.0,Sports,Dumbbell Set,2,1221.68,10,south,UPI,5.0
+ORD10662,2023-06-02,CUST0725,52.0,Beauty,Face Serum,1,859.31,10,North,Debit Card,4.0
+ORD10052,2023-05-16,CUST0056,44.0,Beauty,Hair Dryer,1,1726.33,0,North,Credit Card,3.0
+ORD11992,2024-04-22,CUST0070,46.0,Fashion,Women's Dress,1,3167.16,0,West,UPI,4.0
+ORD11263,2024-04-30,CUST0358,34.0,Fashion,Women's Dress,1,1893.22,10,West,UPI,5.0
+ORD11708,2023-03-30,CUST0822,32.0,Electronics,Bluetooth Speaker,1,1136.71,10,South,Net Banking,5.0
+ORD11460,2024-09-16,CUST0020,39.0,Beauty,Face Serum,3,1598.73,0,Central,Debit Card,4.0
+ORD10562,2024-08-01,CUST0157,60.0,Electronics,Power Bank,1,1823.73,0,West,UPI,
+ORD10095,2023-01-20,CUST0137,49.0,Home & Kitchen,Non-stick Pan,2,2384.95,0,South,UPI,3.0
+ORD11860,2023-04-11,CUST0810,46.0,Fashion,Denim Jacket,1,475.8,0,South,UPI,3.0
+ORD11272,2024-01-09,CUST0705,64.0,Home & Kitchen,Storage Rack,2,471.15,0,North,Cash on Delivery,2.0
+ORD10932,2024-05-23,CUST0519,19.0,Electronics,Smartwatch,1,5642.68,0,Central,Debit Card,4.0
+ORD11005,2023-10-02,CUST0632,44.0,Fashion,Women's Dress,1,728.15,0,Central,Debit Card,4.0
+ORD11819,2023-06-09,CUST0251,28.0,Fashion,Women's Dress,5,2506.05,0,North,Cash on Delivery,
+ORD11642,2024-04-05,CUST0161,19.0,Sports,Yoga Mat,2,2768.62,10,Central,Net Banking,
+ORD11069,2023-08-24,CUST0620,21.0,Fashion,Men's T-Shirt,1,1543.65,0,North,Cash on Delivery,4.0
+ORD11667,2023-10-13,CUST0049,,Fashion,Denim Jacket,3,746.53,10,South,UPI,5.0
+ORD10599,2023-10-23,CUST0328,33.0,Electronics,Smartwatch,1,4105.52,5,North,Credit Card,2.0
+ORD11007,2023-09-01,CUST0222,19.0,Home & Kitchen,LED Desk Lamp,1,2387.39,20,North,UPI,5.0
+ORD11537,2023-03-18,CUST0657,36.0,Fashion,Men's T-Shirt,1,2354.46,15,East,UPI,5.0
+ORD10680,2023-05-16,CUST0117,61.0,Home & Kitchen,Storage Rack,2,2783.04,0,Central,UPI,3.0
+ORD11741,2024-09-05,CUST0107,46.0,Home & Kitchen,Non-stick Pan,2,2199.26,20,North,Credit Card,4.0
+ORD11031,2024-02-18,CUST0746,24.0,Sports,Football,1,548.78,0,South,Debit Card,5.0
+ORD10161,2023-02-14,CUST0499,31.0,Electronics,Smartwatch,1,2718.17,0,East,Debit Card,4.0
+ORD11290,2024-01-26,CUST0697,57.0,Electronics,Smartwatch,1,4049.4,0,north,UPI,5.0
+ORD10775,2024-06-03,CUST0430,,Fashion,Men's T-Shirt,2,2646.36,0,West,Credit Card,5.0
+ORD10706,2024-08-22,CUST0294,38.0,Electronics,Smartwatch,2,4214.52,0,South,Credit Card,4.0
+ORD10665,2024-11-12,CUST0546,61.0,Electronics,Power Bank,2,4191.92,0,West,,3.0
+ORD11813,2024-12-08,CUST0437,26.0,Fashion,Women's Dress,1,486.65,0,East,Credit Card,5.0
+ORD11564,2024-08-26,CUST0661,27.0,Beauty,Shampoo 500ml,2,1174.15,0,East,Credit Card,5.0
+ORD10287,2023-05-15,CUST0385,56.0,Fashion,Running Shoes,1,872.65,15, East ,UPI,3.0
+ORD10881,2023-10-30,CUST0256,25.0,Fashion,Women's Dress,1,1523.72,0,South,Debit Card,5.0
+ORD10725,2024-05-12,CUST0574,52.0,Beauty,Hair Dryer,1,1511.9,5,North,Credit Card,4.0
+ORD10017,2024-11-06,CUST0667,47.0,Electronics,Smartwatch,1,929.27,20,Central,Net Banking,4.0
+ORD11246,2023-05-04,CUST0597,59.0,Electronics,Power Bank,1,1732.13,0,North,Credit Card,4.0
+ORD11565,2024-11-05,CUST0016,60.0,Electronics,Bluetooth Speaker,5,5663.8,0,North,UPI,4.0
+ORD10746,2024-04-02,CUST0526,32.0,Electronics,Smartwatch,3,2270.82,15,South,UPI,5.0
+ORD11864,2023-06-30,CUST0510,29.0,Fashion,Leather Wallet,1,1316.18,0,Central,Credit Card,5.0
+ORD11164,2023-12-10,CUST0362,53.0,Fashion,Leather Wallet,1,2495.7,0,South,Debit Card,4.0
+ORD11160,2024-10-14,CUST0809,63.0,Sports,Dumbbell Set,2,754.14,25,West,UPI,
+ORD10136,2024-07-08,CUST0132,22.0,Electronics,Wireless Earbuds,1,3680.7,0,East,Credit Card,5.0
+ORD11877,2024-12-14,CUST0320,51.0,Fashion,Denim Jacket,1,1957.47,0,West,Cash on Delivery,4.0
+ORD10681,2024-04-03,CUST0420,32.0,Sports,Resistance Band,1,1649.64,10,East,Debit Card,5.0
+ORD10111,2023-06-25,CUST0314,58.0,Beauty,Lipstick,3,796.9,0,north,UPI,3.0
+ORD10212,2023-09-03,CUST0241,57.0,Fashion,Men's T-Shirt,4,436.61,0,South,UPI,3.0
+ORD11190,2023-07-31,CUST0371,30.0,Home & Kitchen,Cushion Cover,1,1537.89,0,South,Credit Card,4.0
+ORD11779,2024-10-12,CUST0700,53.0,Home & Kitchen,Non-stick Pan,3,412.53,0,North,Net Banking,2.0
+ORD11018,2023-01-08,CUST0200,20.0,Home & Kitchen,Cushion Cover,1,3742.5,5,North,UPI,5.0
+ORD10089,2024-05-11,CUST0225,34.0,Electronics,Smartphone Case,1,1913.28,15,South,Credit Card,4.0
+ORD11856,2023-07-04,CUST0472,28.0,Electronics,Smartphone Case,1,1869.55,20,West,UPI,5.0
+ORD10299,2023-08-04,CUST0686,63.0,Sports,Dumbbell Set,3,2048.46,10,west,UPI,5.0
+ORD11968,2023-02-17,CUST0255,47.0,Fashion,Running Shoes,5,1224.98,0,East,UPI,
+ORD11238,2024-12-07,CUST0274,38.0,Fashion,Denim Jacket,1,2615.21,10,North,Credit Card,4.0
+ORD10603,2024-03-08,CUST0262,49.0,Sports,Cricket Bat,2,2348.45,0,Central,Credit Card,5.0
+ORD11396,2024-08-14,CUST0478,44.0,Electronics,Smartphone Case,1,3708.04,0,North,Debit Card,5.0
+ORD10888,2023-05-11,CUST0725,20.0,Home & Kitchen,LED Desk Lamp,1,2329.14,10,Central,UPI,3.0
+ORD10104,2023-02-16,CUST0077,23.0,Electronics,Smartwatch,1,1814.65,10,Central,Cash on Delivery,3.0
+ORD11495,2023-01-29,CUST0101,48.0,Beauty,Sunscreen SPF50,1,158.44,10,East,UPI,4.0
+ORD11759,2023-07-28,CUST0110,24.0,Electronics,Power Bank,1,5900.39,0,South,UPI,
+ORD10046,2024-08-23,CUST0200,60.0,Sports,Cricket Bat,2,2107.09,10,West,Net Banking,
+ORD11999,2023-01-10,CUST0830,46.0,Sports,Football,3,1648.92,0,West,Cash on Delivery,4.0
+ORD11943,2023-12-01,CUST0658,41.0,Electronics,Smartwatch,3,1831.01,5,Central,Credit Card,4.0
+ORD11769,2024-05-30,CUST0128,41.0,Beauty,Hair Dryer,2,481.4,0,North,,4.0
+ORD10903,2024-06-21,CUST0439,45.0,Electronics,Wireless Earbuds,2,2540.79,0,east,UPI,4.0
+ORD10529,2024-06-22,CUST0012,56.0,Electronics,Smartphone Case,3,5248.26,5,South,UPI,4.0
+ORD11919,2024-11-10,CUST0586,28.0,Fashion,Running Shoes,2,1145.5,15,West,UPI,4.0
+ORD11622,2023-12-31,CUST0235,59.0,Beauty,Hair Dryer,1,1653.16,0,West,Cash on Delivery,4.0
+ORD10482,2024-12-14,CUST0447,22.0,Electronics,Power Bank,1,876.69,0,North,Credit Card,4.0
+ORD11672,2024-01-28,CUST0330,47.0,Electronics,Smartwatch,3,3076.37,0,South,UPI,5.0
+ORD11552,2023-12-17,CUST0811,29.0,Beauty,Hair Dryer,1,983.82,0,South,Credit Card,5.0
+ORD10892,2024-05-17,CUST0372,49.0,Home & Kitchen,Blender,1,4357.51,0,East,Debit Card,2.0
+ORD10572,2023-09-05,CUST0693,28.0,Electronics,Wireless Earbuds,3,1503.69,0,West,Debit Card,4.0
+ORD10111,2023-06-25,CUST0314,58.0,Beauty,Lipstick,3,796.9,0,north,UPI,3.0
+ORD11481,2023-12-06,CUST0700,57.0,Electronics,Smartwatch,1,1959.3,25,West,Credit Card,5.0
+ORD11842,2024-05-09,CUST0034,54.0,Home & Kitchen,LED Desk Lamp,1,3963.6,0,West,Debit Card,5.0
+ORD10828,2024-02-10,CUST0201,29.0,Home & Kitchen,LED Desk Lamp,4,1699.9,10,North,Credit Card,4.0
+ORD11692,2024-05-06,CUST0282,21.0,Fashion,Leather Wallet,1,900.47,5,West,Credit Card,5.0
+ORD11360,2023-05-25,CUST0655,35.0,Electronics,Smartwatch,2,868.98,25,South,Credit Card,4.0
+ORD11840,2024-11-06,CUST0834,59.0,Beauty,Face Serum,1,545.85,10,North,Cash on Delivery,
+ORD11139,2024-11-28,CUST0178,29.0,Electronics,Smartwatch,1,2434.98,0,South,Debit Card,3.0
+ORD10063,2023-05-30,CUST0511,18.0,Electronics,Wireless Earbuds,3,4666.72,0,East,UPI,4.0
+ORD11712,2023-08-16,CUST0482,28.0,Fashion,Denim Jacket,1,2163.19,10,,Debit Card,4.0
+ORD10333,2023-12-05,CUST0779,56.0,Fashion,Leather Wallet,2,2888.2,15,East,Credit Card,5.0
+ORD10002,2023-06-15,CUST0038,41.0,Fashion,Running Shoes,1,597.83,20,West,Credit Card,4.0
+ORD11379,2023-02-03,CUST0265,53.0,Home & Kitchen,Blender,3,1404.9,10,Central,Cash on Delivery,5.0
+ORD11131,2023-08-21,CUST0513,64.0,Beauty,Hair Dryer,2,1165.71,10,West,UPI,5.0
+ORD10143,2023-04-20,CUST0379,19.0,Sports,Cricket Bat,2,1557.09,0,West,UPI,5.0
+ORD11650,2024-06-11,CUST0309,62.0,Sports,Football,1,413.32,0,West,Credit Card,4.0
+ORD10922,2024-03-06,CUST0596,,Home & Kitchen,Cushion Cover,2,3619.5,10,North,Net Banking,5.0
+ORD10925,2023-08-24,CUST0717,38.0,Fashion,Women's Dress,2,1478.85,5,South,UPI,3.0
+ORD11027,2024-07-20,CUST0523,25.0,Electronics,Bluetooth Speaker,1,5351.27,15,north,UPI,3.0
+ORD11168,2023-03-15,CUST0419,61.0,Fashion,Women's Dress,1,2493.77,0,Central,UPI,
+ORD10992,2023-07-22,CUST0765,41.0,Fashion,Men's T-Shirt,1,1241.9,5,east,UPI,5.0
+ORD10199,2023-02-05,CUST0588,53.0,Sports,Yoga Mat,1,964.29,0,,UPI,3.0
+ORD10461,2024-10-26,CUST0233,38.0,Fashion,Denim Jacket,1,2919.69,10,South,Credit Card,4.0
+ORD10160,2023-02-19,CUST0457,58.0,Home & Kitchen,Storage Rack,4,1723.87,10,North,UPI,4.0
+ORD11074,2024-05-04,CUST0008,26.0,Beauty,Lipstick,1,919.29,15,North,Credit Card,5.0
+ORD11046,2023-02-03,CUST0613,38.0,Electronics,Smartwatch,1,5159.1,0,West,Debit Card,5.0
+ORD11747,2023-12-22,CUST0547,56.0,Home & Kitchen,Cushion Cover,2,3690.16,0,West,Net Banking,5.0
+ORD11629,2023-12-09,CUST0298,63.0,Electronics,Wireless Earbuds,1,2043.15,0,South,Cash on Delivery,3.0
+ORD10084,2023-05-03,CUST0637,43.0,Beauty,Lipstick,1,1039.25,0,South,Debit Card,4.0
+ORD11984,2024-08-14,CUST0729,51.0,Sports,Cricket Bat,1,389.59,5,South,Credit Card,3.0
+ORD11535,2023-04-04,CUST0785,39.0,Beauty,Shampoo 500ml,1,1432.11,5,West,UPI,2.0
+ORD11682,2024-07-30,CUST0579,51.0,Sports,Football,1,2884.86,10,central,Debit Card,1.0
+ORD11345,2023-03-12,CUST0368,63.0,Home & Kitchen,Non-stick Pan,1,1454.42,0,East,UPI,5.0
+ORD10428,2024-05-01,CUST0584,40.0,Electronics,Wireless Earbuds,1,3404.52,0,Central,UPI,
+ORD10290,2023-07-13,CUST0680,37.0,Electronics,Smartphone Case,1,2706.97,10,South,Cash on Delivery,4.0
+ORD10530,2024-02-25,CUST0082,27.0,Sports,Football,1,511.68,10,North,Net Banking,4.0
+ORD11483,2024-07-08,CUST0762,40.0,Home & Kitchen,Cushion Cover,1,463.42,15,South,Credit Card,
+ORD11214,2023-02-13,CUST0017,60.0,Electronics,Power Bank,2,3826.24,0,West,Debit Card,3.0
+ORD11334,2024-04-30,CUST0021,53.0,Fashion,Men's T-Shirt,1,1952.29,20,South,Debit Card,5.0
+ORD10600,2024-03-01,CUST0676,59.0,Sports,Dumbbell Set,2,1481.2,0,East,Debit Card,5.0
+ORD10402,2023-06-15,CUST0653,47.0,Home & Kitchen,Cushion Cover,1,2843.48,10,North,UPI,5.0
+ORD10640,2024-06-12,CUST0526,47.0,Electronics,Smartwatch,5,3132.87,5,West,Debit Card,
+ORD10155,2023-07-21,CUST0427,52.0,Electronics,Power Bank,1,2953.72,15,Central,UPI,3.0
+ORD11590,2023-08-30,CUST0090,24.0,Electronics,Smartwatch,2,5662.73,10,West,Credit Card,
+ORD11488,2024-10-02,CUST0092,41.0,Home & Kitchen,Cushion Cover,1,3280.14,10,South,Cash on Delivery,4.0
+ORD11683,2023-09-01,CUST0696,28.0,Home & Kitchen,Cushion Cover,4,896.18,10,North,Credit Card,3.0
+ORD10296,2024-04-02,CUST0326,20.0,Beauty,Sunscreen SPF50,2,183.61,10,South,UPI,
+ORD11437,2024-02-18,CUST0054,39.0,Home & Kitchen,Non-stick Pan,1,3182.36,0,West,UPI,4.0
+ORD11640,2024-02-26,CUST0775,34.0,Fashion,Women's Dress,2,3019.49,5,West,Credit Card,4.0
+ORD10847,2023-12-18,CUST0464,36.0,Fashion,Running Shoes,1,1990.74,0,South,Credit Card,3.0
+ORD10971,2023-07-21,CUST0107,60.0,Fashion,Women's Dress,2,2381.93,10,North,Debit Card,4.0
+ORD11881,2023-08-16,CUST0799,53.0,Sports,Cricket Bat,1,490.34,10,Central,Net Banking,4.0
+ORD11465,2024-06-21,CUST0280,32.0,Sports,Cricket Bat,4,571.99,10,North,UPI,5.0
+ORD11428,2023-09-03,CUST0044,38.0,Home & Kitchen,Non-stick Pan,-1,,10,East,UPI,4.0
+ORD10633,2024-12-13,CUST0329,55.0,Beauty,Face Serum,1,1135.84,15,South,Credit Card,3.0
+ORD11209,2024-07-14,CUST0845,63.0,Fashion,Men's T-Shirt,1,1738.45,0,West,Debit Card,5.0
+ORD10576,2024-07-02,CUST0642,47.0,Fashion,Women's Dress,1,2579.47,10,West,Credit Card,4.0
+ORD10699,2024-02-02,CUST0543,20.0,Home & Kitchen,Blender,2,796.49,0,West,Credit Card,4.0
+ORD10825,2023-04-30,CUST0555,30.0,Fashion,Women's Dress,2,2902.87,0,east,UPI,3.0
+ORD10315,2024-07-06,CUST0139,53.0,Electronics,Bluetooth Speaker,1,1616.46,5,Central,UPI,5.0
+ORD11021,2023-05-12,CUST0743,30.0,Fashion,Men's T-Shirt,1,2563.62,0,Central,UPI,4.0
+ORD11401,2024-12-19,CUST0288,41.0,Fashion,Denim Jacket,3,2142.03,0,North,Net Banking,4.0
+ORD11499,2023-10-02,CUST0547,29.0,Fashion,Denim Jacket,2,2868.13,25,Central,UPI,4.0
+ORD10427,2023-06-25,CUST0293,35.0,Home & Kitchen,Blender,1,2907.63,5,Central,Credit Card,5.0
+ORD11422,2024-08-31,CUST0178,64.0,Home & Kitchen,LED Desk Lamp,1,551.75,20,East,Cash on Delivery,4.0
+ORD10176,2024-06-09,CUST0503,36.0,Home & Kitchen,Storage Rack,1,2923.99,0,Central,Debit Card,
+ORD11726,2023-02-10,CUST0272,31.0,Fashion,Men's T-Shirt,1,3016.1,10,South,Credit Card,
+ORD10594,2023-12-05,CUST0465,41.0,Electronics,Bluetooth Speaker,4,4712.21,15, North ,Credit Card,3.0
+ORD10841,2023-12-12,CUST0552,59.0,Fashion,Leather Wallet,2,859.55,0,South,UPI,3.0
+ORD10491,2024-10-23,CUST0298,23.0,Electronics,Smartwatch,1,1243.15,10, West ,UPI,4.0
+ORD10522,2024-12-19,CUST0669,56.0,Home & Kitchen,Storage Rack,2,4112.97,15,East,UPI,
+ORD10737,2024-03-17,CUST0433,24.0,Beauty,Hair Dryer,1,367.98,5,West,Net Banking,3.0
+ORD10492,2024-01-01,CUST0225,51.0,Electronics,Bluetooth Speaker,2,935.47,0,Central,Cash on Delivery,4.0
+ORD10423,2023-04-08,CUST0008,50.0,Electronics,Power Bank,1,5798.1,10,Central,Credit Card,4.0
+ORD10811,2023-05-13,CUST0125,37.0,Home & Kitchen,Blender,1,3225.99,0,North,UPI,
+ORD10768,2023-10-04,CUST0226,29.0,Home & Kitchen,Storage Rack,1,416.12,5,East,Credit Card,3.0
+ORD11039,2023-07-26,CUST0471,64.0,Home & Kitchen,Blender,2,1810.36,10,East,Net Banking,
+ORD10444,2023-05-16,CUST0132,30.0,Home & Kitchen,LED Desk Lamp,2,1962.22,0,South,UPI,3.0
+ORD10805,2023-09-16,CUST0158,36.0,Electronics,Smartwatch,1,3335.67,0,East,Debit Card,
+ORD11910,2023-11-16,CUST0047,48.0,Home & Kitchen,LED Desk Lamp,2,2058.75,10,West,Net Banking,5.0
+ORD11729,2024-10-18,CUST0810,18.0,Fashion,Men's T-Shirt,1,2478.66,15,East,Credit Card,
+ORD10055,2024-11-10,CUST0527,51.0,Fashion,Women's Dress,2,1828.39,15,North,Credit Card,
+ORD11925,2024-05-10,CUST0404,19.0,Home & Kitchen,Non-stick Pan,1,950.62,10,South,UPI,3.0
+ORD11409,2023-06-26,CUST0486,60.0,Home & Kitchen,Blender,1,3777.24,5,South,UPI,3.0
+ORD11569,2023-05-16,CUST0173,,Sports,Resistance Band,2,702.32,0,South,Credit Card,4.0
+ORD10227,2024-05-19,CUST0310,52.0,Home & Kitchen,Non-stick Pan,2,621.88,10,west,Credit Card,5.0
+ORD10855,2023-04-04,CUST0283,27.0,Beauty,Face Serum,1,443.67,0,West,Credit Card,4.0
+ORD10641,2023-10-01,CUST0048,57.0,Electronics,Smartwatch,1,4473.01,15,,UPI,5.0
+ORD10410,2023-08-24,CUST0324,25.0,Home & Kitchen,Cushion Cover,3,1457.15,0,East,Debit Card,5.0
+ORD10013,2024-11-26,CUST0759,28.0,Fashion,Women's Dress,1,1996.68,0, Central ,Debit Card,5.0
+ORD11639,2024-01-22,CUST0358,41.0,Home & Kitchen,LED Desk Lamp,1,1738.1,0,North,,5.0
+ORD10405,2024-08-06,CUST0707,50.0,Sports,Football,1,1703.01,0,South,Net Banking,5.0
+ORD11717,2023-10-25,CUST0688,20.0,Fashion,Leather Wallet,1,2259.78,10,East,Credit Card,
+ORD10074,2024-01-23,CUST0550,26.0,Sports,Cricket Bat,1,2280.9,5,East,Cash on Delivery,4.0
+ORD10196,2023-08-07,CUST0650,28.0,Electronics,Power Bank,1,3686.22,10,North,Net Banking,2.0
+ORD10400,2023-08-04,CUST0404,41.0,Home & Kitchen,Non-stick Pan,1,2092.27,5,Central,UPI,4.0
+ORD10309,2024-08-21,CUST0468,59.0,Electronics,Power Bank,1,815.92,10,East,Credit Card,3.0
+ORD11811,2023-06-13,CUST0297,44.0,Beauty,Sunscreen SPF50,4,245.32,5,North,Credit Card,5.0
+ORD10921,2024-05-16,CUST0102,18.0,Electronics,Bluetooth Speaker,1,2457.05,15,West,Net Banking,3.0
+ORD10878,2024-04-24,CUST0609,22.0,Fashion,Leather Wallet,1,3347.05,5,,UPI,5.0
+ORD11181,2023-04-29,CUST0764,40.0,Beauty,Hair Dryer,1,993.92,0,East,Credit Card,5.0
+ORD10873,2023-04-19,CUST0438,33.0,Fashion,Women's Dress,1,571.64,0,Central,Debit Card,5.0
+ORD10216,2024-10-11,CUST0485,23.0,Electronics,Smartphone Case,2,4762.78,0,South,Debit Card,4.0
+ORD11909,2024-07-28,CUST0306,46.0,Fashion,Men's T-Shirt,3,1104.73,20,East,Credit Card,4.0
+ORD11352,2023-04-09,CUST0513,20.0,Beauty,Lipstick,1,866.06,15,North,Credit Card,5.0
+ORD10164,2024-05-28,CUST0034,50.0,Fashion,Denim Jacket,1,690.11,20,East,Credit Card,3.0
+ORD11085,2023-02-01,CUST0150,61.0,Electronics,Bluetooth Speaker,1,3724.5,20,North,Net Banking,3.0
+ORD11372,2023-12-16,CUST0695,33.0,Sports,Dumbbell Set,1,2306.67,0,South,Debit Card,
+ORD10560,2023-04-18,CUST0278,32.0,Beauty,Hair Dryer,2,1281.88,10,South,Debit Card,5.0
+ORD11060,2023-03-13,CUST0042,24.0,Beauty,Face Serum,1,1082.5,15,East,UPI,4.0
+ORD11624,2023-12-29,CUST0492,63.0,Electronics,Wireless Earbuds,2,5787.13,0,North,UPI,5.0
+ORD10539,2023-02-03,CUST0260,60.0,Fashion,Denim Jacket,1,3380.75,20,West,Cash on Delivery,4.0
+ORD10814,2024-01-25,CUST0578,42.0,Fashion,Women's Dress,1,1180.27,0,West,UPI,5.0
+ORD11016,2024-01-15,CUST0810,28.0,Beauty,Sunscreen SPF50,2,679.75,10,East,Credit Card,5.0
+ORD11795,2024-02-26,CUST0623,35.0,Fashion,Leather Wallet,3,1045.32,10,North,UPI,4.0
+ORD10281,2024-09-24,CUST0031,51.0,Electronics,Smartwatch,2,2599.2,0,East,UPI,4.0
+ORD11958,2024-12-19,CUST0190,59.0,Home & Kitchen,Storage Rack,1,3202.98,0,South,Cash on Delivery,3.0
+ORD10497,2024-07-18,CUST0467,63.0,Fashion,Denim Jacket,4,2614.33,0,West,UPI,3.0
+ORD10312,2024-05-19,CUST0500,54.0,Sports,Dumbbell Set,1,917.64,10,west,Credit Card,4.0
+ORD10132,2023-03-11,CUST0545,36.0,Electronics,Wireless Earbuds,1,,0,North,Debit Card,3.0
+ORD10252,2024-07-05,CUST0131,61.0,Sports,Resistance Band,3,1682.36,0,East,UPI,
+ORD11737,2023-07-27,CUST0055,47.0,Electronics,Smartphone Case,5,2064.2,0,West,Cash on Delivery,5.0
+ORD10495,2024-04-22,CUST0828,20.0,Fashion,Men's T-Shirt,1,,0,South,Cash on Delivery,3.0
+ORD11231,2023-08-17,CUST0633,49.0,Beauty,Lipstick,1,623.19,20,North,Net Banking,5.0
+ORD11617,2023-01-03,CUST0385,36.0,Electronics,Smartwatch,2,2970.32,0,East,Credit Card,3.0
+ORD10137,2023-11-21,CUST0616,24.0,Home & Kitchen,Blender,1,3671.56,15,North,Credit Card,5.0
+ORD11654,2023-12-14,CUST0732,32.0,Fashion,Denim Jacket,1,777.21,0,South,Net Banking,5.0
+ORD10648,2024-09-01,CUST0274,21.0,Electronics,Bluetooth Speaker,1,5256.46,0,West,UPI,3.0
+ORD11344,2023-09-17,CUST0772,44.0,Electronics,Smartwatch,1,2990.41,10,Central,Credit Card,4.0
+ORD10970,2023-04-15,CUST0239,,Fashion,Men's T-Shirt,2,3100.25,5,South,Cash on Delivery,5.0
+ORD10585,2024-02-22,CUST0681,37.0,Home & Kitchen,Blender,1,1369.59,0,South,UPI,4.0
+ORD11774,2023-04-05,CUST0568,34.0,Beauty,Lipstick,3,600.15,0,West,Credit Card,
+ORD11241,2023-01-30,CUST0422,,Sports,Yoga Mat,1,2732.25,10,East,UPI,5.0
+ORD11964,2023-04-09,CUST0319,35.0,Electronics,Smartphone Case,3,2327.87,10,South,UPI,4.0
+ORD10360,2023-08-24,CUST0648,62.0,Fashion,Running Shoes,1,479.15,10,Central,Credit Card,5.0
+ORD10967,2023-03-15,CUST0767,21.0,Electronics,Smartwatch,1,4626.81,0,East,UPI,5.0
+ORD11826,2023-06-20,CUST0291,29.0,Electronics,Wireless Earbuds,3,3970.17,0,South,Credit Card,3.0
+ORD10998,2023-04-25,CUST0251,22.0,Beauty,Shampoo 500ml,4,948.14,0,South,Net Banking,5.0
+ORD10708,2024-11-03,CUST0539,45.0,Home & Kitchen,Blender,2,3292.67,5,South,Net Banking,
+ORD11389,2023-01-27,CUST0474,38.0,Home & Kitchen,Blender,1,2998.45,0,South,UPI,1.0
+ORD10240,2024-03-06,CUST0567,26.0,Beauty,Face Serum,1,,5,East,UPI,5.0
+ORD10351,2023-07-30,CUST0800,60.0,Fashion,Denim Jacket,1,3122.99,10,north,UPI,4.0
+ORD11150,2023-01-05,CUST0826,33.0,Fashion,Denim Jacket,1,1298.11,20,South,Credit Card,4.0
+ORD10995,2024-02-15,CUST0500,32.0,Electronics,Smartphone Case,5,2522.8,10,South,UPI,5.0
+ORD11166,2024-07-08,CUST0518,63.0,Home & Kitchen,Blender,1,645.55,0,West,Debit Card,3.0
+ORD10973,2023-08-07,CUST0470,46.0,Fashion,Denim Jacket,1,1908.68,0,North,Debit Card,4.0
+ORD10980,2023-12-06,CUST0076,24.0,Electronics,Bluetooth Speaker,1,5707.9,10,West,Credit Card,4.0
+ORD11932,2023-04-05,CUST0596,30.0,Fashion,Running Shoes,1,1523.88,0,West,UPI,4.0
+ORD11371,2024-02-16,CUST0709,23.0,Home & Kitchen,Cushion Cover,2,3992.84,10,Central,UPI,4.0
+ORD10660,2024-07-19,CUST0816,48.0,Sports,Yoga Mat,4,1892.18,0,South,,5.0
+ORD10900,2023-12-10,CUST0334,58.0,Electronics,Bluetooth Speaker,1,3422.2,10,Central,UPI,4.0
+ORD11303,2024-06-08,CUST0039,58.0,Electronics,Wireless Earbuds,2,1213.15,10,South,Credit Card,4.0
+ORD10571,2024-10-16,CUST0734,33.0,Fashion,Men's T-Shirt,4,3415.79,10,East,Cash on Delivery,
+ORD10977,2023-08-11,CUST0281,46.0,Beauty,Hair Dryer,3,1323.41,0, East ,Cash on Delivery,4.0
+ORD11282,2023-12-27,CUST0456,20.0,Electronics,Power Bank,1,1395.97,0,west,Net Banking,3.0
+ORD11580,2023-02-13,CUST0474,41.0,Fashion,Women's Dress,1,2843.85,10,East,Cash on Delivery,5.0
+ORD10650,2024-08-21,CUST0824,30.0,Electronics,Bluetooth Speaker,1,3538.52,0, East ,,4.0
+ORD10558,2023-07-17,CUST0500,58.0,Fashion,Men's T-Shirt,3,2892.93,10,Central,Credit Card,1.0
+ORD11549,2023-04-13,CUST0824,24.0,Electronics,Smartwatch,1,2466.61,0,East,Net Banking,
+ORD11447,2023-02-08,CUST0378,39.0,Home & Kitchen,Storage Rack,3,563.83,0,North,Credit Card,5.0
+ORD10028,2024-06-16,CUST0104,23.0,Fashion,Men's T-Shirt,5,3302.03,10,North,Net Banking,4.0
+ORD10426,2023-11-29,CUST0264,25.0,Fashion,Women's Dress,2,541.3,10,North,Credit Card,4.0
+ORD11748,2024-05-31,CUST0720,38.0,Beauty,Shampoo 500ml,1,205.85,0,East,Debit Card,1.0
+ORD11113,2023-01-03,CUST0182,26.0,Fashion,Women's Dress,1,3350.48,25,East,UPI,
+ORD10639,2024-12-02,CUST0591,41.0,Electronics,Bluetooth Speaker,3,5009.56,0,North,Debit Card,5.0
+ORD11579,2023-10-21,CUST0694,20.0,Beauty,Sunscreen SPF50,2,1758.9,10,Central,Debit Card,2.0
+ORD10488,2024-12-08,CUST0526,45.0,Electronics,Wireless Earbuds,1,4222.85,0,East,Debit Card,4.0
+ORD10988,2024-08-11,CUST0036,61.0,Electronics,Wireless Earbuds,2,5982.04,0,South,Credit Card,3.0
+ORD11872,2023-09-16,CUST0557,26.0,Beauty,Sunscreen SPF50,1,,10, West ,Credit Card,4.0
+ORD11105,2023-09-10,CUST0153,27.0,Beauty,Hair Dryer,1,1075.72,10,Central,Credit Card,1.0
+ORD11271,2024-10-13,CUST0119,45.0,Electronics,Smartphone Case,2,2184.04,10,Central,Credit Card,3.0
+ORD10496,2024-06-11,CUST0507,31.0,Electronics,Bluetooth Speaker,1,3784.3,0,West,UPI,4.0
+ORD10598,2023-04-28,CUST0466,37.0,Sports,Yoga Mat,5,1772.56,0,South,Credit Card,4.0
+ORD11103,2024-07-30,CUST0800,63.0,Electronics,Wireless Earbuds,1,4914.38,0,Central,UPI,3.0
+ORD11029,2024-10-14,CUST0749,29.0,Fashion,Running Shoes,3,1080.27,0,Central,Debit Card,5.0
+ORD10091,2023-10-20,CUST0497,55.0,Electronics,Smartphone Case,6,2484.47,5,Central,UPI,4.0
+ORD10051,2023-08-24,CUST0767,49.0,Electronics,Smartphone Case,2,1608.3,0,Central,Debit Card,5.0
+ORD10790,2023-11-24,CUST0070,40.0,Sports,Football,1,2647.94,0,North,Credit Card,5.0
+ORD10263,2024-02-25,CUST0146,18.0,Fashion,Men's T-Shirt,2,2293.56,0,South,Credit Card,5.0
+ORD10712,2023-12-14,CUST0527,48.0,Home & Kitchen,Storage Rack,1,2174.67,0,North,Credit Card,4.0
+ORD11195,2023-07-21,CUST0693,47.0,Fashion,Leather Wallet,1,1555.53,10,Central,Credit Card,5.0
+ORD11126,2024-07-27,CUST0434,39.0,Electronics,Wireless Earbuds,1,3385.41,10,South,Cash on Delivery,4.0
+ORD10149,2024-09-16,CUST0224,35.0,Electronics,Bluetooth Speaker,1,2827.43,0,West,Credit Card,5.0
+ORD11574,2024-11-29,CUST0416,57.0,Sports,Yoga Mat,2,2409.18,10,Central,UPI,4.0
+ORD10391,2023-03-22,CUST0177,54.0,Home & Kitchen,Storage Rack,1,531.85,5,West,Credit Card,5.0
+ORD11698,2024-08-09,CUST0158,31.0,Electronics,Wireless Earbuds,2,3675.04,0,South,Cash on Delivery,2.0
+ORD10079,2023-07-08,CUST0658,50.0,Electronics,Smartphone Case,1,3847.0,0,West,Net Banking,1.0
+ORD11948,2024-11-28,CUST0162,45.0,Beauty,Shampoo 500ml,2,508.28,0,Central,Credit Card,3.0
+ORD10871,2024-08-13,CUST0325,52.0,Fashion,Men's T-Shirt,1,2356.41,0,West,Credit Card,
+ORD11277,2024-03-13,CUST0788,47.0,Sports,Resistance Band,3,2759.61,0,North,Credit Card,
+ORD10036,2024-04-18,CUST0428,57.0,Home & Kitchen,LED Desk Lamp,1,3607.22,0,West,Net Banking,5.0
+ORD11072,2024-09-30,CUST0810,30.0,Beauty,Face Serum,1,1564.09,0,East,Credit Card,3.0
+ORD11081,2024-02-20,CUST0426,52.0,Electronics,Wireless Earbuds,1,1553.99,0,West,Credit Card,5.0
+ORD10991,2024-08-29,CUST0761,48.0,Fashion,Men's T-Shirt,2,1764.75,0,South,UPI,5.0
+ORD10960,2023-12-19,CUST0101,49.0,Sports,Yoga Mat,2,1207.51,10,South,Credit Card,3.0
+ORD10324,2024-09-12,CUST0077,23.0,Beauty,Shampoo 500ml,1,1274.29,10,West,UPI,4.0
+ORD11110,2024-08-05,CUST0793,58.0,Fashion,Men's T-Shirt,4,,10,East,Credit Card,4.0
+ORD10007,2023-03-07,CUST0075,63.0,Electronics,Wireless Earbuds,2,4556.27,0,South,Debit Card,4.0
+ORD11267,2024-05-21,CUST0580,,Electronics,Bluetooth Speaker,1,1917.71,10,Central,Cash on Delivery,1.0
+ORD11980,2024-01-14,CUST0514,56.0,Home & Kitchen,Storage Rack,2,4406.71,0,Central,Debit Card,
+ORD11146,2024-08-29,CUST0230,19.0,Sports,Dumbbell Set,1,891.42,5,Central,UPI,2.0
+ORD10453,2023-07-02,CUST0769,64.0,Fashion,Men's T-Shirt,1,3368.6,0, North ,Debit Card,5.0
+ORD10962,2024-02-20,CUST0627,23.0,Electronics,Smartwatch,1,1499.71,5,West,Credit Card,3.0
+ORD10816,2023-02-25,CUST0103,61.0,Electronics,Wireless Earbuds,1,5062.12,10,West,Credit Card,5.0
+ORD11862,2023-01-26,CUST0690,30.0,Fashion,Women's Dress,1,1054.16,5,south,Credit Card,3.0
+ORD10217,2023-04-14,CUST0005,60.0,Fashion,Running Shoes,1,3065.01,0,Central,Debit Card,4.0
+ORD11058,2024-03-15,CUST0227,40.0,Beauty,Shampoo 500ml,2,264.29,5,East,Credit Card,5.0
+ORD10396,2024-09-06,CUST0510,38.0,Fashion,Running Shoes,1,1474.93,0,Central,UPI,4.0
+ORD11615,2024-11-04,CUST0199,47.0,Electronics,Wireless Earbuds,1,3692.86,0,North,Cash on Delivery,4.0
+ORD10792,2023-08-19,CUST0502,41.0,Sports,Cricket Bat,2,2057.59,0,,Cash on Delivery,5.0
+ORD11178,2023-09-24,CUST0039,53.0,Beauty,Lipstick,4,509.94,10,East,UPI,4.0
+ORD11722,2024-11-01,CUST0303,29.0,Fashion,Leather Wallet,2,1638.14,5,West,UPI,3.0
+ORD10504,2023-06-19,CUST0326,21.0,Electronics,Bluetooth Speaker,1,5802.18,20,south,UPI,1.0
+ORD10734,2023-06-27,CUST0115,32.0,Electronics,Wireless Earbuds,1,2364.46,10,East,UPI,2.0
+ORD10384,2024-10-19,CUST0579,42.0,Electronics,Power Bank,1,5399.39,0,North,UPI,5.0
+ORD10726,2024-10-17,CUST0458,41.0,Fashion,Denim Jacket,2,1454.44,0,North,UPI,4.0
+ORD10311,2023-04-01,CUST0045,45.0,Electronics,Wireless Earbuds,2,3756.44,5,North,Credit Card,5.0
+ORD10595,2024-09-27,CUST0404,54.0,Sports,Yoga Mat,3,424.26,15,West,UPI,5.0
+ORD10956,2024-01-09,CUST0021,51.0,Electronics,Smartwatch,2,988.24,10,South,UPI,3.0
+ORD10521,2023-03-04,CUST0123,55.0,Home & Kitchen,Non-stick Pan,1,4216.42,5,South,Credit Card,5.0
+ORD11723,2023-02-09,CUST0072,25.0,Home & Kitchen,Storage Rack,2,3747.64,0,South,Net Banking,2.0
+ORD11724,2024-11-11,CUST0362,59.0,Electronics,Smartwatch,2,5111.43,15,Central,Credit Card,5.0
+ORD10899,2023-07-02,CUST0280,22.0,Home & Kitchen,Non-stick Pan,1,2073.87,0,East,Debit Card,4.0
+ORD10944,2023-07-09,CUST0160,28.0,Fashion,Denim Jacket,4,1702.94,10,East,UPI,5.0
+ORD11914,2024-06-13,CUST0813,48.0,Fashion,Leather Wallet,1,2548.32,10,East,UPI,3.0
+ORD10206,2023-12-01,CUST0280,32.0,Home & Kitchen,Cushion Cover,1,797.64,5,North,Credit Card,4.0
+ORD11903,2024-10-10,CUST0663,44.0,Electronics,Smartwatch,1,1763.05,10,West,UPI,5.0
+ORD10786,2024-06-06,CUST0823,28.0,Home & Kitchen,Storage Rack,2,3857.62,5,West,Credit Card,5.0
+ORD11814,2023-03-01,CUST0460,20.0,Electronics,Smartphone Case,2,4311.52,10,North,UPI,4.0
+ORD10760,2023-02-16,CUST0263,60.0,Electronics,Power Bank,1,5246.58,10,Central,Net Banking,4.0
+ORD11472,2024-02-25,CUST0222,64.0,Fashion,Denim Jacket,3,1897.86,0,East,UPI,4.0
+ORD11511,2024-11-22,CUST0198,23.0,Fashion,Leather Wallet,2,1659.43,10,East,Cash on Delivery,5.0
+ORD11543,2024-01-29,CUST0338,53.0,Beauty,Shampoo 500ml,1,1006.14,10,East,Net Banking,4.0
+ORD10905,2024-06-17,CUST0758,34.0,Electronics,Wireless Earbuds,3,5731.04,0,North,Debit Card,4.0
+ORD11249,2024-03-27,CUST0022,31.0,Home & Kitchen,Storage Rack,1,3423.02,0,,UPI,5.0
+ORD11335,2023-04-25,CUST0041,24.0,Home & Kitchen,Cushion Cover,1,4235.36,15,North,Debit Card,4.0
+ORD10664,2023-05-10,CUST0334,42.0,Fashion,Men's T-Shirt,1,717.17,0, West ,,2.0
+ORD10679,2024-03-06,CUST0532,,Sports,Cricket Bat,1,2936.62,10,West,Credit Card,4.0
+ORD10914,2024-01-04,CUST0537,30.0,Home & Kitchen,LED Desk Lamp,1,3283.43,10,East,Credit Card,2.0
+ORD10575,2023-12-26,CUST0588,41.0,Fashion,Men's T-Shirt,1,2995.04,20,West,Cash on Delivery,4.0
+ORD11918,2023-10-14,CUST0069,54.0,Fashion,Running Shoes,1,1706.97,0,South,UPI,4.0
+ORD10630,2024-07-29,CUST0761,52.0,Electronics,Wireless Earbuds,5,5529.24,20,Central,,5.0
+ORD10316,2023-02-08,CUST0194,29.0,Fashion,Denim Jacket,1,867.02,0,South,Credit Card,4.0
+ORD10743,2023-05-22,CUST0130,62.0,Electronics,Smartwatch,1,4352.67,0,Central,Net Banking,5.0
+ORD11124,2024-07-02,CUST0679,61.0,Beauty,Shampoo 500ml,5,1241.44,0,North,Debit Card,5.0
+ORD11778,2023-06-10,CUST0630,18.0,Sports,Cricket Bat,1,2668.58,10,South,Credit Card,2.0
+ORD10787,2023-03-29,CUST0343,63.0,Beauty,Lipstick,2,1608.65,10,Central,UPI,4.0
+ORD11548,2024-08-26,CUST0373,19.0,Home & Kitchen,Storage Rack,1,2802.6,5,North,UPI,4.0
+ORD11991,2023-06-20,CUST0418,54.0,Beauty,Face Serum,4,612.94,20,North,UPI,4.0
+ORD10027,2023-11-02,CUST0372,44.0,Home & Kitchen,Storage Rack,2,1701.28,0,North,Credit Card,5.0
+ORD11196,2024-01-24,CUST0521,47.0,Electronics,Power Bank,4,,10,West,Debit Card,5.0
+ORD11458,2024-01-27,CUST0091,28.0,Electronics,Wireless Earbuds,3,2081.12,5,West,UPI,
+ORD11526,2024-03-06,CUST0543,27.0,Electronics,Power Bank,2,3977.64,0,North,Net Banking,5.0
+ORD11746,2023-04-18,CUST0453,26.0,Fashion,Leather Wallet,1,829.9,10,South,Credit Card,2.0
+ORD10257,2024-08-07,CUST0750,52.0,Sports,Resistance Band,1,2460.68,10,North,Cash on Delivery,5.0
+ORD11212,2023-04-14,CUST0335,49.0,Home & Kitchen,Cushion Cover,2,3524.74,0,East,Debit Card,4.0
+ORD11728,2024-04-20,CUST0200,19.0,Sports,Cricket Bat,1,434.78,20,Central,Credit Card,5.0
+ORD11601,2024-01-21,CUST0736,20.0,Fashion,Denim Jacket,2,2365.17,0,East,Net Banking,5.0
+ORD10189,2024-04-05,CUST0749,56.0,Sports,Cricket Bat,1,2513.07,10,East,Net Banking,3.0
+ORD10190,2024-08-06,CUST0192,53.0,Home & Kitchen,Cushion Cover,2,4471.02,5,South,UPI,
+ORD10986,2024-09-20,CUST0473,19.0,Fashion,Denim Jacket,1,2376.31,0,south,Debit Card,
+ORD10663,2024-09-28,CUST0843,28.0,Sports,Dumbbell Set,1,1902.41,15,South,Cash on Delivery,5.0
+ORD10243,2023-07-16,CUST0709,42.0,Fashion,Men's T-Shirt,4,2565.76,0,West,Debit Card,
+ORD11805,2023-01-31,CUST0523,45.0,Electronics,Bluetooth Speaker,3,4396.15,0,Central,Debit Card,5.0
+ORD10683,2023-04-18,CUST0120,28.0,Fashion,Running Shoes,1,756.64,0,East,Debit Card,5.0
+ORD10689,2023-08-23,CUST0423,54.0,Electronics,Power Bank,1,4152.97,10,Central,Credit Card,5.0
+ORD10826,2024-09-19,CUST0161,38.0,Electronics,Wireless Earbuds,4,3797.51,10,West,UPI,4.0
+ORD10864,2024-05-10,CUST0332,27.0,Fashion,Men's T-Shirt,1,2777.32,5,South,UPI,4.0
+ORD10499,2024-11-25,CUST0535,64.0,Electronics,Smartwatch,2,3718.33,20,South,Debit Card,3.0
+ORD10042,2024-01-04,CUST0288,18.0,Beauty,Lipstick,1,711.97,0,Central,Debit Card,2.0
+ORD11473,2024-11-20,CUST0520,28.0,Electronics,Smartwatch,1,4044.16,5,Central,UPI,3.0
+ORD11115,2023-09-13,CUST0480,30.0,Electronics,Power Bank,1,4380.4,5,South,UPI,3.0
+ORD10449,2023-01-19,CUST0477,27.0,Home & Kitchen,Cushion Cover,1,1182.69,10,South,Credit Card,5.0
+ORD10100,2023-08-09,CUST0338,51.0,Home & Kitchen,LED Desk Lamp,1,4230.67,10,East,Cash on Delivery,4.0
+ORD10987,2023-01-17,CUST0712,41.0,Home & Kitchen,LED Desk Lamp,2,2858.12,10,East,Cash on Delivery,4.0
+ORD11257,2024-12-29,CUST0803,56.0,Electronics,Power Bank,1,5251.47,0,Central,UPI,
+ORD11291,2023-01-06,CUST0330,19.0,Beauty,Shampoo 500ml,1,1349.42,15,West,Cash on Delivery,4.0
+ORD10923,2023-01-17,CUST0785,23.0,Fashion,Running Shoes,3,1285.89,5,South,Debit Card,4.0
+ORD10583,2023-03-09,CUST0470,44.0,Beauty,Shampoo 500ml,4,1611.32,15,South,UPI,4.0
+ORD11028,2023-12-25,CUST0358,49.0,Sports,Yoga Mat,1,383.62,5,South,Credit Card,5.0
+ORD10485,2024-02-04,CUST0719,29.0,Fashion,Men's T-Shirt,1,2641.01,10,East,Debit Card,5.0
+ORD11536,2024-02-17,CUST0667,39.0,Electronics,Smartwatch,1,5584.01,10,South,UPI,5.0
+ORD10721,2023-06-14,CUST0539,43.0,Fashion,Leather Wallet,3,3367.49,0,West,Credit Card,1.0
+ORD11936,2024-03-20,CUST0728,38.0,Home & Kitchen,Storage Rack,1,2321.23,20,North,Credit Card,5.0
+ORD11648,2024-09-06,CUST0800,32.0,Electronics,Power Bank,1,2830.82,5,North,Debit Card,5.0
+ORD10251,2024-02-21,CUST0825,29.0,Fashion,Leather Wallet,2,2399.11,10,Central,Debit Card,5.0
+ORD10437,2024-12-06,CUST0112,49.0,Fashion,Leather Wallet,1,800.68,0,South,Debit Card,4.0
+ORD10077,2024-12-13,CUST0416,51.0,Fashion,Denim Jacket,1,2524.83,0,Central,UPI,4.0
+ORD11571,2023-10-19,CUST0017,,Fashion,Denim Jacket,2,2855.96,5,North,Credit Card,5.0
+ORD11228,2023-01-22,CUST0437,27.0,Beauty,Shampoo 500ml,1,274.93,0,North,Credit Card,4.0
+ORD10720,2024-12-01,CUST0606,46.0,Fashion,Women's Dress,2,727.46,0,East,Credit Card,5.0
+ORD10517,2023-03-18,CUST0532,42.0,Home & Kitchen,Storage Rack,1,1105.81,0,East,Debit Card,4.0
+ORD10820,2023-09-19,CUST0718,54.0,Fashion,Denim Jacket,1,2746.89,0,North,Net Banking,5.0
+ORD10891,2023-09-15,CUST0028,54.0,Beauty,Sunscreen SPF50,1,1434.72,0,West,Credit Card,3.0
+ORD11983,2024-11-22,CUST0281,22.0,Electronics,Smartphone Case,1,4746.97,0,East,Net Banking,
+ORD11316,2024-04-01,CUST0327,35.0,Beauty,Lipstick,2,975.01,10,Central,Credit Card,5.0
+ORD10686,2023-03-13,CUST0333,64.0,Home & Kitchen,LED Desk Lamp,1,2371.88,10,East,Credit Card,5.0
+ORD10996,2024-02-09,CUST0176,42.0,Beauty,Shampoo 500ml,1,834.74,10,West,UPI,5.0
+ORD11852,2023-03-05,CUST0110,59.0,Electronics,Wireless Earbuds,1,3685.68,10,South,Credit Card,5.0
+ORD10440,2023-08-27,CUST0791,32.0,Beauty,Sunscreen SPF50,1,1339.59,0,,Credit Card,
+ORD10420,2024-06-06,CUST0239,64.0,Beauty,Hair Dryer,1,627.54,0, East ,Credit Card,5.0
+ORD11010,2024-03-02,CUST0673,57.0,Fashion,Men's T-Shirt,1,1299.72,10,East,Cash on Delivery,3.0
+ORD10832,2024-01-08,CUST0297,36.0,Fashion,Denim Jacket,1,2600.48,0,East,Credit Card,4.0
+ORD11477,2024-09-10,CUST0547,60.0,Sports,Resistance Band,1,2170.21,25,East,Debit Card,5.0
+ORD11433,2024-04-03,CUST0038,24.0,Electronics,Smartwatch,1,2322.28,15,West,Cash on Delivery,5.0
+ORD10778,2024-07-23,CUST0206,,Fashion,Men's T-Shirt,1,3056.71,5,South,Credit Card,3.0
+ORD10503,2024-10-18,CUST0168,18.0,Home & Kitchen,Cushion Cover,1,1181.66,0,Central,Cash on Delivery,5.0
+ORD11180,2023-06-05,CUST0564,22.0,Electronics,Smartwatch,2,3653.75,0,east,UPI,4.0
+ORD11987,2024-02-21,CUST0009,58.0,Home & Kitchen,Blender,1,3335.07,5,South,Credit Card,4.0
+ORD11904,2023-11-14,CUST0451,46.0,Electronics,Smartwatch,2,5257.97,0,central,Credit Card,5.0
+ORD11280,2024-04-21,CUST0297,,Home & Kitchen,Storage Rack,5,3466.11,5, East ,UPI,4.0
+ORD10501,2024-10-20,CUST0610,36.0,Beauty,Face Serum,1,899.86,0,North,Cash on Delivery,
+ORD11283,2024-10-04,CUST0789,31.0,Electronics,Power Bank,1,5819.08,10,West,UPI,4.0
+ORD10201,2023-12-26,CUST0034,37.0,Sports,Yoga Mat,2,1154.14,0,North,Net Banking,5.0
+ORD10350,2024-05-22,CUST0673,51.0,Electronics,Wireless Earbuds,1,2847.94,10,South,UPI,5.0
+ORD11408,2024-03-31,CUST0006,39.0,Electronics,Power Bank,1,1801.26,10,South,Net Banking,4.0
+ORD10803,2024-06-29,CUST0067,58.0,Home & Kitchen,LED Desk Lamp,1,528.56,0,west,Credit Card,5.0
+ORD10840,2023-04-22,CUST0494,28.0,Electronics,Wireless Earbuds,1,2412.0,10,Central,UPI,3.0
+ORD11507,2023-09-10,CUST0388,30.0,Home & Kitchen,Non-stick Pan,4,4436.92,5,East,Credit Card,5.0
+ORD10636,2024-05-30,CUST0293,50.0,Beauty,Face Serum,1,347.59,0,,Cash on Delivery,5.0
+ORD11701,2023-01-18,CUST0310,33.0,Home & Kitchen,Non-stick Pan,1,1744.62,0, North ,Debit Card,
+ORD11976,2024-10-06,CUST0304,50.0,Fashion,Denim Jacket,1,2130.34,15,West,Credit Card,5.0
+ORD10319,2024-04-27,CUST0129,58.0,Home & Kitchen,Cushion Cover,2,925.71,0,South,Cash on Delivery,2.0
+ORD10060,2023-06-18,CUST0437,61.0,Home & Kitchen,Non-stick Pan,2,2865.23,10, West ,Cash on Delivery,4.0
+ORD10544,2024-02-23,CUST0687,59.0,Fashion,Running Shoes,3,3455.47,10,West,UPI,4.0
+ORD10582,2023-11-03,CUST0176,64.0,Electronics,Wireless Earbuds,2,3679.86,0,East,UPI,3.0
+ORD10356,2023-02-21,CUST0137,55.0,Home & Kitchen,Cushion Cover,1,2745.1,10,Central,Credit Card,3.0
+ORD11260,2024-10-13,CUST0740,20.0,Fashion,Leather Wallet,3,2854.13,25,North,Credit Card,5.0
+ORD11133,2024-11-19,CUST0749,30.0,Sports,Cricket Bat,5,2911.42,10,West,Cash on Delivery,4.0
+ORD10494,2023-08-20,CUST0752,56.0,Home & Kitchen,Cushion Cover,1,3430.49,10,West,Debit Card,5.0
+ORD11998,2023-06-23,CUST0550,45.0,Electronics,Bluetooth Speaker,1,1976.21,0,South,Credit Card,2.0
+ORD11336,2023-08-27,CUST0229,38.0,Electronics,Power Bank,2,4272.88,0,East,Debit Card,5.0
+ORD10724,2023-04-03,CUST0179,30.0,Electronics,Wireless Earbuds,1,1650.29,15,East,Net Banking,4.0
+ORD10181,2024-02-16,CUST0014,42.0,Electronics,Smartphone Case,3,2714.09,10,West,Debit Card,5.0
+ORD10953,2024-01-08,CUST0082,,Electronics,Power Bank,1,2153.81,0,West,Credit Card,
+ORD11520,2023-08-16,CUST0704,30.0,Beauty,Sunscreen SPF50,1,1716.37,0,North,Credit Card,4.0
+ORD10245,2024-07-28,CUST0698,38.0,Home & Kitchen,Non-stick Pan,1,3915.22,0,North,Net Banking,5.0
+ORD11730,2024-07-28,CUST0542,63.0,Fashion,Men's T-Shirt,1,1134.92,5,South,UPI,
+ORD10275,2023-01-30,CUST0241,21.0,Home & Kitchen,Cushion Cover,1,3166.75,20, West ,Debit Card,3.0
+ORD11823,2023-10-21,CUST0640,24.0,Beauty,Hair Dryer,1,699.67,15,South,Credit Card,
+ORD10577,2023-04-25,CUST0206,55.0,Sports,Dumbbell Set,1,1416.84,0,Central,UPI,
+ORD11221,2023-09-21,CUST0083,64.0,Beauty,Lipstick,1,768.93,5,North,Cash on Delivery,5.0
+ORD10393,2024-06-28,CUST0431,47.0,Fashion,Denim Jacket,1,2456.04,20,North,Credit Card,2.0
+ORD11455,2024-12-09,CUST0344,29.0,Electronics,Bluetooth Speaker,1,2263.3,0,North,Credit Card,5.0
+ORD10221,2023-03-25,CUST0819,36.0,Electronics,Smartphone Case,1,4228.43,5,Central,Cash on Delivery,5.0
+ORD10235,2024-01-25,CUST0368,24.0,Fashion,Running Shoes,1,726.3,0,West,UPI,
+ORD10941,2023-05-31,CUST0400,24.0,Electronics,Power Bank,1,5103.63,5,Central,Credit Card,5.0
+ORD10035,2024-03-22,CUST0481,,Fashion,Denim Jacket,1,1676.61,0,East,Credit Card,4.0
+ORD10086,2023-10-14,CUST0604,35.0,Fashion,Leather Wallet,2,3424.35,0,East,UPI,5.0
+ORD10747,2023-01-27,CUST0149,37.0,Fashion,Denim Jacket,3,659.8,10,South,Debit Card,4.0
+ORD10157,2023-05-05,CUST0435,41.0,Fashion,Running Shoes,1,2210.9,10,East,Net Banking,
+ORD11788,2024-07-29,CUST0028,63.0,Electronics,Wireless Earbuds,1,5633.84,10,South,Credit Card,5.0
+ORD11696,2023-05-31,CUST0126,59.0,Fashion,Women's Dress,1,1836.53,0,Central,Net Banking,4.0
+ORD11740,2024-10-14,CUST0101,45.0,Home & Kitchen,Storage Rack,2,3651.31,20,Central,UPI,5.0
+ORD11144,2023-03-03,CUST0179,49.0,Electronics,Smartwatch,2,1329.11,0,West,Credit Card,4.0
+ORD11033,2024-06-17,CUST0519,54.0,Home & Kitchen,Non-stick Pan,1,638.17,0,East,UPI,5.0
+ORD10913,2023-04-09,CUST0625,36.0,Home & Kitchen,Blender,1,3220.74,0,East,Debit Card,
+ORD10364,2023-02-07,CUST0472,19.0,Fashion,Women's Dress,1,1682.17,0,South,UPI,5.0
+ORD11835,2024-05-08,CUST0832,52.0,Sports,Dumbbell Set,1,1862.41,0,Central,Net Banking,4.0
+ORD11229,2023-08-11,CUST0734,48.0,Electronics,Smartwatch,3,1616.52,15,West,Credit Card,3.0
+ORD11104,2023-07-14,CUST0805,53.0,Home & Kitchen,LED Desk Lamp,1,2468.09,0,central,Credit Card,3.0
+ORD11245,2024-07-24,CUST0269,51.0,Electronics,Smartphone Case,1,1044.78,15,East,Credit Card,4.0
+ORD11666,2024-06-08,CUST0497,25.0,Electronics,Smartphone Case,1,1880.83,0,East,Credit Card,
+ORD10381,2024-04-07,CUST0137,39.0,Electronics,Power Bank,3,5291.89,0,West,Debit Card,3.0
+ORD11061,2023-10-30,CUST0235,55.0,Electronics,Bluetooth Speaker,2,2541.75,0,east,Debit Card,5.0
+ORD11847,2023-08-10,CUST0027,62.0,Beauty,Face Serum,1,1688.17,10,East,Credit Card,4.0
+ORD11705,2023-12-07,CUST0496,59.0,Fashion,Running Shoes,1,3472.99,25, West ,Credit Card,3.0
+ORD10510,2023-12-01,CUST0133,55.0,Fashion,Leather Wallet,1,1344.25,0,North,Credit Card,5.0
+ORD10068,2023-03-15,CUST0211,51.0,Sports,Football,1,1487.11,10,Central,UPI,4.0
+ORD11810,2024-04-04,CUST0299,32.0,Electronics,Wireless Earbuds,1,1510.02,15,North,Cash on Delivery,5.0
+ORD11230,2023-03-02,CUST0369,32.0,Sports,Cricket Bat,4,1644.89,0,South,Net Banking,
+ORD11244,2023-06-29,CUST0373,19.0,Fashion,Leather Wallet,2,2298.05,10, North ,Credit Card,5.0
+ORD10984,2023-08-17,CUST0314,53.0,Electronics,Bluetooth Speaker,1,4209.06,20,East,UPI,5.0
+ORD11198,2024-09-13,CUST0793,46.0,Fashion,Leather Wallet,5,2753.67,0,East,Credit Card,5.0
+ORD11129,2023-05-19,CUST0686,56.0,Sports,Yoga Mat,3,263.43,10,East,Cash on Delivery,5.0
+ORD10188,2024-10-20,CUST0422,45.0,Beauty,Shampoo 500ml,2,1687.51,5,South,Credit Card,
+ORD10472,2023-09-12,CUST0188,23.0,Sports,Football,1,297.92,0,West,,5.0
+ORD11015,2023-08-18,CUST0190,62.0,Electronics,Smartphone Case,2,5668.86,15,West,Cash on Delivery,
+ORD11836,2023-09-12,CUST0212,34.0,Fashion,Running Shoes,2,3111.31,10,West,Credit Card,5.0
+ORD10394,2024-04-02,CUST0833,27.0,Electronics,Bluetooth Speaker,1,5349.48,0,East,UPI,
+ORD11848,2024-04-24,CUST0106,29.0,Electronics,Smartphone Case,3,1499.93,5,South,UPI,5.0
+ORD11867,2023-05-23,CUST0174,52.0,Home & Kitchen,LED Desk Lamp,4,353.45,10,East,Credit Card,3.0
+ORD10075,2023-10-25,CUST0210,53.0,Fashion,Denim Jacket,3,790.0,0,North,Debit Card,5.0
+ORD10010,2023-04-16,CUST0071,21.0,Fashion,Denim Jacket,1,2221.7,5,Central,UPI,5.0
+ORD10011,2023-12-25,CUST0471,32.0,Fashion,Denim Jacket,1,2172.36,0,West,Net Banking,1.0
+ORD11106,2023-10-21,CUST0107,63.0,Electronics,Bluetooth Speaker,3,4208.51,0,North,Credit Card,4.0
+ORD11602,2024-06-30,CUST0752,60.0,Electronics,Power Bank,1,5326.08,0,West,Net Banking,5.0
+ORD10827,2023-11-12,CUST0186,60.0,Electronics,Power Bank,5,3171.07,0,West,Credit Card,3.0
+ORD11787,2024-01-03,CUST0102,25.0,Fashion,Women's Dress,1,3048.68,15,north,Debit Card,5.0
+ORD10285,2023-04-12,CUST0846,40.0,Electronics,Power Bank,1,3366.12,0,south,UPI,5.0
+ORD11393,2024-10-23,CUST0062,23.0,Electronics,Bluetooth Speaker,1,3141.78,0,South,Net Banking,5.0
+ORD10617,2023-02-05,CUST0334,52.0,Fashion,Leather Wallet,1,3207.31,0,North,UPI,3.0
+ORD11767,2023-06-24,CUST0008,49.0,Fashion,Leather Wallet,2,3068.78,0,South,UPI,5.0
+ORD11768,2023-08-01,CUST0066,54.0,Fashion,Denim Jacket,2,740.51,0,East,Credit Card,3.0
+ORD11866,2024-05-06,CUST0346,46.0,Electronics,Smartphone Case,1,5787.94,10,Central,UPI,5.0
+ORD11553,2023-10-25,CUST0608,19.0,Home & Kitchen,Cushion Cover,2,4018.43,0,North,Cash on Delivery,4.0
+ORD10474,2023-11-09,CUST0224,39.0,Electronics,Wireless Earbuds,3,865.18,10,Central,UPI,5.0
+ORD10140,2024-11-09,CUST0522,20.0,Electronics,Power Bank,4,892.88,15,east,Credit Card,5.0
+ORD11596,2023-08-23,CUST0711,60.0,Home & Kitchen,Storage Rack,1,2583.67,0,North,Cash on Delivery,
+ORD10192,2024-01-01,CUST0571,52.0,Home & Kitchen,Blender,2,3431.72,0,South,Debit Card,3.0
+ORD11776,2023-12-28,CUST0599,,Beauty,Sunscreen SPF50,1,1527.28,5,West,Credit Card,5.0
+ORD10483,2024-05-20,CUST0502,30.0,Fashion,Men's T-Shirt,1,1240.05,10,South,Credit Card,
+ORD11634,2023-01-22,CUST0691,32.0,Beauty,Lipstick,2,1197.44,20,Central,Net Banking,3.0
+ORD11413,2023-01-09,CUST0595,38.0,Beauty,Lipstick,1,1186.32,0,North,Credit Card,5.0
+ORD10321,2024-04-09,CUST0092,53.0,Fashion,Leather Wallet,1,1148.62,0, East ,Net Banking,5.0
+ORD11744,2024-06-03,CUST0434,45.0,Electronics,Bluetooth Speaker,3,2516.38,10,West,Debit Card,5.0
+ORD10755,2023-02-23,CUST0794,30.0,Fashion,Running Shoes,1,3012.88,10,North,Net Banking,3.0
+ORD11042,2023-06-13,CUST0243,24.0,Fashion,Men's T-Shirt,1,631.94,5, West ,Credit Card,5.0
+ORD11994,2024-09-21,CUST0649,45.0,Home & Kitchen,LED Desk Lamp,1,4043.87,0,West,Debit Card,4.0
+ORD10431,2024-10-14,CUST0018,30.0,Sports,Cricket Bat,2,667.14,15,South,UPI,1.0
+ORD11986,2023-12-17,CUST0410,47.0,Sports,Dumbbell Set,1,2543.69,5,South,Debit Card,4.0
+ORD11318,2023-05-01,CUST0791,42.0,Electronics,Power Bank,1,5984.7,5,East,UPI,1.0
+ORD11419,2024-09-11,CUST0416,55.0,Fashion,Running Shoes,1,1019.87,0,Central,Cash on Delivery,5.0
+ORD10208,2023-11-03,CUST0127,58.0,Home & Kitchen,LED Desk Lamp,2,926.76,20,Central,UPI,5.0
+ORD10238,2023-08-16,CUST0234,40.0,Electronics,Power Bank,2,864.82,0,East,Credit Card,5.0
+ORD11004,2024-09-21,CUST0048,26.0,Home & Kitchen,LED Desk Lamp,1,4470.33,0,Central,Net Banking,4.0
+ORD11502,2023-08-08,CUST0472,39.0,Sports,Cricket Bat,5,2088.81,0,East,UPI,5.0
+ORD10346,2023-08-07,CUST0365,50.0,Home & Kitchen,Non-stick Pan,1,1695.29,0,Central,UPI,3.0
+ORD10963,2023-06-29,CUST0139,43.0,Electronics,Smartwatch,1,4184.45,5, west ,Cash on Delivery,3.0
+ORD11158,2023-08-05,CUST0427,61.0,Electronics,Bluetooth Speaker,1,2085.2,20,West,Credit Card,5.0
+ORD11185,2023-03-02,CUST0430,57.0,Electronics,Smartwatch,2,3179.4,25,West,Cash on Delivery,5.0
+ORD11516,2023-06-05,CUST0815,30.0,Home & Kitchen,Blender,3,2934.96,10,North,Credit Card,2.0
+ORD10458,2024-08-16,CUST0645,36.0,Home & Kitchen,LED Desk Lamp,2,310.13,20,West,Credit Card,
+ORD10301,2024-08-11,CUST0097,30.0,Electronics,Wireless Earbuds,1,1350.24,0,west,UPI,4.0
+ORD11197,2024-03-01,CUST0447,25.0,Electronics,Smartwatch,1,1334.74,0,East,UPI,3.0
+ORD10460,2023-10-16,CUST0489,29.0,Electronics,Smartphone Case,5,3226.87,5,East,Credit Card,5.0
+ORD10943,2024-07-03,CUST0001,24.0,Electronics,Power Bank,1,2267.25,15,North,UPI,5.0
+ORD11095,2023-02-14,CUST0226,63.0,Beauty,Lipstick,1,1152.88,15,South,Credit Card,4.0
+ORD11163,2024-09-06,CUST0686,40.0,Beauty,Face Serum,1,1235.64,0,West,Credit Card,5.0
+ORD10475,2024-05-27,CUST0265,26.0,Electronics,Smartwatch,1,4928.19,10,North,Credit Card,5.0
+ORD11090,2023-08-03,CUST0145,57.0,Beauty,Shampoo 500ml,1,403.51,0,West,Credit Card,2.0
+ORD10464,2024-06-20,CUST0011,22.0,Beauty,Sunscreen SPF50,5,1237.45,0,west,Credit Card,5.0
+ORD10006,2023-10-26,CUST0142,33.0,Electronics,Smartphone Case,2,5237.7,5,West,UPI,5.0
+ORD10842,2023-01-19,CUST0274,47.0,Electronics,Bluetooth Speaker,1,808.17,5,West,Credit Card,4.0
+ORD10327,2024-04-27,CUST0068,61.0,Electronics,Bluetooth Speaker,2,4726.14,0,West,Credit Card,5.0
+ORD11145,2024-05-18,CUST0423,21.0,Electronics,Smartwatch,1,4477.78,20,West,Cash on Delivery,4.0
+ORD11177,2024-07-09,CUST0407,55.0,Fashion,Denim Jacket,2,3459.87,0,East,Debit Card,5.0
+ORD11782,2024-02-05,CUST0399,55.0,Sports,Football,1,2539.88,0,South,Credit Card,
+ORD10893,2023-06-07,CUST0069,37.0,Sports,Resistance Band,4,2019.05,5,South,Credit Card,5.0
+ORD11084,2023-09-25,CUST0759,57.0,Beauty,Face Serum,2,1223.24,0,South,Net Banking,
+ORD10014,2023-08-19,CUST0153,53.0,Fashion,Running Shoes,1,2451.15,20,North,Net Banking,2.0
+ORD10695,2023-03-04,CUST0798,52.0,Electronics,Power Bank,1,5200.22,10,South,Credit Card,4.0
+ORD10388,2023-09-15,CUST0377,,Electronics,Wireless Earbuds,1,2800.93,20,Central,UPI,4.0
+ORD10524,2024-11-10,CUST0766,61.0,Fashion,Leather Wallet,1,1482.74,0,South,Debit Card,4.0
+ORD11297,2023-07-23,CUST0614,28.0,Beauty,Lipstick,1,1580.05,0,East,Credit Card,5.0
+ORD11341,2023-01-13,CUST0463,61.0,Fashion,Running Shoes,3,1331.2,10,East,UPI,3.0
+ORD11349,2024-01-30,CUST0608,61.0,Home & Kitchen,Storage Rack,1,527.17,0,South,UPI,3.0
+ORD10604,2023-10-29,CUST0068,41.0,Fashion,Running Shoes,3,468.37,20,North,Cash on Delivery,2.0
+ORD10843,2023-05-18,CUST0348,59.0,Beauty,Face Serum,2,440.31,5,North,Credit Card,5.0
+ORD10323,2023-08-23,CUST0352,43.0,Beauty,Face Serum,1,351.32,0,West,Credit Card,
+ORD11219,2023-07-30,CUST0249,39.0,Home & Kitchen,Non-stick Pan,1,3778.03,25,West,UPI,5.0
+ORD11865,2023-07-22,CUST0175,20.0,Beauty,Lipstick,1,1593.25,0,South,Credit Card,4.0
+ORD11014,2023-08-21,CUST0661,29.0,Home & Kitchen,Cushion Cover,2,1672.89,0,West,Net Banking,5.0
+ORD11436,2024-06-29,CUST0793,51.0,Beauty,Hair Dryer,1,232.94,0,North,Cash on Delivery,3.0
+ORD11606,2023-07-26,CUST0709,28.0,Electronics,Wireless Earbuds,1,2899.1,0,Central,UPI,4.0
+ORD11971,2024-03-27,CUST0841,22.0,Sports,Football,1,703.8,5,West,Debit Card,3.0
+ORD10555,2023-01-21,CUST0588,62.0,Electronics,Bluetooth Speaker,1,2608.91,10,West,UPI,5.0
+ORD10831,2023-09-10,CUST0121,54.0,Beauty,Hair Dryer,4,646.99,0,West,UPI,3.0
+ORD11438,2023-04-20,CUST0580,59.0,Fashion,Women's Dress,4,1436.98,0,North,Credit Card,4.0
+ORD10456,2023-02-07,CUST0640,38.0,Sports,Dumbbell Set,2,1064.24,0,West,Net Banking,5.0
+ORD10308,2024-05-17,CUST0678,59.0,Fashion,Women's Dress,1,2612.97,5,Central,Debit Card,4.0
+ORD10073,2023-12-03,CUST0637,53.0,Home & Kitchen,Storage Rack,1,2285.69,10,North,UPI,5.0
+ORD10258,2023-11-16,CUST0279,36.0,Sports,Dumbbell Set,2,2822.76,0,North,Credit Card,5.0
+ORD11720,2023-05-28,CUST0442,63.0,Home & Kitchen,Storage Rack,2,2818.38,0, West ,Credit Card,4.0
+ORD10003,2024-05-13,CUST0707,25.0,Electronics,Power Bank,1,4672.76,0,South,Debit Card,4.0
+ORD11577,2023-12-13,CUST0515,49.0,Beauty,Face Serum,1,511.05,10,West,UPI,5.0
+ORD11073,2023-11-19,CUST0766,22.0,Fashion,Women's Dress,3,1344.12,0,North,UPI,5.0
+ORD11400,2023-06-26,CUST0411,27.0,Electronics,Wireless Earbuds,1,2449.17,5,East,Credit Card,4.0
+ORD11749,2024-02-12,CUST0270,20.0,Fashion,Running Shoes,1,2073.68,15,South,Credit Card,4.0
+ORD10930,2023-11-07,CUST0174,36.0,Home & Kitchen,Blender,2,2202.59,0,West,UPI,4.0
+ORD11530,2024-12-07,CUST0810,34.0,Fashion,Denim Jacket,1,1864.21,15,West,Debit Card,4.0
+ORD10480,2024-01-24,CUST0382,34.0,Electronics,Bluetooth Speaker,1,3951.08,10,West,Net Banking,4.0
+ORD11448,2024-11-12,CUST0604,43.0,Electronics,Smartphone Case,4,4895.2,0,North,UPI,5.0
+ORD10910,2024-04-29,CUST0608,52.0,Beauty,Face Serum,2,313.97,10,South,Cash on Delivery,3.0
+ORD10118,2024-06-16,CUST0233,46.0,Electronics,Smartwatch,1,4723.78,0,Central,Net Banking,3.0
+ORD11366,2023-09-22,CUST0014,36.0,Electronics,Wireless Earbuds,1,4112.75,10,South,Credit Card,5.0
+ORD11688,2024-06-24,CUST0610,37.0,Home & Kitchen,Non-stick Pan,4,1462.78,0,South,Credit Card,4.0
+ORD11030,2024-04-06,CUST0178,41.0,Fashion,Leather Wallet,2,2561.02,0,Central,Debit Card,4.0
+ORD10467,2024-12-30,CUST0499,62.0,Fashion,Men's T-Shirt,5,481.83,10,East,Credit Card,1.0
+ORD11563,2023-12-31,CUST0293,63.0,Fashion,Women's Dress,3,3298.22,10,West,Debit Card,5.0
+ORD11142,2024-04-02,CUST0492,29.0,Fashion,Men's T-Shirt,1,3119.85,10,South,Credit Card,5.0
+ORD10446,2023-12-24,CUST0673,25.0,Sports,Resistance Band,2,1407.06,10,West,Credit Card,
+ORD11036,2024-05-29,CUST0759,60.0,Beauty,Face Serum,1,1208.25,5,North,Cash on Delivery,4.0
+ORD10777,2023-07-15,CUST0422,54.0,Fashion,Denim Jacket,1,,10,Central,UPI,3.0
+ORD10605,2024-10-13,CUST0307,53.0,Sports,Dumbbell Set,2,2060.59,10,South,UPI,4.0
+ORD10569,2023-02-12,CUST0692,24.0,Sports,Yoga Mat,4,538.22,0,West,Debit Card,2.0
+ORD11038,2024-03-28,CUST0082,30.0,Electronics,Smartphone Case,1,2433.93,20,North,Credit Card,3.0
+ORD11955,2024-07-15,CUST0826,52.0,Beauty,Shampoo 500ml,2,678.63,5,West,Net Banking,4.0
+ORD11079,2024-08-03,CUST0554,23.0,Electronics,Power Bank,1,3782.64,10,west,Credit Card,4.0
+ORD11093,2023-10-23,CUST0171,50.0,Beauty,Hair Dryer,2,994.65,0,North,Cash on Delivery,1.0
+ORD10085,2023-09-26,CUST0555,64.0,Fashion,Women's Dress,1,1045.98,0,South,Cash on Delivery,1.0
+ORD11626,2024-05-11,CUST0421,22.0,Beauty,Lipstick,2,1078.68,5,West,Cash on Delivery,5.0
+ORD11652,2024-11-22,CUST0353,62.0,Electronics,Bluetooth Speaker,1,5352.48,0,West,Credit Card,3.0
+ORD11570,2023-06-17,CUST0193,33.0,Home & Kitchen,LED Desk Lamp,1,2101.01,10,North,Credit Card,
+ORD10756,2024-01-11,CUST0399,54.0,Home & Kitchen,LED Desk Lamp,1,3735.46,0,West,UPI,4.0
+ORD11395,2023-04-24,CUST0574,24.0,Electronics,Power Bank,1,5889.13,10,North,Debit Card,4.0
+ORD10152,2024-11-08,CUST0279,34.0,Electronics,Wireless Earbuds,2,2175.79,0,South,UPI,3.0
+ORD11560,2023-01-06,CUST0831,59.0,Electronics,Smartphone Case,1,4540.39,0,East,Net Banking,4.0
+ORD11809,2023-01-11,CUST0555,50.0,Fashion,Leather Wallet,1,1737.04,10,West,Credit Card,5.0
+ORD10389,2023-11-08,CUST0230,40.0,Home & Kitchen,Blender,1,3785.94,0, West ,Debit Card,5.0
+ORD10732,2023-07-02,CUST0331,57.0,Beauty,Sunscreen SPF50,1,811.77,0,South,Debit Card,
+ORD10173,2024-11-11,CUST0169,22.0,Fashion,Running Shoes,1,3421.23,0,North,Cash on Delivery,1.0
+ORD11716,2023-08-31,CUST0298,42.0,Sports,Yoga Mat,1,2473.02,0,central,Credit Card,4.0
+ORD10531,2023-05-25,CUST0114,48.0,Electronics,Bluetooth Speaker,1,2270.3,5,West,Debit Card,5.0
+ORD11242,2024-06-17,CUST0583,36.0,Fashion,Denim Jacket,1,2861.16,20,North,Credit Card,5.0
+ORD10766,2023-11-14,CUST0144,59.0,Beauty,Shampoo 500ml,2,638.0,0,North,Credit Card,
+ORD10736,2024-07-04,CUST0467,61.0,Fashion,Men's T-Shirt,1,1477.73,5,South,UPI,4.0
+ORD11905,2024-12-17,CUST0287,26.0,Sports,Yoga Mat,2,1128.62,0,North,Debit Card,
+ORD11398,2023-01-23,CUST0651,59.0,Beauty,Hair Dryer,1,923.85,25,Central,Net Banking,5.0
+ORD11399,2024-03-10,CUST0510,34.0,Beauty,Lipstick,1,1187.39,0,North,Credit Card,3.0
+ORD10375,2023-03-20,CUST0698,50.0,Electronics,Smartphone Case,1,,5,East,Credit Card,
+ORD11179,2024-05-01,CUST0675,61.0,Fashion,Denim Jacket,1,1192.35,10,North,Debit Card,4.0
+ORD10710,2023-01-25,CUST0600,35.0,Home & Kitchen,Storage Rack,1,615.84,15,south,Credit Card,5.0
+ORD10938,2024-04-03,CUST0679,39.0,Fashion,Leather Wallet,1,2075.8,10, East ,Credit Card,5.0
+ORD11824,2024-02-10,CUST0327,24.0,Fashion,Women's Dress,1,651.28,0,North,Debit Card,3.0
+ORD11075,2023-02-10,CUST0832,62.0,Beauty,Sunscreen SPF50,1,1506.87,5,North,UPI,5.0
+ORD11594,2023-12-17,CUST0194,39.0,Electronics,Smartphone Case,2,4908.75,10,West,Debit Card,4.0
+ORD11444,2024-09-22,CUST0342,20.0,Sports,Yoga Mat,1,921.5,15, North ,Cash on Delivery,5.0
+ORD10671,2023-11-02,CUST0180,23.0,Fashion,Women's Dress,3,3276.75,0,West,Net Banking,4.0
+ORD10033,2024-03-25,CUST0124,38.0,Electronics,Wireless Earbuds,1,1020.22,25,West,Debit Card,4.0
+ORD10239,2023-06-27,CUST0571,39.0,Electronics,Wireless Earbuds,1,2706.78,0,North,Credit Card,4.0
+ORD10128,2023-12-08,CUST0262,27.0,Fashion,Men's T-Shirt,2,2869.37,0,Central,Credit Card,5.0
+ORD10355,2023-06-27,CUST0528,47.0,Beauty,Hair Dryer,1,412.47,0,South,Credit Card,
+ORD10165,2023-02-01,CUST0763,47.0,Home & Kitchen,Storage Rack,1,4285.27,0,East,UPI,4.0
+ORD11364,2023-06-17,CUST0413,21.0,Beauty,Lipstick,1,1047.85,10,North,Debit Card,2.0
+ORD11266,2023-12-13,CUST0258,47.0,Sports,Resistance Band,1,1596.87,0,,Credit Card,5.0
+ORD10493,2024-04-03,CUST0448,54.0,Home & Kitchen,LED Desk Lamp,1,567.76,15,East,Cash on Delivery,4.0
+ORD10473,2023-01-08,CUST0233,33.0,Electronics,Smartphone Case,1,4519.07,0,South,Credit Card,5.0
+ORD11764,2024-06-20,CUST0128,58.0,Fashion,Leather Wallet,3,2070.17,10,North,Credit Card,4.0
+ORD11915,2023-01-31,CUST0555,55.0,Electronics,Smartwatch,2,1454.57,0,East,UPI,4.0
+ORD11474,2024-05-14,CUST0590,51.0,Home & Kitchen,LED Desk Lamp,4,619.4,0,South,Cash on Delivery,3.0
+ORD11308,2023-05-23,CUST0275,26.0,Beauty,Face Serum,2,975.83,10,South,Credit Card,3.0
+ORD10090,2023-05-30,CUST0847,24.0,Home & Kitchen,LED Desk Lamp,1,719.29,0,West,Net Banking,4.0
+ORD11311,2024-06-27,CUST0382,49.0,Fashion,Men's T-Shirt,3,2258.35,0,South,Debit Card,4.0
+ORD10098,2023-04-30,CUST0805,42.0,Home & Kitchen,LED Desk Lamp,1,2898.6,0, nan ,UPI,
+ORD11067,2024-05-05,CUST0050,58.0,Electronics,Wireless Earbuds,1,3243.7,10,Central,Credit Card,4.0
+ORD11024,2023-09-03,CUST0105,38.0,Beauty,Lipstick,1,444.99,0,North,Credit Card,
+ORD11959,2023-10-07,CUST0361,52.0,Sports,Yoga Mat,2,628.72,0, South ,Net Banking,3.0
+ORD11332,2024-07-30,CUST0759,57.0,Sports,Football,1,742.67,10,East,UPI,3.0
+ORD10450,2024-12-08,CUST0820,38.0,Fashion,Women's Dress,5,3161.42,0,West,Debit Card,3.0
+ORD10551,2024-01-21,CUST0201,30.0,Electronics,Wireless Earbuds,1,3673.24,0,East,Debit Card,4.0
+ORD11251,2024-12-03,CUST0295,,Fashion,Denim Jacket,1,2160.71,10,West,Credit Card,4.0
+ORD10219,2024-07-25,CUST0379,21.0,Home & Kitchen,Non-stick Pan,1,2892.86,5,South,Net Banking,4.0
+ORD10179,2024-11-05,CUST0046,57.0,Electronics,Smartwatch,1,5395.06,0,,Net Banking,3.0
+ORD10434,2023-10-21,CUST0445,23.0,Electronics,Smartwatch,2,2528.56,15,North,Credit Card,5.0
+ORD10568,2024-03-30,CUST0522,50.0,Electronics,Wireless Earbuds,1,1671.99,20,South,Cash on Delivery,5.0
+ORD11604,2024-09-07,CUST0730,29.0,Home & Kitchen,Blender,2,1519.17,0,North,UPI,1.0
+ORD10742,2024-07-20,CUST0511,58.0,Home & Kitchen,Cushion Cover,1,2491.32,0,West,Credit Card,4.0
+ORD11298,2023-10-20,CUST0639,34.0,Sports,Dumbbell Set,1,1029.83,20,West,Debit Card,5.0
+ORD10484,2024-05-09,CUST0328,42.0,Sports,Resistance Band,1,2504.31,0,East,Cash on Delivery,4.0
+ORD11505,2023-07-22,CUST0540,56.0,Beauty,Sunscreen SPF50,1,891.42,0,North,Credit Card,2.0
+ORD11598,2024-03-24,CUST0113,57.0,Home & Kitchen,Storage Rack,1,1333.41,0,East,Net Banking,
+ORD10438,2023-01-01,CUST0545,33.0,Beauty,Hair Dryer,1,713.81,0,East,Credit Card,3.0
+ORD10781,2024-04-21,CUST0430,22.0,Fashion,Leather Wallet,3,1543.25,15,South,Debit Card,5.0
+ORD10549,2023-10-21,CUST0709,50.0,Sports,Football,4,2756.59,25,East,Net Banking,
+ORD10854,2023-06-29,CUST0561,53.0,Electronics,Bluetooth Speaker,1,1761.86,15,North,Cash on Delivery,5.0
+ORD11086,2023-08-28,CUST0663,49.0,Electronics,Smartphone Case,1,2496.03,0,North,UPI,4.0
+ORD11808,2023-12-28,CUST0548,39.0,Electronics,Smartwatch,2,4125.97,10,West,Cash on Delivery,5.0
+ORD10783,2023-06-03,CUST0160,62.0,Fashion,Women's Dress,4,3308.72,20,East,Cash on Delivery,3.0
+ORD11464,2023-10-03,CUST0709,24.0,Electronics,Smartwatch,1,4976.61,0,South,Cash on Delivery,3.0
+ORD11758,2023-10-21,CUST0643,19.0,Fashion,Women's Dress,2,708.82,10,East,Credit Card,2.0
+ORD11929,2024-08-29,CUST0030,52.0,Home & Kitchen,Blender,3,3061.04,5,south,Credit Card,2.0
+ORD11008,2024-01-22,CUST0373,29.0,Sports,Cricket Bat,1,2623.29,10,south,Debit Card,5.0
+ORD11294,2023-10-05,CUST0049,29.0,Electronics,Smartphone Case,2,1882.31,10,West,UPI,3.0
+ORD11461,2024-07-28,CUST0307,49.0,Sports,Football,1,698.79,10,West,UPI,
+ORD10674,2023-05-29,CUST0472,27.0,Home & Kitchen,LED Desk Lamp,2,880.06,5,East,UPI,5.0
+ORD11939,2024-02-14,CUST0325,31.0,Beauty,Hair Dryer,1,396.06,10,West,UPI,5.0
+ORD10687,2024-11-19,CUST0061,50.0,Electronics,Bluetooth Speaker,3,3435.35,10,North,UPI,
+ORD11358,2024-03-26,CUST0570,24.0,Home & Kitchen,LED Desk Lamp,2,4259.31,15,North,Debit Card,
+ORD11706,2024-07-10,CUST0370,59.0,Fashion,Denim Jacket,2,1041.09,10,South,Credit Card,1.0
+ORD10818,2024-09-11,CUST0816,47.0,Beauty,Shampoo 500ml,1,233.48,10,West,UPI,5.0
+ORD10753,2024-01-07,CUST0402,29.0,Electronics,Power Bank,1,4417.21,10,east,Cash on Delivery,5.0
+ORD10122,2024-01-17,CUST0351,46.0,Home & Kitchen,Blender,5,4334.63,0,East,Cash on Delivery,
+ORD10700,2023-10-02,CUST0343,,Electronics,Bluetooth Speaker,1,1924.96,0, North ,Credit Card,
+ORD10877,2023-03-17,CUST0565,50.0,Home & Kitchen,Cushion Cover,1,495.44,0,West,UPI,5.0
+ORD11258,2023-12-13,CUST0456,19.0,Electronics,Power Bank,1,3632.32,10,West,UPI,
+ORD11041,2024-11-09,CUST0195,26.0,Fashion,Denim Jacket,1,2826.25,0,Central,UPI,3.0
+ORD11912,2024-08-15,CUST0500,53.0,Electronics,Smartwatch,3,2057.08,15,,Debit Card,5.0
+ORD10579,2024-12-23,CUST0023,41.0,Electronics,Smartwatch,3,1031.94,0,West,Debit Card,5.0
+ORD10856,2023-06-15,CUST0167,20.0,Beauty,Sunscreen SPF50,1,546.5,0,East,Credit Card,4.0
+ORD11403,2024-07-24,CUST0380,38.0,Fashion,Running Shoes,2,3431.99,10,South,Debit Card,3.0
+ORD10039,2024-04-12,CUST0381,41.0,Fashion,Leather Wallet,2,1048.08,25,west,Cash on Delivery,1.0
+ORD10032,2023-05-28,CUST0520,53.0,Electronics,Bluetooth Speaker,1,1449.6,10,South,Debit Card,5.0
+ORD11414,2023-07-12,CUST0153,27.0,Electronics,Power Bank,1,1217.04,0, Central ,Credit Card,5.0
+ORD10107,2023-02-07,CUST0536,54.0,Home & Kitchen,Storage Rack,2,4066.37,10,East,Debit Card,5.0
+ORD10024,2024-01-26,CUST0522,62.0,Fashion,Running Shoes,1,2423.02,10,West,Net Banking,1.0
+ORD10711,2023-06-17,CUST0414,56.0,Sports,Resistance Band,1,2502.11,10,North,Cash on Delivery,5.0
+ORD10070,2023-04-30,CUST0159,49.0,Sports,Yoga Mat,3,577.12,0,East,UPI,4.0
+ORD11815,2024-03-28,CUST0806,39.0,Fashion,Running Shoes,2,2128.62,10,West,Cash on Delivery,5.0
+ORD11120,2024-12-14,CUST0623,57.0,Home & Kitchen,LED Desk Lamp,1,3750.26,0,West,Credit Card,5.0
+ORD11784,2024-01-07,CUST0775,55.0,Home & Kitchen,LED Desk Lamp,1,430.43,5,Central,UPI,4.0
+ORD11128,2023-10-16,CUST0755,35.0,Home & Kitchen,Non-stick Pan,2,2378.54,25,East,Debit Card,5.0
+ORD11935,2024-01-14,CUST0503,37.0,Sports,Yoga Mat,1,1207.16,0,Central,Credit Card,
+ORD11504,2023-05-04,CUST0304,42.0,Beauty,Hair Dryer,1,1040.14,5,West,UPI,
+ORD11174,2023-12-18,CUST0602,24.0,Home & Kitchen,Storage Rack,1,1669.68,10,West,Cash on Delivery,2.0
+ORD11099,2023-08-27,CUST0493,50.0,Sports,Football,2,1221.63,0,Central,Net Banking,
+ORD11834,2024-09-07,CUST0419,44.0,Home & Kitchen,Cushion Cover,1,3237.53,0,North,Cash on Delivery,3.0
+ORD11791,2024-12-26,CUST0456,44.0,Beauty,Face Serum,1,1023.68,20,South,UPI,1.0
+ORD11149,2023-08-22,CUST0455,61.0,Fashion,Men's T-Shirt,1,1904.56,0,West,Net Banking,5.0
+ORD10266,2024-07-07,CUST0367,24.0,Beauty,Face Serum,3,1523.4,20,West,UPI,5.0
+ORD11324,2023-04-04,CUST0058,53.0,Sports,Football,1,1992.31,20, North ,Net Banking,3.0
+ORD11017,2024-12-11,CUST0498,48.0,Fashion,Denim Jacket,1,1409.73,10,North,UPI,5.0
+ORD11135,2024-12-24,CUST0086,59.0,Sports,Resistance Band,2,1042.73,10,Central,Credit Card,5.0
+ORD11065,2023-03-23,CUST0546,59.0,Electronics,Wireless Earbuds,1,1009.42,0,West,Credit Card,4.0
+ORD10505,2023-04-13,CUST0601,18.0,Beauty,Shampoo 500ml,1,170.35,0,west,Cash on Delivery,4.0
+ORD10277,2023-08-25,CUST0810,25.0,Sports,Cricket Bat,1,1269.23,0,Central,UPI,
+ORD10810,2023-02-02,CUST0185,64.0,Home & Kitchen,LED Desk Lamp,1,2852.08,0,south,UPI,4.0
+ORD10340,2024-03-26,CUST0792,61.0,Fashion,Running Shoes,1,743.49,15,South,Cash on Delivery,
+ORD11715,2024-07-25,CUST0682,63.0,Fashion,Denim Jacket,1,1773.14,0,North,Net Banking,3.0
+ORD10946,2024-02-07,CUST0134,21.0,Fashion,Denim Jacket,2,2423.9,0,North,Credit Card,5.0
+ORD11766,2024-11-12,CUST0408,18.0,Beauty,Sunscreen SPF50,2,1126.38,5,West,Credit Card,3.0
+ORD10186,2024-10-13,CUST0640,51.0,Beauty,Sunscreen SPF50,1,1656.98,20,South,Debit Card,4.0
+ORD10799,2024-11-29,CUST0338,33.0,Beauty,Shampoo 500ml,2,1307.12,0,East,Net Banking,
+ORD10931,2023-11-20,CUST0109,61.0,Sports,Football,2,1260.2,0,North,UPI,
+ORD10745,2023-03-03,CUST0519,60.0,Fashion,Denim Jacket,1,2648.3,10,North,Debit Card,4.0
+ORD10979,2023-06-09,CUST0657,18.0,Electronics,Bluetooth Speaker,1,1789.65,15,North,UPI,1.0
+ORD11832,2024-10-02,CUST0307,62.0,Home & Kitchen,Blender,1,457.21,0,East,UPI,5.0
+ORD10062,2023-12-09,CUST0678,58.0,Electronics,Smartphone Case,2,4614.17,10,north,Cash on Delivery,5.0
+ORD10798,2023-07-13,CUST0602,33.0,Electronics,Smartphone Case,1,1780.5,0,West,Debit Card,
+ORD11374,2024-03-15,CUST0030,27.0,Fashion,Men's T-Shirt,1,2196.82,10,East,Net Banking,5.0
+ORD11731,2024-06-09,CUST0552,31.0,Electronics,Power Bank,1,4968.73,0,North,UPI,4.0
+ORD11827,2024-01-14,CUST0558,44.0,Fashion,Men's T-Shirt,1,1323.81,0,South,Credit Card,5.0
+ORD11743,2023-03-26,CUST0018,55.0,Electronics,Smartphone Case,1,2274.47,0,West,Debit Card,5.0
+ORD10194,2024-08-15,CUST0193,63.0,Fashion,Denim Jacket,1,,20,South,Credit Card,5.0
+ORD10647,2023-02-17,CUST0845,,Fashion,Men's T-Shirt,1,1666.91,15,West,Cash on Delivery,4.0
+ORD10034,2023-08-08,CUST0259,22.0,Sports,Cricket Bat,1,658.21,0,North,Credit Card,3.0
+ORD11863,2024-08-22,CUST0550,21.0,Electronics,Smartphone Case,1,5278.83,0,East,Credit Card,3.0
+ORD10801,2023-03-29,CUST0068,35.0,Beauty,Lipstick,1,418.17,10,East,Debit Card,3.0
+ORD10058,2024-05-31,CUST0015,61.0,Home & Kitchen,Cushion Cover,1,,10,East,Cash on Delivery,
+ORD10939,2024-01-11,CUST0023,48.0,Fashion,Leather Wallet,2,3285.14,10,North,Debit Card,4.0
+ORD11867,2023-05-23,CUST0174,52.0,Home & Kitchen,LED Desk Lamp,4,353.45,10,East,Credit Card,3.0
+ORD10359,2024-06-14,CUST0518,33.0,Electronics,Smartwatch,1,1824.23,15,Central,Debit Card,4.0
+ORD11070,2023-09-15,CUST0514,38.0,Beauty,Face Serum,2,,0,South,UPI,5.0
+ORD11609,2024-08-01,CUST0511,57.0,Fashion,Denim Jacket,1,1128.77,0,West,Credit Card,5.0
+ORD10069,2023-04-28,CUST0410,22.0,Electronics,Smartphone Case,1,5688.1,5,North,Credit Card,5.0
+ORD10292,2023-10-24,CUST0524,19.0,Electronics,Smartwatch,2,4175.89,10,East,Cash on Delivery,4.0
+ORD10047,2024-09-18,CUST0254,,Home & Kitchen,Blender,3,3144.61,10,Central,UPI,5.0
+ORD10924,2023-05-30,CUST0235,22.0,Electronics,Wireless Earbuds,1,5734.61,5,East,Debit Card,5.0
+ORD10278,2023-11-02,CUST0564,57.0,Electronics,Smartwatch,1,4530.88,25,Central,Credit Card,1.0
+ORD11868,2024-08-15,CUST0195,49.0,Home & Kitchen,Non-stick Pan,1,827.55,0,West,Cash on Delivery,2.0
+ORD10225,2023-02-11,CUST0157,31.0,Beauty,Hair Dryer,1,,10,West,Debit Card,5.0
+ORD10865,2023-03-26,CUST0015,18.0,Fashion,Denim Jacket,1,2288.38,10,West,Credit Card,3.0
+ORD10382,2024-07-20,CUST0636,53.0,Fashion,Women's Dress,1,2464.15,15,South,Credit Card,5.0
+ORD11471,2023-12-14,CUST0844,34.0,Electronics,Power Bank,1,1535.87,0,east,UPI,4.0
+ORD10365,2024-04-14,CUST0711,50.0,Home & Kitchen,Cushion Cover,1,2665.68,10, North ,Credit Card,4.0
+ORD11938,2024-06-23,CUST0133,45.0,Home & Kitchen,Cushion Cover,1,3300.09,10,Central,Credit Card,5.0
+ORD11025,2024-08-28,CUST0733,20.0,Fashion,Running Shoes,1,1725.35,0,North,Net Banking,5.0
+ORD10774,2023-11-10,CUST0067,21.0,Electronics,Bluetooth Speaker,2,2266.91,10,South,Debit Card,3.0
+ORD11348,2024-08-09,CUST0005,37.0,Electronics,Bluetooth Speaker,1,4501.45,0,North,Credit Card,4.0
+ORD10067,2023-07-04,CUST0103,37.0,Electronics,Wireless Earbuds,1,1633.62,0,West,,5.0
+ORD11204,2024-04-24,CUST0335,55.0,Electronics,Bluetooth Speaker,1,5033.94,10,North,Debit Card,5.0
+ORD11056,2024-06-01,CUST0692,52.0,Electronics,Smartwatch,1,3171.31,15,East,Debit Card,4.0
+ORD10868,2024-07-12,CUST0763,39.0,Beauty,Sunscreen SPF50,1,400.41,0,North,UPI,
+ORD10029,2024-05-15,CUST0747,20.0,Home & Kitchen,Non-stick Pan,1,3766.68,0, West ,Credit Card,5.0
+ORD10295,2024-09-23,CUST0772,42.0,Home & Kitchen,Blender,1,4294.39,25,East,UPI,5.0
+ORD10114,2023-07-15,CUST0579,18.0,Fashion,Denim Jacket,1,3310.3,0,Central,UPI,5.0
+ORD10246,2024-02-12,CUST0310,59.0,Home & Kitchen,Non-stick Pan,1,618.98,0,South,Credit Card,
+ORD11023,2023-09-29,CUST0586,61.0,Fashion,Leather Wallet,1,952.71,10,,UPI,4.0
+ORD11186,2024-05-31,CUST0096,50.0,Sports,Football,1,1156.04,10,South,Credit Card,1.0
+ORD10981,2023-06-23,CUST0644,47.0,Fashion,Men's T-Shirt,2,2717.78,0,East,UPI,4.0
+ORD10412,2024-03-20,CUST0524,57.0,Electronics,Smartphone Case,3,1542.92,10,East,UPI,4.0
+ORD11584,2024-05-29,CUST0064,35.0,Electronics,Smartphone Case,1,2284.84,20,Central,Credit Card,
+ORD11454,2023-06-29,CUST0078,59.0,Sports,Football,1,926.98,10,South,Credit Card,
+ORD10117,2024-06-29,CUST0784,29.0,Fashion,Women's Dress,2,985.39,10,Central,UPI,4.0
+ORD11883,2023-02-07,CUST0406,43.0,Electronics,Wireless Earbuds,1,1323.79,10,West,Net Banking,4.0
+ORD11633,2024-02-12,CUST0807,27.0,Beauty,Sunscreen SPF50,1,698.64,0,West,UPI,5.0
+ORD10248,2024-08-01,CUST0380,41.0,Electronics,Wireless Earbuds,2,3145.96,10, South ,Cash on Delivery,4.0
+ORD10666,2024-02-13,CUST0576,33.0,Electronics,Power Bank,1,2120.94,10,West,Credit Card,1.0
+ORD11951,2024-04-24,CUST0805,26.0,Fashion,Denim Jacket,1,1840.63,0,East,Credit Card,5.0
+ORD11531,2024-03-04,CUST0210,43.0,Sports,Resistance Band,2,488.43,20,West,Net Banking,
+ORD10093,2024-02-19,CUST0478,54.0,Fashion,Leather Wallet,1,2442.14,0,West,UPI,3.0
+ORD10115,2023-05-09,CUST0368,64.0,Electronics,Power Bank,2,5022.34,0,Central,Credit Card,4.0
+ORD10255,2024-11-06,CUST0261,28.0,Fashion,Running Shoes,1,1994.39,20,Central,UPI,5.0
+ORD10430,2024-09-15,CUST0806,51.0,Home & Kitchen,Cushion Cover,1,3492.29,0,north,Net Banking,5.0
+ORD10589,2024-03-19,CUST0143,34.0,Sports,Dumbbell Set,1,2088.16,0,Central,UPI,5.0
+ORD11275,2023-11-30,CUST0449,64.0,Electronics,Bluetooth Speaker,2,3362.06,10,Central,Credit Card,
+ORD11627,2024-04-28,CUST0523,25.0,Fashion,Running Shoes,1,3433.78,0,East,UPI,5.0
+ORD10119,2023-04-09,CUST0723,46.0,Electronics,Smartphone Case,1,5707.75,0,West,Credit Card,5.0
+ORD10133,2024-07-08,CUST0844,53.0,Fashion,Women's Dress,6,3207.95,0,South,Credit Card,4.0
+ORD11457,2024-11-13,CUST0826,27.0,Fashion,Denim Jacket,2,495.22,0,Central,Cash on Delivery,
+ORD11901,2024-05-16,CUST0135,43.0,Home & Kitchen,LED Desk Lamp,2,395.86,5,south,Debit Card,2.0
+ORD11314,2024-03-19,CUST0711,63.0,Fashion,Men's T-Shirt,2,1242.09,0,North,Cash on Delivery,4.0
+ORD10247,2023-09-03,CUST0767,27.0,Beauty,Face Serum,1,1505.71,0,Central,Debit Card,5.0
+ORD11383,2024-08-14,CUST0818,52.0,Beauty,Sunscreen SPF50,1,479.79,0,West,UPI,5.0
+ORD10776,2023-11-03,CUST0177,33.0,Fashion,Women's Dress,3,2646.19,10,South,Debit Card,3.0
+ORD10553,2023-04-21,CUST0389,54.0,Home & Kitchen,Blender,1,,10,North,UPI,4.0
+ORD11114,2023-03-21,CUST0030,54.0,Home & Kitchen,Non-stick Pan,2,723.6,5,East,UPI,4.0
+ORD11217,2023-01-11,CUST0125,20.0,Electronics,Power Bank,1,5544.77,5,South,Debit Card,5.0
+ORD11380,2023-05-01,CUST0264,48.0,Electronics,Bluetooth Speaker,1,4066.06,0,East,Credit Card,4.0
+ORD10695,2023-03-04,CUST0798,52.0,Electronics,Power Bank,1,5200.22,10,South,Credit Card,4.0
+ORD11480,2023-03-25,CUST0010,24.0,Home & Kitchen,Cushion Cover,2,3953.65,10,South,Debit Card,5.0
+ORD11940,2024-02-11,CUST0367,43.0,Sports,Dumbbell Set,1,1589.14,5,,Credit Card,5.0
+ORD10652,2024-09-09,CUST0519,34.0,Fashion,Running Shoes,4,2159.76,15,Central,Cash on Delivery,3.0
+ORD11171,2023-08-29,CUST0834,60.0,Sports,Dumbbell Set,1,804.35,10,West,Cash on Delivery,4.0
+ORD11143,2023-12-02,CUST0311,60.0,Electronics,Smartwatch,1,1884.22,20,West,UPI,5.0
+ORD11512,2023-05-06,CUST0718,25.0,Fashion,Denim Jacket,1,3261.3,0,North,UPI,3.0
+ORD11956,2023-01-31,CUST0760,42.0,Fashion,Women's Dress,1,2808.72,15,South,Net Banking,5.0
+ORD10534,2024-10-23,CUST0443,39.0,Electronics,Bluetooth Speaker,1,5754.48,0,South,UPI,4.0
+ORD10863,2024-04-18,CUST0745,30.0,Electronics,Smartwatch,5,4467.34,0,North,UPI,5.0
+ORD11391,2024-08-18,CUST0064,37.0,Electronics,Smartwatch,4,3181.91,10,South,Debit Card,4.0
+ORD11946,2023-07-16,CUST0165,20.0,Electronics,Bluetooth Speaker,1,5989.0,5,East,Credit Card,4.0
+ORD10898,2023-07-06,CUST0776,51.0,Home & Kitchen,LED Desk Lamp,1,3433.8,0,Central,UPI,5.0
+ORD11527,2024-09-18,CUST0132,20.0,Home & Kitchen,Blender,1,2086.79,10,South,Debit Card,5.0
+ORD11965,2024-05-01,CUST0148,37.0,Electronics,Bluetooth Speaker,2,4323.29,5,West,Debit Card,4.0
+ORD10677,2023-06-21,CUST0641,59.0,Sports,Dumbbell Set,1,2093.5,0,South,Cash on Delivery,4.0
+ORD10015,2024-09-30,CUST0430,31.0,Home & Kitchen,Storage Rack,1,3565.1,0,North,Debit Card,1.0
+ORD10501,2024-10-20,CUST0610,36.0,Beauty,Face Serum,1,899.86,0,North,Cash on Delivery,
+ORD11655,2023-12-15,CUST0635,53.0,Electronics,Bluetooth Speaker,1,2149.06,0,South,Debit Card,
+ORD11107,2024-08-25,CUST0258,24.0,Electronics,Bluetooth Speaker,1,1415.16,15,South,Debit Card,5.0
+ORD11702,2023-01-22,CUST0374,26.0,Fashion,Women's Dress,1,1207.8,0,Central,UPI,4.0
+ORD11451,2024-05-30,CUST0325,44.0,Sports,Cricket Bat,1,826.2,15,North,Credit Card,4.0
+ORD10601,2023-05-04,CUST0250,47.0,Fashion,Denim Jacket,2,2986.33,15,West,UPI,4.0
+ORD10876,2023-04-03,CUST0172,36.0,Electronics,Smartwatch,1,4753.43,0,south,UPI,4.0
+ORD10274,2023-01-23,CUST0374,21.0,Fashion,Running Shoes,1,2089.45,5,South,UPI,3.0
+ORD10685,2024-05-13,CUST0117,64.0,Electronics,Wireless Earbuds,2,1423.77,10,South,UPI,5.0
+ORD11029,2024-10-14,CUST0749,29.0,Fashion,Running Shoes,3,1080.27,0,Central,Debit Card,5.0
+ORD11134,2024-12-10,CUST0556,53.0,Fashion,Leather Wallet,3,699.15,0,North,Debit Card,5.0
+ORD10372,2024-12-12,CUST0790,33.0,Sports,Yoga Mat,1,957.59,0,North,Credit Card,
+ORD10272,2024-04-21,CUST0535,55.0,Home & Kitchen,Non-stick Pan,1,2044.18,0,North,Credit Card,5.0
+ORD10606,2024-08-08,CUST0468,55.0,Fashion,Women's Dress,1,479.24,0,North,Credit Card,5.0
+ORD11254,2023-09-12,CUST0051,49.0,Fashion,Denim Jacket,1,822.9,0,South,UPI,
+ORD10215,2023-06-03,CUST0638,53.0,Home & Kitchen,Non-stick Pan,2,3782.73,0,East,Credit Card,
+ORD11518,2024-12-05,CUST0432,53.0,Fashion,Denim Jacket,2,2216.45,20,South,Debit Card,3.0
+ORD10345,2024-01-01,CUST0772,54.0,Electronics,Power Bank,2,3610.97,0,North,UPI,5.0
+ORD10839,2023-03-28,CUST0767,27.0,Sports,Cricket Bat,2,1243.6,5,Central,Credit Card,4.0
+ORD10148,2023-02-07,CUST0381,25.0,Electronics,Smartphone Case,3,5716.17,5,South,UPI,5.0
+ORD11022,2024-10-07,CUST0839,28.0,Fashion,Men's T-Shirt,3,1531.01,10,Central,UPI,3.0
+ORD11673,2024-10-21,CUST0008,46.0,Home & Kitchen,Blender,1,3309.94,0, North ,Debit Card,
+ORD10413,2024-06-28,CUST0845,58.0,Fashion,Leather Wallet,1,3115.12,10,West,Credit Card,5.0
+ORD11224,2024-12-21,CUST0782,18.0,Home & Kitchen,Storage Rack,1,1687.63,20,Central,Credit Card,3.0
+ORD10784,2024-05-18,CUST0238,38.0,Sports,Dumbbell Set,1,1907.95,5,Central,UPI,4.0
+ORD10343,2024-05-14,CUST0178,25.0,Electronics,Wireless Earbuds,1,3353.63,0, West ,Debit Card,4.0
+ORD10948,2024-10-17,CUST0529,46.0,Electronics,Power Bank,2,2678.23,10,East,Debit Card,3.0
+ORD10748,2024-04-01,CUST0487,35.0,Fashion,Denim Jacket,2,2451.62,0,East,Credit Card,3.0
+ORD10174,2023-03-12,CUST0813,26.0,Beauty,Shampoo 500ml,2,1291.55,10,East,UPI,5.0
+ORD10378,2024-06-17,CUST0381,47.0,Electronics,Bluetooth Speaker,1,,10,South,UPI,3.0
+ORD10739,2023-01-06,CUST0712,63.0,Home & Kitchen,Storage Rack,2,,10,North,Cash on Delivery,4.0
+ORD11330,2024-06-06,CUST0690,31.0,Beauty,Hair Dryer,4,1281.94,5,North,UPI,4.0
+ORD11469,2024-02-15,CUST0118,54.0,Fashion,Women's Dress,1,2378.91,25,East,Cash on Delivery,5.0
+ORD10053,2024-01-12,CUST0096,31.0,Fashion,Women's Dress,2,557.98,0,South,UPI,
+ORD10019,2023-06-30,CUST0141,46.0,Fashion,Running Shoes,1,2712.64,0,South,Credit Card,5.0
+ORD11310,2024-02-11,CUST0414,35.0,Fashion,Women's Dress,4,1431.2,0,south,Debit Card,5.0
+ORD10222,2023-02-04,CUST0549,51.0,Fashion,Leather Wallet,1,1609.86,20,West,Debit Card,3.0
+ORD11551,2024-07-09,CUST0299,47.0,Electronics,Wireless Earbuds,2,3567.17,0,West,Net Banking,4.0
+ORD11538,2024-10-08,CUST0212,57.0,Electronics,Wireless Earbuds,2,5435.76,0,West,UPI,5.0
+ORD11947,2024-05-16,CUST0320,46.0,Electronics,Bluetooth Speaker,2,1983.79,5,South,Debit Card,4.0
+ORD11390,2023-07-05,CUST0256,21.0,Electronics,Wireless Earbuds,1,5729.31,5,South,Cash on Delivery,5.0
+ORD11141,2024-02-19,CUST0387,60.0,Beauty,Lipstick,1,1471.23,0,south,Debit Card,5.0
+ORD11386,2023-04-06,CUST0458,57.0,Fashion,Running Shoes,1,1805.81,15,West,Cash on Delivery,5.0
+ORD10096,2023-12-29,CUST0480,29.0,Beauty,Face Serum,1,1561.81,15,North,Net Banking,4.0
+ORD10262,2023-03-02,CUST0110,33.0,Fashion,Leather Wallet,3,1692.86,15,South,UPI,3.0
+ORD11625,2023-01-01,CUST0179,60.0,Electronics,Wireless Earbuds,2,835.3,15,East,UPI,4.0
+ORD11647,2024-10-23,CUST0383,32.0,Home & Kitchen,Non-stick Pan,5,3682.96,10,South,UPI,4.0
+ORD10180,2024-11-15,CUST0183,64.0,Sports,Football,1,578.48,0,North,Credit Card,4.0
+ORD11127,2023-07-31,CUST0841,29.0,Fashion,Leather Wallet,1,3050.15,10,East,Net Banking,
+ORD10717,2023-04-05,CUST0529,62.0,Electronics,Wireless Earbuds,2,5613.6,10,central,Cash on Delivery,5.0
+ORD11920,2024-03-13,CUST0014,39.0,Home & Kitchen,LED Desk Lamp,1,958.07,5,West,UPI,4.0
+ORD10185,2024-09-19,CUST0342,22.0,Home & Kitchen,Cushion Cover,1,409.27,0,South,Credit Card,4.0
+ORD10468,2024-06-26,CUST0205,34.0,Fashion,Leather Wallet,2,1164.71,0,West,Credit Card,5.0
+ORD10904,2023-07-25,CUST0401,18.0,Fashion,Denim Jacket,1,3174.22,0, North ,Debit Card,3.0
+ORD10072,2023-11-16,CUST0271,48.0,Sports,Cricket Bat,2,420.67,0,West,UPI,5.0
+ORD11170,2024-01-01,CUST0297,18.0,Fashion,Denim Jacket,1,1260.12,10,North,Credit Card,
+ORD11519,2023-10-22,CUST0373,43.0,Beauty,Face Serum,2,1777.37,5,North,Credit Card,4.0
+ORD10347,2023-08-09,CUST0536,50.0,Fashion,Men's T-Shirt,2,2433.34,10,,Cash on Delivery,4.0
+ORD11423,2023-09-03,CUST0741,18.0,Sports,Cricket Bat,2,854.88,0,North,Cash on Delivery,
+ORD11208,2023-11-14,CUST0317,43.0,Sports,Resistance Band,1,986.74,0,East,Debit Card,4.0
+ORD10030,2024-09-02,CUST0774,18.0,Electronics,Power Bank,3,1353.38,0,North,Debit Card,2.0
+ORD10797,2024-05-13,CUST0744,27.0,Electronics,Bluetooth Speaker,1,1441.9,0,north,Credit Card,5.0
+ORD11064,2023-03-19,CUST0743,36.0,Electronics,Wireless Earbuds,1,4864.88,25,North,Net Banking,4.0
+ORD10158,2024-04-28,CUST0387,53.0,Electronics,Wireless Earbuds,1,1417.12,10,North,Credit Card,5.0
+ORD10933,2023-02-23,CUST0800,61.0,Sports,Dumbbell Set,1,1024.12,0,South,UPI,3.0
+ORD10659,2023-03-21,CUST0702,64.0,Electronics,Bluetooth Speaker,1,833.08,20,South,Debit Card,
+ORD11789,2023-12-14,CUST0834,61.0,Home & Kitchen,Blender,1,2328.07,0,West,UPI,
+ORD10395,2023-05-21,CUST0689,59.0,Electronics,Bluetooth Speaker,2,1557.03,0,South,Credit Card,5.0
+ORD11077,2024-04-16,CUST0608,49.0,Fashion,Women's Dress,3,2917.75,0,East,Debit Card,4.0
+ORD10989,2024-09-05,CUST0101,35.0,Fashion,Leather Wallet,1,2845.63,0,West,UPI,5.0
+ORD11616,2023-03-07,CUST0011,54.0,Home & Kitchen,Non-stick Pan,1,3525.01,0,East,Credit Card,1.0
+ORD11384,2023-06-19,CUST0411,53.0,Home & Kitchen,Storage Rack,1,1329.48,10,West,Debit Card,4.0
+ORD11441,2023-02-09,CUST0355,21.0,Fashion,Women's Dress,1,2746.01,5,West,Cash on Delivery,5.0
+ORD10403,2023-08-10,CUST0677,23.0,Electronics,Power Bank,2,2990.62,0,north,UPI,4.0
+ORD10990,2023-06-01,CUST0732,27.0,Beauty,Shampoo 500ml,1,953.99,0,Central,Credit Card,4.0
+ORD10678,2024-06-09,CUST0804,38.0,Fashion,Leather Wallet,1,1509.06,10,Central,Cash on Delivery,4.0
+ORD11309,2023-06-01,CUST0557,45.0,Home & Kitchen,Non-stick Pan,1,391.59,15,West,UPI,4.0
+ORD11252,2023-07-15,CUST0745,55.0,Home & Kitchen,Storage Rack,1,1872.71,10,Central,UPI,5.0
+ORD11378,2024-02-27,CUST0724,56.0,Fashion,Men's T-Shirt,2,1824.64,10,South,Credit Card,
+ORD10823,2023-08-12,CUST0047,48.0,Beauty,Sunscreen SPF50,1,353.02,25,South,UPI,4.0
+ORD10964,2023-04-19,CUST0368,47.0,Electronics,Smartwatch,5,2850.08,0, West ,UPI,4.0
+ORD10836,2024-06-28,CUST0428,63.0,Electronics,Wireless Earbuds,1,1839.81,10,south,Debit Card,3.0
+ORD11034,2023-07-04,CUST0677,20.0,Home & Kitchen,LED Desk Lamp,4,848.73,0,North,Credit Card,4.0
+ORD11681,2024-02-10,CUST0644,,Home & Kitchen,Blender,1,4415.31,10, West ,Net Banking,4.0
+ORD10940,2023-04-21,CUST0030,51.0,Sports,Yoga Mat,2,1342.36,15,South,UPI,5.0
+ORD11055,2024-10-09,CUST0272,54.0,Electronics,Smartwatch,1,970.98,0,North,UPI,2.0
+ORD11102,2023-04-13,CUST0613,37.0,Electronics,Smartphone Case,1,3033.05,5,,UPI,5.0
+ORD10692,2023-03-21,CUST0733,52.0,Fashion,Running Shoes,1,2571.69,20,North,Credit Card,5.0
+ORD11635,2023-04-26,CUST0279,29.0,Electronics,Power Bank,1,5960.37,0,North,Credit Card,5.0
+ORD10335,2023-04-07,CUST0619,54.0,Electronics,Bluetooth Speaker,2,1203.27,25,South,UPI,5.0
+ORD10874,2024-06-11,CUST0767,55.0,Home & Kitchen,Non-stick Pan,1,,5,North,Credit Card,5.0
+ORD10806,2023-08-22,CUST0066,49.0,Fashion,Denim Jacket,1,1031.69,0,North,UPI,4.0
+ORD10008,2024-12-03,CUST0172,51.0,Electronics,Smartphone Case,2,5524.62,0,North,Cash on Delivery,4.0
+ORD10518,2024-09-09,CUST0437,42.0,Fashion,Women's Dress,5,1298.66,15,West,UPI,4.0
+ORD10198,2024-01-19,CUST0679,32.0,Home & Kitchen,LED Desk Lamp,4,722.19,0,,Cash on Delivery,2.0
+ORD10297,2023-07-06,CUST0061,19.0,Fashion,Running Shoes,1,2540.27,0,East,Credit Card,5.0
+ORD11417,2024-03-01,CUST0405,31.0,Electronics,Wireless Earbuds,3,5888.86,10,West,Debit Card,5.0
+ORD11492,2023-10-20,CUST0275,39.0,Home & Kitchen,Blender,2,3294.86,10,West,UPI,4.0
+ORD11807,2024-03-01,CUST0043,26.0,Fashion,Denim Jacket,4,2927.81,0,,UPI,2.0
+ORD11703,2023-02-04,CUST0410,31.0,Fashion,Leather Wallet,1,1719.2,0,East,Credit Card,5.0
+ORD10123,2023-07-27,CUST0187,39.0,Beauty,Face Serum,2,1607.82,0,West,Net Banking,
+ORD10379,2024-05-02,CUST0537,34.0,Beauty,Lipstick,1,548.33,5,West,UPI,
+ORD11063,2023-08-06,CUST0650,33.0,Fashion,Women's Dress,2,3299.82,15,North,Debit Card,
+ORD11775,2024-08-30,CUST0158,35.0,Electronics,Smartphone Case,1,3726.09,10,West,Credit Card,5.0
+ORD11497,2024-02-04,CUST0384,55.0,Beauty,Hair Dryer,3,239.15,20,South,Cash on Delivery,
+ORD10163,2024-09-26,CUST0160,,Home & Kitchen,Cushion Cover,1,3469.2,5, Central ,Debit Card,4.0
+ORD11187,2023-03-21,CUST0748,52.0,Home & Kitchen,Non-stick Pan,1,408.38,0,South,Net Banking,4.0
+ORD11092,2024-10-05,CUST0133,25.0,Home & Kitchen,Cushion Cover,1,3932.43,20,North,Credit Card,5.0
+ORD10125,2023-06-07,CUST0382,23.0,Sports,Dumbbell Set,4,324.75,10,West,UPI,4.0
+ORD10552,2023-02-03,CUST0226,35.0,Electronics,Power Bank,2,3607.58,0,Central,UPI,
+ORD10005,2024-02-20,CUST0371,34.0,Fashion,Running Shoes,2,755.04,10,East,Credit Card,
+ORD10916,2024-04-29,CUST0546,47.0,Home & Kitchen,Non-stick Pan,2,1168.42,0,North,Credit Card,
+ORD10959,2023-07-19,CUST0292,24.0,Beauty,Shampoo 500ml,1,805.32,0,Central,UPI,4.0
+ORD11733,2023-06-19,CUST0716,37.0,Home & Kitchen,Non-stick Pan,1,2412.4,0,North,Credit Card,5.0
+ORD11699,2023-02-14,CUST0561,40.0,Fashion,Leather Wallet,1,434.03,10,North,Cash on Delivery,4.0
+ORD10612,2023-04-17,CUST0387,61.0,Beauty,Shampoo 500ml,1,1593.05,15,South,UPI,5.0
+ORD10288,2024-06-10,CUST0302,,Electronics,Smartphone Case,4,1952.83,10,East,Cash on Delivery,4.0
+ORD11452,2023-11-02,CUST0515,42.0,Sports,Resistance Band,3,995.34,10,Central,Net Banking,
+ORD10957,2023-11-11,CUST0333,40.0,Home & Kitchen,Blender,3,2381.86,10,North,Cash on Delivery,1.0
+ORD10003,2024-05-13,CUST0707,25.0,Electronics,Power Bank,1,4672.76,0,South,Debit Card,4.0
+ORD11513,2024-01-27,CUST0017,28.0,Beauty,Lipstick,3,1614.19,0,North,Net Banking,4.0
+ORD11534,2024-11-05,CUST0122,31.0,Fashion,Running Shoes,1,1016.24,0,Central,Credit Card,4.0
+ORD10909,2024-01-10,CUST0107,61.0,Home & Kitchen,LED Desk Lamp,1,2491.25,0,north,Cash on Delivery,
+ORD10507,2024-07-06,CUST0285,31.0,Home & Kitchen,Storage Rack,1,1060.7,10,West,,4.0
+ORD10357,2023-08-31,CUST0401,63.0,Fashion,Men's T-Shirt,2,987.9,10,East,Credit Card,2.0
+ORD11424,2024-03-09,CUST0834,64.0,Beauty,Hair Dryer,4,1069.38,25,North,Credit Card,5.0
+ORD11342,2023-11-03,CUST0005,47.0,Home & Kitchen,Blender,6,359.86,0,South,Credit Card,5.0
+ORD10353,2023-07-29,CUST0046,35.0,Home & Kitchen,Blender,1,3607.76,0,West,Credit Card,5.0
+ORD10845,2023-06-23,CUST0077,47.0,Home & Kitchen,Blender,3,3606.26,10,East,Credit Card,3.0
+ORD11155,2024-10-09,CUST0793,60.0,Electronics,Wireless Earbuds,2,5522.24,0,East,Net Banking,3.0
+ORD10837,2023-11-08,CUST0611,39.0,Electronics,Power Bank,2,3505.9,0,West,Net Banking,3.0
+ORD10947,2024-11-03,CUST0592,39.0,Electronics,Power Bank,2,5809.2,0,West,Credit Card,4.0
+ORD10668,2023-08-16,CUST0431,38.0,Home & Kitchen,Storage Rack,1,3811.73,0,West,Credit Card,5.0
+ORD10887,2024-06-14,CUST0003,59.0,Sports,Resistance Band,2,2129.16,15,West,Cash on Delivery,5.0
+ORD11285,2024-12-13,CUST0733,51.0,Home & Kitchen,Storage Rack,2,4420.65,10,,Credit Card,5.0
+ORD11709,2023-09-29,CUST0493,27.0,Beauty,Hair Dryer,1,873.33,0,East,UPI,4.0
+ORD10334,2023-03-02,CUST0121,49.0,Fashion,Men's T-Shirt,1,1666.4,0, North ,Credit Card,5.0
+ORD10154,2024-08-11,CUST0728,42.0,Beauty,Sunscreen SPF50,1,1790.54,10,West,Debit Card,4.0
+ORD11421,2023-08-10,CUST0401,34.0,Electronics,Power Bank,1,964.31,0,East,Debit Card,5.0
+ORD10788,2024-05-15,CUST0224,38.0,Electronics,Smartwatch,2,3040.16,0,East,Cash on Delivery,4.0
+ORD10502,2024-12-07,CUST0214,21.0,Electronics,Smartwatch,4,2784.02,0,North,UPI,4.0
+ORD10722,2024-04-27,CUST0805,26.0,Beauty,Lipstick,2,533.73,20,West,Credit Card,3.0
+ORD10374,2023-03-17,CUST0533,45.0,Electronics,Bluetooth Speaker,1,3298.67,10,South,UPI,5.0
+ORD10591,2023-03-02,CUST0617,51.0,Fashion,Men's T-Shirt,1,3312.92,10,East,Credit Card,5.0
+ORD10313,2023-11-12,CUST0272,54.0,Electronics,Power Bank,2,2276.83,10,,Credit Card,4.0
+ORD10043,2023-01-19,CUST0647,64.0,Electronics,Smartphone Case,1,5622.79,10,Central,Debit Card,4.0
+ORD11893,2023-04-05,CUST0479,35.0,Electronics,Smartphone Case,2,1021.16,15,West,UPI,5.0
+ORD10646,2024-10-31,CUST0516,51.0,Fashion,Running Shoes,2,3151.29,0,North,Credit Card,4.0
+ORD11727,2023-04-24,CUST0557,23.0,Home & Kitchen,Cushion Cover,1,1156.38,5,North,Credit Card,2.0
+ORD10972,2023-12-07,CUST0823,49.0,Beauty,Shampoo 500ml,1,1176.05,0,North,Debit Card,
+ORD11773,2023-04-01,CUST0218,44.0,Electronics,Smartphone Case,1,5514.04,5,South,Cash on Delivery,5.0
+ORD10523,2023-10-16,CUST0032,52.0,Electronics,Wireless Earbuds,1,,15,East,UPI,
+ORD11643,2023-09-06,CUST0030,43.0,Fashion,Men's T-Shirt,1,1226.25,0,East,,5.0
+ORD10763,2023-03-16,CUST0706,39.0,Electronics,Power Bank,1,1818.85,5,North,UPI,4.0
+ORD11859,2024-12-03,CUST0478,42.0,Beauty,Hair Dryer,1,,10,North,UPI,
+ORD11873,2024-07-22,CUST0067,31.0,Fashion,Denim Jacket,1,804.26,0,Central,Cash on Delivery,5.0
+ORD11521,2023-12-24,CUST0049,37.0,Home & Kitchen,Blender,1,3576.28,0,Central,UPI,
+ORD10705,2024-03-23,CUST0786,22.0,Home & Kitchen,Blender,3,943.17,0,North,Debit Card,2.0
+ORD11704,2024-10-11,CUST0342,,Fashion,Denim Jacket,2,2258.15,0,South,UPI,
+ORD11816,2024-10-29,CUST0300,45.0,Fashion,Women's Dress,1,2763.4,0,South,Debit Card,4.0
+ORD11684,2023-03-13,CUST0710,,Fashion,Men's T-Shirt,1,455.97,25,west,Debit Card,
+ORD11592,2024-10-30,CUST0043,47.0,Electronics,Smartwatch,3,2584.84,5,South,UPI,5.0
+ORD10945,2024-02-28,CUST0624,22.0,Sports,Football,1,2051.35,5,west,UPI,2.0
+ORD10169,2024-02-05,CUST0582,61.0,Electronics,Bluetooth Speaker,1,3016.47,10,East,Net Banking,5.0
+ORD11770,2024-12-11,CUST0243,25.0,Fashion,Women's Dress,1,583.77,10,North,Cash on Delivery,4.0
+ORD10361,2023-04-21,CUST0103,54.0,Electronics,Smartphone Case,2,2444.41,0,South,UPI,4.0
+ORD11019,2023-01-12,CUST0527,61.0,Home & Kitchen,LED Desk Lamp,2,310.34,5,North,Credit Card,5.0
+ORD11470,2024-02-29,CUST0320,54.0,Home & Kitchen,Non-stick Pan,2,2366.53,0,South,Debit Card,
+ORD10869,2024-01-18,CUST0069,40.0,Beauty,Hair Dryer,5,1330.18,0,North,Debit Card,
+ORD10744,2024-03-02,CUST0820,46.0,Fashion,Leather Wallet,1,1023.01,5,North,UPI,3.0
+ORD10273,2024-08-05,CUST0533,37.0,Sports,Dumbbell Set,1,1434.93,0,West,Net Banking,5.0
+ORD11494,2024-06-28,CUST0299,23.0,Electronics,Power Bank,2,2026.47,0,East,Debit Card,4.0
+ORD10520,2024-04-04,CUST0629,40.0,Fashion,Women's Dress,1,1509.17,10,South,Debit Card,4.0
+ORD10815,2024-06-06,CUST0160,21.0,Beauty,Lipstick,1,1094.99,10,West,UPI,4.0
+ORD10819,2023-03-06,CUST0624,20.0,Fashion,Women's Dress,1,466.04,5,West,Credit Card,5.0
+ORD11402,2023-07-21,CUST0794,46.0,Fashion,Women's Dress,3,1670.01,10,North,Credit Card,5.0
+ORD10735,2023-12-09,CUST0107,42.0,Beauty,Face Serum,4,1542.9,0,central,Net Banking,4.0
+ORD11523,2023-08-26,CUST0364,40.0,Sports,Dumbbell Set,2,2587.14,0,West,Cash on Delivery,5.0
+ORD11908,2024-08-19,CUST0683,23.0,Electronics,Smartwatch,5,1122.54,5,Central,Debit Card,2.0
+ORD11510,2024-01-11,CUST0824,,Beauty,Shampoo 500ml,1,860.68,10,North,Cash on Delivery,
+ORD11887,2024-07-22,CUST0142,28.0,Beauty,Face Serum,1,1285.73,15,South,Cash on Delivery,4.0
+ORD11578,2024-08-18,CUST0801,18.0,Sports,Football,1,1402.01,0,North,Net Banking,5.0
+ORD11783,2023-03-19,CUST0329,44.0,Sports,Football,1,1741.42,0,West,Credit Card,2.0
+ORD11906,2024-01-23,CUST0372,38.0,Home & Kitchen,Cushion Cover,2,3613.99,0,Central,Credit Card,5.0
+ORD11122,2024-07-05,CUST0829,21.0,Sports,Football,3,2753.5,0,West,Credit Card,4.0
+ORD10129,2024-05-17,CUST0580,44.0,Electronics,Bluetooth Speaker,1,5530.94,10,North,Debit Card,5.0
+ORD10999,2023-11-11,CUST0321,54.0,Electronics,Smartphone Case,5,1684.0,5,West,Debit Card,5.0
+ORD11806,2023-08-07,CUST0066,44.0,Sports,Football,2,2530.86,15,East,Cash on Delivery,3.0
+ORD10545,2024-05-14,CUST0712,35.0,Electronics,Bluetooth Speaker,1,4576.28,0,Central,Cash on Delivery,
+ORD10380,2023-08-04,CUST0279,53.0,Sports,Cricket Bat,1,1204.14,0,North,Cash on Delivery,4.0
+ORD10204,2023-06-29,CUST0798,30.0,Fashion,Denim Jacket,1,2222.25,0,West,UPI,5.0
+ORD10344,2023-12-04,CUST0014,19.0,Electronics,Smartphone Case,1,5036.83,5,East,Cash on Delivery,4.0
+ORD11736,2023-03-06,CUST0024,44.0,Fashion,Running Shoes,2,1358.21,0,West,Credit Card,3.0
+ORD11884,2023-11-05,CUST0267,41.0,Fashion,Women's Dress,2,1483.88,5,west,Cash on Delivery,5.0
+ORD10519,2024-03-21,CUST0047,25.0,Beauty,Lipstick,1,1648.27,15,East,Credit Card,4.0
+ORD11798,2024-08-17,CUST0351,42.0,Electronics,Power Bank,1,5510.57,10,South,Credit Card,
+ORD10489,2024-12-11,CUST0068,54.0,Electronics,Power Bank,3,2883.74,10,West,UPI,4.0
+ORD11262,2024-06-20,CUST0393,63.0,Electronics,Bluetooth Speaker,1,3877.77,0,North,Credit Card,3.0
+ORD11049,2023-12-03,CUST0782,35.0,Fashion,Women's Dress,1,673.96,15,Central,Debit Card,4.0
+ORD11425,2023-03-13,CUST0767,44.0,Fashion,Running Shoes,1,1593.53,0,West,Credit Card,3.0
+ORD10918,2024-12-28,CUST0826,26.0,Fashion,Women's Dress,1,1675.64,0,North,UPI,5.0
+ORD10233,2023-12-11,CUST0592,25.0,Beauty,Lipstick,2,,0,east,Credit Card,
+ORD10795,2023-09-23,CUST0671,63.0,Electronics,Smartwatch,1,3103.4,20,,Credit Card,
+ORD11467,2024-07-31,CUST0395,50.0,Fashion,Leather Wallet,1,412.91,0,East,UPI,4.0
+ORD11902,2023-03-29,CUST0220,34.0,Fashion,Leather Wallet,5,3475.11,15,South,Credit Card,2.0
+ORD11123,2023-01-01,CUST0016,38.0,Fashion,Women's Dress,1,1683.35,0,East,Debit Card,5.0
+ORD10515,2024-10-07,CUST0530,34.0,Electronics,Bluetooth Speaker,8,4464.94,10,East,Credit Card,2.0
+ORD11704,2024-10-11,CUST0342,,Fashion,Denim Jacket,2,2258.15,0,South,UPI,
+ORD10512,2024-06-27,CUST0168,48.0,Beauty,Face Serum,1,423.01,5,Central,UPI,5.0
+ORD10113,2023-12-27,CUST0267,25.0,Fashion,Running Shoes,1,2161.32,10,Central,Net Banking,5.0
+ORD11944,2023-08-14,CUST0273,58.0,Fashion,Men's T-Shirt,1,708.16,0,east,Debit Card,5.0
+ORD10218,2024-04-08,CUST0083,40.0,Electronics,Bluetooth Speaker,4,2774.54,5,Central,Credit Card,5.0
+ORD11385,2024-11-21,CUST0265,21.0,Fashion,Leather Wallet,2,2819.13,0,West,UPI,3.0
+ORD10500,2023-02-09,CUST0631,42.0,Home & Kitchen,Cushion Cover,1,837.36,10,West,UPI,5.0
+ORD11993,2023-10-17,CUST0384,42.0,Electronics,Bluetooth Speaker,2,3129.63,5,East,Credit Card,5.0
+ORD10935,2024-07-24,CUST0704,31.0,Fashion,Denim Jacket,1,3480.49,5,South,Credit Card,5.0
+ORD10226,2024-03-12,CUST0607,20.0,Electronics,Wireless Earbuds,1,2640.06,15,Central,Cash on Delivery,1.0
+ORD11043,2023-11-26,CUST0739,60.0,Home & Kitchen,Non-stick Pan,3,3551.32,0,East,Debit Card,5.0
+ORD11193,2024-06-12,CUST0067,39.0,Fashion,Denim Jacket,1,2867.31,0,West,Cash on Delivery,4.0
+ORD11735,2024-05-17,CUST0118,32.0,Sports,Cricket Bat,1,2414.59,0,south,Debit Card,5.0
+ORD11317,2023-03-13,CUST0776,57.0,Home & Kitchen,Blender,1,2481.48,5,Central,UPI,2.0
+ORD11879,2023-07-09,CUST0476,43.0,Electronics,Smartphone Case,1,5271.93,5,North,UPI,2.0
+ORD11587,2024-08-03,CUST0328,25.0,Electronics,Wireless Earbuds,2,2944.92,0,North,Debit Card,5.0
+ORD10398,2023-04-19,CUST0016,56.0,Home & Kitchen,Blender,1,725.04,10,North,Net Banking,1.0
+ORD10541,2023-08-03,CUST0306,28.0,Sports,Yoga Mat,1,350.75,15,West,Cash on Delivery,
+ORD10329,2023-05-28,CUST0274,53.0,Home & Kitchen,Non-stick Pan,1,2125.36,10,Central,Debit Card,5.0
+ORD10796,2023-07-26,CUST0022,22.0,Electronics,Smartphone Case,4,1745.34,5,South,Credit Card,5.0
+ORD10849,2023-01-03,CUST0338,59.0,Home & Kitchen,LED Desk Lamp,1,3628.0,5,East,Cash on Delivery,3.0
+ORD10919,2023-06-29,CUST0750,48.0,Electronics,Smartphone Case,1,5648.7,5,South,Credit Card,4.0
+ORD11962,2024-09-27,CUST0058,42.0,Beauty,Hair Dryer,1,1019.51,0,Central,UPI,
+ORD11614,2024-08-20,CUST0163,49.0,Sports,Football,1,1239.83,0,North,Debit Card,4.0
+ORD10094,2023-07-07,CUST0578,61.0,Beauty,Hair Dryer,4,1253.76,0,East,Credit Card,
+ORD10214,2024-03-18,CUST0402,20.0,Electronics,Power Bank,1,1145.03,10,South,UPI,4.0
+ORD10771,2024-03-30,CUST0823,61.0,Fashion,Denim Jacket,1,1174.39,0,Central,Net Banking,4.0
+ORD10338,2023-04-19,CUST0778,36.0,Fashion,Women's Dress,1,2083.51,10,East,UPI,3.0
+ORD11450,2024-08-05,CUST0122,22.0,Beauty,Sunscreen SPF50,1,1189.47,0,south,Cash on Delivery,5.0
+ORD10804,2024-04-15,CUST0043,,Fashion,Women's Dress,1,1835.64,5,South,Credit Card,4.0
+ORD10213,2023-05-14,CUST0237,56.0,Home & Kitchen,Cushion Cover,2,838.36,10,West,Net Banking,4.0
+ORD10619,2023-03-29,CUST0558,41.0,Sports,Cricket Bat,1,1800.52,0,Central,Cash on Delivery,
+ORD11140,2023-07-25,CUST0106,37.0,Electronics,Smartwatch,1,2083.03,0,West,Debit Card,3.0
+ORD11183,2023-12-16,CUST0304,18.0,Electronics,Smartphone Case,1,1993.04,0,South,Credit Card,5.0
+ORD11169,2024-10-13,CUST0032,47.0,Electronics,Wireless Earbuds,5,4499.82,0,Central,UPI,3.0
+ORD11137,2023-01-01,CUST0185,35.0,Beauty,Hair Dryer,1,856.07,0,Central,Credit Card,5.0
+ORD10037,2024-08-06,CUST0631,21.0,Fashion,Women's Dress,2,2995.89,0,South,Credit Card,3.0
+ORD10106,2023-05-18,CUST0194,29.0,Sports,Football,5,1450.84,5,East,Credit Card,4.0
+ORD10363,2024-01-03,CUST0494,37.0,Electronics,Smartphone Case,1,2330.48,5, South ,Debit Card,2.0
+ORD10851,2023-11-05,CUST0229,27.0,Electronics,Power Bank,2,3176.88,0,central,Net Banking,5.0
+ORD10757,2024-05-14,CUST0402,32.0,Fashion,Women's Dress,2,3413.37,10,West,UPI,3.0
+ORD10759,2023-04-14,CUST0580,26.0,Beauty,Face Serum,2,1267.68,5,Central,UPI,4.0
+ORD10366,2024-03-22,CUST0471,30.0,Electronics,Bluetooth Speaker,2,4717.52,0,West,Credit Card,4.0
+ORD10857,2023-08-08,CUST0344,,Electronics,Bluetooth Speaker,1,1363.17,15,North,Net Banking,
+ORD11466,2023-01-08,CUST0174,59.0,Electronics,Smartwatch,4,4037.22,20,central,Credit Card,4.0
+ORD11707,2023-11-27,CUST0765,32.0,Beauty,Shampoo 500ml,2,402.68,5,East,UPI,5.0
+ORD10109,2024-06-29,CUST0149,57.0,Home & Kitchen,Non-stick Pan,1,765.04,0,Central,Debit Card,5.0
+ORD10566,2023-04-13,CUST0489,62.0,Sports,Yoga Mat,1,2683.33,15,West,UPI,5.0
+ORD11376,2023-07-07,CUST0279,44.0,Fashion,Men's T-Shirt,1,1610.56,15,East,UPI,4.0
+ORD11887,2024-07-22,CUST0142,28.0,Beauty,Face Serum,1,1285.73,15,South,Cash on Delivery,4.0
+ORD10250,2024-06-28,CUST0726,37.0,Home & Kitchen,Blender,1,2770.73,0,West,Debit Card,4.0
+ORD10477,2024-06-06,CUST0758,64.0,Electronics,Power Bank,1,4992.35,5,West,Credit Card,4.0
+ORD11475,2023-03-18,CUST0020,21.0,Electronics,Smartphone Case,1,1609.3,10,West,Debit Card,4.0
+ORD11431,2024-09-15,CUST0229,37.0,Sports,Dumbbell Set,1,1204.55,10,North,UPI,5.0
+ORD11930,2023-12-29,CUST0566,36.0,Electronics,Power Bank,2,4267.16,10, Central ,Debit Card,5.0
+ORD11189,2023-04-07,CUST0304,35.0,Electronics,Power Bank,1,3707.7,0,East,Debit Card,4.0
+ORD10782,2023-04-01,CUST0696,46.0,Fashion,Leather Wallet,3,2314.14,5,Central,Cash on Delivery,5.0
+ORD10455,2024-11-19,CUST0597,23.0,Fashion,Running Shoes,2,1863.37,15,East,Credit Card,4.0
+ORD11837,2024-12-18,CUST0505,32.0,Electronics,Power Bank,1,944.89,0,West,Credit Card,3.0
+ORD11201,2023-11-17,CUST0483,20.0,Fashion,Denim Jacket,2,2647.0,10,Central,Cash on Delivery,5.0
+ORD11108,2023-04-25,CUST0511,53.0,Fashion,Denim Jacket,2,3366.42,15,North,UPI,
+ORD10231,2024-08-15,CUST0085,35.0,Electronics,Bluetooth Speaker,1,4751.62,10,East,Credit Card,4.0
+ORD11320,2023-03-05,CUST0097,28.0,Electronics,Smartphone Case,1,5249.93,10,central,UPI,5.0
+ORD10653,2024-04-19,CUST0802,19.0,Electronics,Smartphone Case,2,1286.94,5,South,Credit Card,4.0
+ORD10071,2024-08-20,CUST0180,56.0,Sports,Yoga Mat,1,1188.81,0,West,Debit Card,5.0
+ORD10611,2023-01-06,CUST0603,44.0,Electronics,Bluetooth Speaker,1,2433.5,10,East,Debit Card,5.0
+ORD11175,2024-11-01,CUST0240,37.0,Fashion,Women's Dress,2,1574.51,0,East,Credit Card,1.0
+ORD11957,2023-04-05,CUST0367,53.0,Beauty,Shampoo 500ml,1,458.56,0,South,Credit Card,5.0
+ORD11892,2024-01-02,CUST0584,26.0,Home & Kitchen,LED Desk Lamp,1,3482.1,15,South,Credit Card,5.0
+ORD11978,2023-05-06,CUST0764,53.0,Fashion,Men's T-Shirt,2,794.89,10,,UPI,3.0
+ORD10411,2024-04-12,CUST0640,33.0,Home & Kitchen,Non-stick Pan,4,3156.26,20,North,UPI,5.0
+ORD11871,2023-05-01,CUST0152,32.0,Fashion,Men's T-Shirt,1,1166.45,0,East,Net Banking,4.0
+ORD11152,2023-10-28,CUST0256,24.0,Electronics,Power Bank,6,1861.45,0,East,Debit Card,5.0
+ORD10339,2023-06-22,CUST0031,28.0,Fashion,Denim Jacket,1,2712.43,0,West,Credit Card,
+ORD11026,2024-07-02,CUST0486,35.0,Electronics,Wireless Earbuds,5,3780.12,0,North,Credit Card,5.0
+ORD10044,2024-06-10,CUST0623,56.0,Sports,Cricket Bat,1,2264.14,5,Central,Cash on Delivery,3.0
+ORD10540,2023-02-09,CUST0759,30.0,Fashion,Women's Dress,1,,10,South,UPI,5.0
+ORD10602,2024-08-27,CUST0199,44.0,Electronics,Smartphone Case,2,5704.35,10,South,UPI,5.0
+ORD11333,2023-05-18,CUST0085,51.0,Electronics,Wireless Earbuds,1,4272.77,10, south ,UPI,4.0
+ORD11610,2024-03-02,CUST0834,41.0,Home & Kitchen,Storage Rack,1,3528.73,10,West,Credit Card,5.0
+ORD10966,2023-09-27,CUST0190,43.0,Fashion,Denim Jacket,1,1981.82,0,East,Net Banking,4.0
+ORD11821,2023-02-03,CUST0235,64.0,Fashion,Women's Dress,1,516.74,0,West,Debit Card,5.0
+ORD11435,2024-04-17,CUST0285,55.0,Electronics,Bluetooth Speaker,1,1018.65,25,Central,Credit Card,4.0
+ORD10172,2024-12-24,CUST0253,53.0,Home & Kitchen,Non-stick Pan,2,820.49,10,West,Credit Card,4.0
+ORD10418,2023-05-25,CUST0734,57.0,Fashion,Men's T-Shirt,3,1431.76,20,North,Debit Card,5.0
+ORD10838,2024-12-18,CUST0321,56.0,Home & Kitchen,LED Desk Lamp,1,2788.66,5,West,Credit Card,5.0
+ORD11911,2024-08-16,CUST0354,32.0,Fashion,Running Shoes,2,2089.98,0,West,Net Banking,4.0
+ORD11691,2024-06-30,CUST0825,20.0,Sports,Football,3,2067.42,10,South,Credit Card,5.0
+ORD11628,2024-05-06,CUST0753,61.0,Electronics,Power Bank,1,1774.48,0,West,UPI,4.0
+ORD10807,2023-07-27,CUST0744,50.0,Beauty,Sunscreen SPF50,1,527.14,0,East,Net Banking,5.0
+ORD10883,2023-06-20,CUST0452,32.0,Sports,Resistance Band,1,841.36,20,Central,Cash on Delivery,
+ORD11485,2024-07-23,CUST0333,45.0,Home & Kitchen,LED Desk Lamp,1,3154.91,10,South,UPI,5.0
+ORD11896,2023-08-16,CUST0249,42.0,Beauty,Sunscreen SPF50,2,169.43,5,West,Net Banking,4.0
+ORD10638,2024-06-29,CUST0239,57.0,Beauty,Shampoo 500ml,1,718.41,10,South,UPI,4.0
+ORD10424,2023-08-09,CUST0470,28.0,Beauty,Shampoo 500ml,1,1498.5,25,South,Credit Card,3.0
+ORD10728,2024-04-27,CUST0101,49.0,Electronics,Bluetooth Speaker,1,5339.8,5,South,Credit Card,5.0
+ORD10968,2024-10-20,CUST0669,32.0,Electronics,Smartwatch,3,1365.21,25,South,Credit Card,2.0
+ORD11340,2023-09-11,CUST0191,,Fashion,Running Shoes,1,1510.08,0,East,Credit Card,3.0
+ORD10377,2023-02-06,CUST0612,61.0,Fashion,Women's Dress,2,3096.56,10,South,Debit Card,4.0
+ORD10525,2023-12-23,CUST0111,33.0,Home & Kitchen,Cushion Cover,1,2596.63,0,South,UPI,3.0
+ORD11897,2023-10-31,CUST0665,58.0,Fashion,Men's T-Shirt,2,2607.78,20,North,UPI,4.0
+ORD10439,2023-07-12,CUST0552,50.0,Home & Kitchen,Blender,1,4318.93,0,North,Debit Card,4.0
+ORD11750,2024-02-14,CUST0206,51.0,Beauty,Shampoo 500ml,1,308.44,10,South,Credit Card,4.0
+ORD10151,2023-04-06,CUST0521,39.0,Beauty,Lipstick,5,1322.09,0,East,UPI,2.0
+ORD11282,2023-12-27,CUST0456,20.0,Electronics,Power Bank,1,1395.97,0,west,Net Banking,3.0
+ORD11581,2024-10-09,CUST0131,,Home & Kitchen,Storage Rack,1,2255.42,10,Central,UPI,4.0
+ORD11843,2024-04-22,CUST0568,21.0,Beauty,Lipstick,2,267.1,0,South,UPI,5.0
+ORD10982,2024-08-12,CUST0376,50.0,Beauty,Face Serum,1,1196.43,10,East,Net Banking,5.0
+ORD10955,2023-03-03,CUST0539,45.0,Electronics,Smartphone Case,4,2979.03,0,South,Credit Card,5.0
+ORD11831,2024-05-14,CUST0690,,Electronics,Bluetooth Speaker,2,1956.37,0, North ,Net Banking,4.0
+ORD11434,2023-01-16,CUST0839,62.0,Electronics,Smartwatch,1,3149.92,0,South,UPI,2.0
+ORD10144,2024-04-20,CUST0444,43.0,Sports,Dumbbell Set,2,,0,North,UPI,4.0
+ORD10718,2024-01-27,CUST0020,47.0,Fashion,Women's Dress,1,1948.36,10,Central,Debit Card,
+ORD10527,2023-03-08,CUST0813,63.0,Electronics,Wireless Earbuds,2,1681.09,5,East,Credit Card,
+ORD11886,2024-09-07,CUST0387,20.0,Sports,Dumbbell Set,2,2384.72,10, West ,Net Banking,4.0
+ORD10584,2023-06-12,CUST0759,63.0,Electronics,Smartphone Case,1,2783.23,20,,UPI,
+ORD10976,2023-07-14,CUST0351,27.0,Beauty,Hair Dryer,1,456.03,10,East,UPI,5.0
+ORD10567,2023-05-22,CUST0195,54.0,Beauty,Face Serum,1,1293.21,0,West,Credit Card,3.0
+ORD11233,2024-08-16,CUST0271,41.0,Fashion,Men's T-Shirt,1,3090.45,5,South,Debit Card,4.0
+ORD10441,2024-02-15,CUST0364,54.0,Home & Kitchen,Non-stick Pan,1,4044.62,0,,UPI,4.0
+ORD11156,2023-02-26,CUST0041,59.0,Beauty,Sunscreen SPF50,2,1375.62,0,Central,Debit Card,4.0
+ORD11405,2023-04-22,CUST0036,46.0,Home & Kitchen,Storage Rack,1,2151.14,0,Central,Credit Card,5.0
+ORD10175,2024-04-29,CUST0497,53.0,Home & Kitchen,Non-stick Pan,1,4490.2,5,North,UPI,4.0
+ORD11558,2023-08-25,CUST0048,57.0,Electronics,Bluetooth Speaker,2,3676.76,0,East,UPI,5.0
+ORD11295,2023-04-10,CUST0457,21.0,Electronics,Wireless Earbuds,1,2719.97,5,South,Credit Card,5.0
+ORD11432,2023-12-04,CUST0122,60.0,Home & Kitchen,Storage Rack,1,911.44,20,South,UPI,5.0
+ORD11841,2023-02-01,CUST0065,27.0,Home & Kitchen,Storage Rack,1,3654.0,25,West,Net Banking,3.0
+ORD10124,2024-02-16,CUST0634,,Home & Kitchen,Blender,1,1762.76,20,West,Credit Card,5.0
+ORD10139,2024-08-14,CUST0786,44.0,Beauty,Hair Dryer,1,1145.62,0,South,Credit Card,5.0
+ORD10880,2024-08-31,CUST0730,47.0,Fashion,Men's T-Shirt,1,1487.78,10,West,UPI,4.0
+ORD11076,2024-09-09,CUST0150,55.0,Beauty,Lipstick,2,1584.88,15,South,Cash on Delivery,4.0
+ORD10733,2024-11-10,CUST0821,23.0,Electronics,Power Bank,2,4909.09,15,South,Cash on Delivery,5.0
+ORD10625,2023-09-02,CUST0464,55.0,Fashion,Denim Jacket,2,2382.56,5, west ,Net Banking,5.0
+ORD11300,2024-02-10,CUST0088,61.0,Fashion,Men's T-Shirt,1,2974.97,0,North,Credit Card,5.0
+ORD10785,2023-06-10,CUST0761,36.0,Fashion,Leather Wallet,1,2192.54,10,North,Cash on Delivery,3.0
+ORD12000,2024-05-25,CUST0219,34.0,Home & Kitchen,Cushion Cover,3,2495.03,10,North,Credit Card,3.0
+ORD11367,2024-09-02,CUST0711,38.0,Electronics,Wireless Earbuds,2,1518.44,10,South,Debit Card,5.0
+ORD11281,2024-11-08,CUST0821,19.0,Electronics,Wireless Earbuds,3,5624.71,10,South,UPI,
+ORD10183,2023-08-03,CUST0576,46.0,Fashion,Leather Wallet,2,1947.77,0,East,Credit Card,4.0
+ORD10618,2023-01-11,CUST0806,46.0,Fashion,Men's T-Shirt,1,3467.8,10,East,Debit Card,3.0
+ORD11325,2024-08-13,CUST0599,27.0,Fashion,Leather Wallet,1,1139.53,10,North,Net Banking,3.0
+ORD10691,2024-07-08,CUST0454,44.0,Fashion,Women's Dress,5,2987.72,15,South,Cash on Delivery,5.0
+ORD11780,2024-01-31,CUST0077,18.0,Electronics,Power Bank,1,2161.97,0,West,Credit Card,4.0
+ORD10241,2023-09-10,CUST0139,18.0,Fashion,Men's T-Shirt,1,2248.94,0,Central,Credit Card,5.0
+ORD11255,2024-10-09,CUST0571,64.0,Sports,Dumbbell Set,2,2668.8,10,South,UPI,1.0
+ORD11949,2023-05-23,CUST0448,49.0,Fashion,Running Shoes,1,1096.94,0,east,Credit Card,3.0
+ORD11351,2023-07-03,CUST0675,20.0,Home & Kitchen,Storage Rack,1,1972.62,0,North,UPI,5.0
+ORD10459,2024-11-22,CUST0020,60.0,Fashion,Running Shoes,2,888.2,0,West,Debit Card,
+ORD10682,2023-09-17,CUST0594,60.0,Sports,Resistance Band,4,2961.64,0,East,Credit Card,5.0
+ORD11687,2023-04-06,CUST0746,53.0,Home & Kitchen,Blender,1,3115.16,15,Central,Debit Card,3.0
+ORD11693,2024-03-06,CUST0213,48.0,Sports,Resistance Band,1,2187.35,5,West,UPI,3.0
+ORD10466,2023-04-19,CUST0187,60.0,Beauty,Face Serum,2,924.58,0,Central,UPI,
+ORD11188,2024-07-22,CUST0135,20.0,Home & Kitchen,Non-stick Pan,2,3192.43,0,North,Credit Card,
+ORD11192,2024-11-02,CUST0230,20.0,Fashion,Women's Dress,1,1598.1,0,South,Debit Card,5.0
+ORD10146,2024-01-12,CUST0789,30.0,Electronics,Power Bank,1,2593.12,10,South,Debit Card,4.0
+ORD10207,2023-06-11,CUST0174,36.0,Fashion,Women's Dress,5,3318.24,10,Central,Credit Card,5.0
+ORD11525,2023-12-30,CUST0188,36.0,Fashion,Running Shoes,1,1278.1,10,East,,4.0
+ORD11213,2024-01-28,CUST0174,28.0,Electronics,Wireless Earbuds,1,4756.14,0,Central,Cash on Delivery,5.0
+ORD11760,2023-11-25,CUST0285,40.0,Home & Kitchen,Non-stick Pan,3,3260.65,0,South,UPI,5.0
+ORD10325,2024-09-23,CUST0241,39.0,Home & Kitchen,LED Desk Lamp,1,504.4,0, Central ,Credit Card,5.0
+ORD10658,2023-12-31,CUST0324,54.0,Electronics,Power Bank,2,1645.14,10,South,Debit Card,5.0
+ORD11751,2024-01-13,CUST0647,26.0,Home & Kitchen,Cushion Cover,1,1888.05,10,West,Debit Card,5.0
+ORD11855,2024-05-15,CUST0812,33.0,Home & Kitchen,LED Desk Lamp,1,1536.71,10,Central,UPI,3.0
+ORD10715,2023-05-01,CUST0271,43.0,Fashion,Denim Jacket,1,1890.81,0,South,Cash on Delivery,2.0
+ORD11874,2023-05-21,CUST0348,53.0,Fashion,Women's Dress,2,900.25,0,East,Cash on Delivery,3.0
+ORD11927,2023-10-16,CUST0545,31.0,Home & Kitchen,Non-stick Pan,2,301.21,25,South,Debit Card,5.0
+ORD11600,2024-04-09,CUST0231,52.0,Fashion,Leather Wallet,1,2970.43,10,West,,4.0
+ORD10080,2023-10-12,CUST0752,40.0,Electronics,Wireless Earbuds,5,5992.77,25,North,Debit Card,3.0
+ORD11850,2024-01-10,CUST0406,47.0,Fashion,Women's Dress,2,2943.75,10,South,Cash on Delivery,
+ORD11833,2023-10-16,CUST0661,46.0,Fashion,Denim Jacket,3,2868.91,0,South,Debit Card,1.0
+ORD10688,2024-06-12,CUST0823,,Home & Kitchen,Cushion Cover,3,4288.85,0,Central,Debit Card,5.0
+ORD10167,2024-12-20,CUST0314,57.0,Electronics,Smartphone Case,1,1886.59,10,East,Debit Card,5.0
+ORD11631,2024-05-01,CUST0425,59.0,Fashion,Men's T-Shirt,1,3384.74,5,West,Debit Card,
+ORD10230,2023-02-15,CUST0281,21.0,Electronics,Smartphone Case,1,1369.33,0,South,Credit Card,3.0
+ORD11969,2024-05-21,CUST0537,50.0,Fashion,Men's T-Shirt,1,1652.12,0,East,UPI,4.0
+ORD11913,2024-10-19,CUST0345,51.0,Electronics,Power Bank,2,3413.4,5,South,Credit Card,4.0
+ORD10741,2024-01-30,CUST0208,20.0,Beauty,Hair Dryer,1,511.28,5,South,Credit Card,
+ORD10101,2023-02-16,CUST0801,35.0,Fashion,Leather Wallet,1,1363.03,15,West,Cash on Delivery,5.0
+ORD10291,2024-05-28,CUST0149,64.0,Sports,Football,2,1023.62,15,South,Debit Card,4.0
+ORD10445,2024-05-22,CUST0369,40.0,Fashion,Women's Dress,1,1752.71,5,east,Credit Card,4.0
+ORD10879,2024-04-04,CUST0320,24.0,Electronics,Smartwatch,1,4208.19,0,Central,UPI,5.0
+ORD11456,2023-04-03,CUST0724,37.0,Home & Kitchen,Blender,2,3135.64,5,East,Debit Card,1.0
+ORD11078,2023-03-07,CUST0542,24.0,Home & Kitchen,Storage Rack,2,1665.83,0,North,UPI,3.0
+ORD10740,2024-02-17,CUST0603,60.0,Fashion,Men's T-Shirt,2,2968.27,5,East,Debit Card,5.0
+ORD10392,2023-04-04,CUST0122,56.0,Home & Kitchen,Non-stick Pan,1,2707.0,0,Central,Cash on Delivery,5.0
+ORD10087,2023-02-06,CUST0479,39.0,Electronics,Bluetooth Speaker,2,3928.1,5,South,UPI,3.0
+ORD11548,2024-08-26,CUST0373,19.0,Home & Kitchen,Storage Rack,1,2802.6,5,North,UPI,4.0
+ORD10667,2024-01-23,CUST0466,55.0,Fashion,Denim Jacket,1,584.29,0,West,Net Banking,4.0
+ORD11276,2024-04-11,CUST0459,20.0,Fashion,Men's T-Shirt,1,1100.69,0,Central,Net Banking,
+ORD11524,2023-05-16,CUST0751,24.0,Home & Kitchen,Blender,1,2847.68,10,Central,Cash on Delivery,5.0
+ORD11828,2024-10-02,CUST0456,36.0,Sports,Resistance Band,3,1760.85,0, East ,Credit Card,5.0
+ORD10476,2024-12-23,CUST0722,56.0,Home & Kitchen,LED Desk Lamp,4,2487.86,10,South,Net Banking,1.0
+ORD11695,2024-10-17,CUST0059,60.0,Electronics,Smartwatch,2,2263.96,20,East,Credit Card,3.0
+ORD11296,2023-01-06,CUST0071,32.0,Home & Kitchen,Blender,5,4357.12,5,West,UPI,5.0
+ORD10045,2023-09-10,CUST0681,43.0,Beauty,Sunscreen SPF50,1,958.0,20,West,Credit Card,4.0
+ORD10789,2024-01-23,CUST0684,44.0,Sports,Resistance Band,2,1770.44,20,West,Credit Card,4.0
+ORD11003,2024-07-03,CUST0704,,Beauty,Face Serum,3,937.76,15,West,Credit Card,4.0
+ORD11138,2024-10-18,CUST0422,43.0,Electronics,Wireless Earbuds,2,809.62,10,South,Credit Card,4.0
+ORD10025,2024-06-13,CUST0081,20.0,Electronics,Power Bank,1,1239.36,10,Central,Credit Card,4.0
+ORD11236,2023-05-22,CUST0389,47.0,Home & Kitchen,Storage Rack,1,343.42,0,South,UPI,4.0
+ORD11645,2024-03-15,CUST0239,34.0,Electronics,Power Bank,1,4167.36,5,North,Debit Card,4.0
+ORD10833,2024-08-31,CUST0355,19.0,Fashion,Running Shoes,1,2034.93,0,North,Cash on Delivery,5.0
+ORD11194,2024-04-22,CUST0131,42.0,Electronics,Smartwatch,1,2727.91,0,East,UPI,
+ORD10592,2023-09-29,CUST0777,36.0,Electronics,Power Bank,1,2996.91,0,North,Credit Card,4.0
+ORD11759,2023-07-28,CUST0110,24.0,Electronics,Power Bank,1,5900.39,0,South,UPI,
+ORD10974,2024-12-25,CUST0183,41.0,Beauty,Lipstick,1,654.8,0,Central,Credit Card,5.0
+ORD11621,2023-11-06,CUST0019,38.0,Home & Kitchen,Cushion Cover,3,2490.33,0,West,Debit Card,5.0
+ORD11545,2023-12-13,CUST0100,42.0,Electronics,Smartphone Case,3,4160.6,15,South,Net Banking,4.0
+ORD11057,2023-10-31,CUST0101,39.0,Electronics,Wireless Earbuds,2,5291.43,15,South,Debit Card,4.0
+ORD11636,2023-03-18,CUST0682,40.0,Home & Kitchen,LED Desk Lamp,1,2189.43,0,North,Credit Card,2.0
+ORD10110,2023-12-16,CUST0381,27.0,Fashion,Denim Jacket,2,1247.63,0,West,Debit Card,5.0
+ORD11161,2024-10-04,CUST0061,33.0,Fashion,Denim Jacket,1,445.37,0,North,Debit Card,4.0
+ORD11355,2023-01-09,CUST0143,25.0,Fashion,Men's T-Shirt,1,1461.95,5,West,UPI,4.0
+ORD10223,2024-11-15,CUST0283,61.0,Electronics,Wireless Earbuds,1,2369.33,0, South ,Credit Card,2.0
+ORD11053,2023-12-26,CUST0431,24.0,Sports,Yoga Mat,1,2103.02,10,South,Debit Card,4.0
+ORD11312,2023-01-03,CUST0444,35.0,Fashion,Running Shoes,1,1145.38,0,north,UPI,5.0
+ORD10723,2023-09-20,CUST0191,42.0,Beauty,Lipstick,1,1570.1,20,East,Credit Card,
+ORD10056,2024-02-20,CUST0513,63.0,Electronics,Wireless Earbuds,1,3869.02,10,south,Cash on Delivery,4.0
+ORD11927,2023-10-16,CUST0545,31.0,Home & Kitchen,Non-stick Pan,2,301.21,25,South,Debit Card,5.0
+ORD10254,2023-06-14,CUST0679,19.0,Sports,Cricket Bat,2,564.72,15,South,UPI,3.0
+ORD10362,2023-07-20,CUST0304,19.0,Beauty,Hair Dryer,1,241.55,0,Central,UPI,4.0
+ORD11073,2023-11-19,CUST0766,22.0,Fashion,Women's Dress,3,1344.12,0,North,UPI,5.0
+ORD11620,2024-08-13,CUST0580,47.0,Fashion,Women's Dress,2,2224.51,0,South,UPI,4.0
+ORD11493,2024-05-07,CUST0427,41.0,Fashion,Women's Dress,1,1156.68,5,West,Credit Card,4.0
+ORD10643,2023-10-10,CUST0209,24.0,Electronics,Wireless Earbuds,5,5386.66,10,Central,Debit Card,5.0
+ORD10546,2024-05-27,CUST0599,46.0,Fashion,Running Shoes,4,2188.62,5,North,Cash on Delivery,3.0
+ORD10478,2023-11-30,CUST0050,54.0,Electronics,Wireless Earbuds,1,4234.77,20,East,UPI,4.0
+ORD10950,2024-12-07,CUST0559,39.0,Sports,Yoga Mat,1,2051.09,0,East,Credit Card,4.0
+ORD11572,2023-10-05,CUST0799,62.0,Sports,Cricket Bat,2,1587.4,0,West,UPI,5.0
+ORD10844,2024-06-24,CUST0615,62.0,Home & Kitchen,Cushion Cover,3,2865.39,20,Central,Cash on Delivery,4.0
+ORD10064,2023-12-08,CUST0748,45.0,Sports,Cricket Bat,2,697.9,0,South,Credit Card,5.0
+ORD10414,2024-09-24,CUST0532,22.0,Fashion,Men's T-Shirt,1,2686.46,10,North,Credit Card,5.0
+ORD10385,2024-06-10,CUST0790,31.0,Electronics,Power Bank,1,1925.28,0,North,Credit Card,4.0
+ORD11988,2023-09-28,CUST0514,28.0,Fashion,Men's T-Shirt,1,3461.03,0,North,Net Banking,5.0
+ORD10975,2023-07-10,CUST0389,64.0,Electronics,Wireless Earbuds,1,5245.53,0,West,Debit Card,
+ORD11347,2023-11-21,CUST0816,63.0,Fashion,Women's Dress,1,3183.74,10, West ,UPI,4.0
+ORD10885,2024-09-25,CUST0640,42.0,Electronics,Bluetooth Speaker,1,4855.99,5,North,UPI,5.0
+ORD10452,2024-01-05,CUST0492,53.0,Home & Kitchen,Non-stick Pan,1,2352.71,15, East ,Credit Card,5.0
+ORD11891,2024-01-03,CUST0312,,Fashion,Women's Dress,1,3485.17,0,North,Cash on Delivery,3.0
+ORD11259,2024-03-17,CUST0603,21.0,Electronics,Smartphone Case,1,2616.48,0,West,Debit Card,5.0
+ORD10657,2024-12-20,CUST0209,31.0,Beauty,Face Serum,1,1237.5,5,East,Credit Card,4.0
+ORD11582,2023-03-16,CUST0013,58.0,Electronics,Bluetooth Speaker,2,5874.68,20, Central ,Credit Card,5.0
+ORD11487,2024-12-22,CUST0785,43.0,Electronics,Power Bank,3,4080.12,0,East,Cash on Delivery,5.0
+ORD11449,2023-05-28,CUST0284,50.0,Electronics,Smartphone Case,2,4848.58,0,West,Credit Card,4.0
+ORD11486,2024-02-18,CUST0635,48.0,Home & Kitchen,Non-stick Pan,1,638.74,5,North,Cash on Delivery,5.0
+ORD11328,2023-09-02,CUST0264,33.0,Sports,Cricket Bat,1,1406.35,0, North ,Credit Card,3.0
+ORD10370,2024-06-28,CUST0449,63.0,Fashion,Women's Dress,1,1428.62,0,North,Credit Card,4.0
+ORD10690,2024-01-01,CUST0337,43.0,Fashion,Men's T-Shirt,2,1818.83,15,East,Credit Card,5.0
+ORD10220,2023-05-13,CUST0227,54.0,Fashion,Denim Jacket,2,1790.22,15,South,UPI,4.0
+ORD11900,2023-04-13,CUST0667,38.0,Home & Kitchen,Cushion Cover,2,2484.13,5,West,UPI,5.0
+ORD11321,2023-09-27,CUST0778,21.0,Home & Kitchen,Blender,1,3644.58,5,South,Net Banking,
+ORD10022,2024-10-20,CUST0543,50.0,Beauty,Shampoo 500ml,1,1210.1,5,Central,UPI,4.0
+ORD10761,2024-08-31,CUST0122,42.0,Home & Kitchen,LED Desk Lamp,2,2974.79,0,west,UPI,5.0
+ORD10870,2024-12-26,CUST0324,43.0,Fashion,Leather Wallet,1,2298.84,20,East,Net Banking,3.0
+ORD10421,2023-06-13,CUST0720,,Fashion,Women's Dress,1,3375.42,10,Central,UPI,4.0
+ORD11350,2023-04-27,CUST0496,33.0,Home & Kitchen,Storage Rack,1,576.67,15,West,Net Banking,5.0
+ORD10200,2024-01-29,CUST0655,53.0,Home & Kitchen,Storage Rack,5,3810.62,10,West,UPI,5.0
+ORD10451,2023-12-31,CUST0130,59.0,Electronics,Smartwatch,2,3511.73,0,North,Net Banking,5.0
+ORD11162,2023-04-13,CUST0149,60.0,Electronics,Bluetooth Speaker,3,4022.53,20,Central,Credit Card,5.0
+ORD11020,2024-09-08,CUST0364,49.0,Beauty,Lipstick,5,1472.09,0, West ,Credit Card,4.0
+ORD11561,2024-12-22,CUST0362,44.0,Home & Kitchen,Non-stick Pan,1,3399.17,0,central,Debit Card,1.0
+ORD10912,2024-08-05,CUST0277,47.0,Sports,Yoga Mat,1,2497.69,0,East,Credit Card,
+ORD10697,2024-08-01,CUST0446,20.0,Beauty,Face Serum,3,369.86,0,East,UPI,5.0
+ORD11742,2023-05-22,CUST0561,60.0,Beauty,Shampoo 500ml,1,827.03,5,West,Credit Card,4.0
+ORD11671,2024-08-28,CUST0018,54.0,Home & Kitchen,Non-stick Pan,1,4265.07,0,South,Credit Card,5.0
+ORD10812,2023-04-25,CUST0680,26.0,Fashion,Denim Jacket,1,3260.47,15,West,Cash on Delivery,2.0
+ORD11653,2023-07-30,CUST0503,45.0,Electronics,Smartwatch,1,4968.27,10,North,Credit Card,5.0
+ORD11237,2024-10-27,CUST0181,23.0,Beauty,Shampoo 500ml,1,1680.6,0,East,Net Banking,5.0
+ORD11996,2023-04-29,CUST0198,21.0,Home & Kitchen,Storage Rack,1,3470.74,0,West,UPI,2.0
+ORD10911,2023-05-05,CUST0126,44.0,Sports,Resistance Band,1,2589.92,0,Central,Credit Card,4.0
+ORD11522,2024-05-09,CUST0248,26.0,Home & Kitchen,Blender,1,3307.06,5,East,Credit Card,5.0
+ORD11050,2024-03-02,CUST0462,24.0,Electronics,Smartwatch,1,4781.42,10,North,Net Banking,4.0
+ORD10506,2023-06-08,CUST0177,59.0,Home & Kitchen,Storage Rack,5,3645.96,0,West,Net Banking,5.0
+ORD11839,2023-03-02,CUST0668,23.0,Electronics,Bluetooth Speaker,1,2082.23,0,North,UPI,3.0
+ORD11256,2023-05-10,CUST0285,18.0,Fashion,Men's T-Shirt,1,2865.52,10,North,Cash on Delivery,4.0
+ORD10406,2024-09-26,CUST0496,53.0,Home & Kitchen,LED Desk Lamp,1,2466.74,10,Central,UPI,2.0
+ORD11754,2023-12-07,CUST0704,59.0,Fashion,Running Shoes,3,2518.22,0,Central,Credit Card,5.0
+ORD11593,2024-09-30,CUST0077,59.0,Electronics,Bluetooth Speaker,1,1372.04,10,South,UPI,5.0
+ORD10318,2023-08-09,CUST0827,44.0,Electronics,Smartphone Case,1,1012.52,0, East ,Credit Card,5.0
+ORD10184,2024-01-13,CUST0527,25.0,Beauty,Lipstick,5,314.92,0,West,Net Banking,4.0
+ORD11121,2023-10-26,CUST0669,,Home & Kitchen,Non-stick Pan,1,827.97,0,North,Credit Card,4.0
+ORD11882,2023-09-26,CUST0162,47.0,Beauty,Sunscreen SPF50,3,1009.02,0,West,Net Banking,4.0
+ORD11718,2023-06-26,CUST0845,36.0,Beauty,Shampoo 500ml,1,458.94,20,south,Credit Card,3.0
+ORD10610,2024-05-22,CUST0219,24.0,Beauty,Lipstick,3,212.73,10,North,Cash on Delivery,
+ORD10627,2023-11-04,CUST0678,,Fashion,Denim Jacket,4,3451.99,10,west,Credit Card,4.0
+ORD10486,2023-08-27,CUST0323,57.0,Fashion,Denim Jacket,1,2203.6,5,South,Debit Card,4.0
+ORD10279,2024-01-17,CUST0568,41.0,Fashion,Denim Jacket,1,2322.25,0,West,UPI,4.0
+ORD10631,2023-10-20,CUST0483,44.0,Fashion,Men's T-Shirt,4,2687.19,0,North,UPI,
+ORD10021,2023-05-13,CUST0085,50.0,Electronics,Bluetooth Speaker,1,2031.07,5,West,Credit Card,5.0
+ORD10171,2023-06-23,CUST0010,44.0,Beauty,Face Serum,1,1407.71,10,East,Debit Card,4.0
+ORD11426,2024-02-24,CUST0812,52.0,Beauty,Lipstick,1,1721.85,0,West,Credit Card,5.0
+ORD10902,2024-08-02,CUST0233,54.0,Electronics,Smartwatch,2,3696.89,10,Central,UPI,4.0
+ORD11040,2023-01-28,CUST0257,49.0,Fashion,Running Shoes,2,467.7,10,North,Net Banking,1.0
+ORD11591,2024-12-10,CUST0148,32.0,Fashion,Leather Wallet,1,2803.87,5, North ,Credit Card,3.0
+ORD10177,2024-06-19,CUST0164,35.0,Electronics,Wireless Earbuds,2,5102.69,10,South,Credit Card,1.0
+ORD10328,2023-02-24,CUST0422,58.0,Fashion,Running Shoes,2,2850.86,5,West,Net Banking,3.0
+ORD10707,2024-09-24,CUST0677,63.0,Electronics,Bluetooth Speaker,1,4691.25,0,East,,5.0
+ORD11223,2024-03-02,CUST0230,42.0,Fashion,Running Shoes,2,2671.6,0, Central ,Debit Card,3.0
+ORD10471,2024-03-15,CUST0683,32.0,Beauty,Shampoo 500ml,4,574.55,15,South,Debit Card,4.0
+ORD11869,2024-07-27,CUST0792,61.0,Electronics,Smartwatch,1,3430.65,0,North,Net Banking,5.0
+ORD11719,2023-03-29,CUST0635,47.0,Fashion,Denim Jacket,3,1152.26,0,South,Credit Card,5.0
+ORD10267,2024-08-06,CUST0616,40.0,Beauty,Sunscreen SPF50,3,1398.92,5,North,Cash on Delivery,3.0
+ORD10616,2024-06-16,CUST0577,48.0,Electronics,Wireless Earbuds,2,4142.61,0,Central,UPI,2.0
+ORD11757,2024-12-27,CUST0621,41.0,Fashion,Women's Dress,1,581.21,5,west,Debit Card,5.0
+ORD11517,2023-02-27,CUST0424,24.0,Beauty,Hair Dryer,1,681.8,0,East,UPI,4.0
+ORD10131,2023-12-26,CUST0154,45.0,Sports,Resistance Band,1,1668.14,15,East,Cash on Delivery,4.0
+ORD10866,2023-11-10,CUST0805,51.0,Fashion,Men's T-Shirt,3,918.06,0,South,Debit Card,2.0
+ORD11961,2024-02-24,CUST0147,41.0,Home & Kitchen,Blender,1,688.47,0,West,Debit Card,4.0
+ORD11363,2024-01-09,CUST0181,38.0,Sports,Resistance Band,1,680.31,0,North,UPI,4.0
+ORD11878,2023-03-21,CUST0222,20.0,Beauty,Shampoo 500ml,1,1311.5,5,Central,Credit Card,4.0
+ORD10490,2023-11-01,CUST0096,28.0,Electronics,Wireless Earbuds,2,1849.46,0,South,UPI,3.0
+ORD11597,2024-09-14,CUST0288,62.0,Electronics,Wireless Earbuds,1,4545.38,0,Central,Credit Card,5.0
+ORD10607,2024-09-03,CUST0777,24.0,Beauty,Sunscreen SPF50,3,1319.46,0,East,UPI,2.0
+ORD11218,2024-06-20,CUST0237,62.0,Electronics,Power Bank,5,3162.97,0,South,Credit Card,4.0
+ORD11165,2024-12-03,CUST0813,27.0,Electronics,Smartwatch,1,1964.42,15,East,UPI,5.0
+ORD10417,2023-04-26,CUST0436,59.0,Fashion,Running Shoes,1,1169.33,0,East,Credit Card,5.0
+ORD11685,2023-03-13,CUST0342,,Fashion,Running Shoes,1,1956.1,0,North,UPI,3.0
+ORD11501,2024-06-18,CUST0222,58.0,Fashion,Leather Wallet,4,2849.16,5,East,Cash on Delivery,5.0
+ORD11739,2023-05-19,CUST0366,,Sports,Cricket Bat,1,2588.75,15,Central,Cash on Delivery,2.0
+ORD10153,2023-01-19,CUST0369,25.0,Electronics,Power Bank,1,1850.99,0,West,Net Banking,5.0
+ORD10890,2024-03-18,CUST0113,46.0,Home & Kitchen,LED Desk Lamp,2,1470.32,5,South,UPI,5.0
+ORD10850,2023-03-20,CUST0809,56.0,Sports,Resistance Band,2,1896.87,0, South ,Credit Card,4.0
+ORD10280,2024-10-05,CUST0366,54.0,Beauty,Hair Dryer,2,932.97,0,East,UPI,5.0
+ORD11035,2024-09-04,CUST0080,55.0,Fashion,Running Shoes,1,1856.14,5,North,Net Banking,3.0
+ORD10270,2023-09-04,CUST0817,22.0,Fashion,Women's Dress,2,2355.0,10,West,Credit Card,5.0
+ORD10097,2024-03-19,CUST0394,41.0,Sports,Football,2,2435.56,0,Central,Credit Card,4.0
+ORD10211,2023-06-12,CUST0776,40.0,Sports,Resistance Band,2,1142.12,20,North,Debit Card,1.0
+ORD11533,2024-01-12,CUST0693,41.0,Beauty,Hair Dryer,2,971.05,10,West,Credit Card,
+ORD11777,2024-04-26,CUST0391,30.0,Fashion,Women's Dress,2,882.52,10,Central,Net Banking,
+ORD10570,2024-09-11,CUST0377,36.0,Fashion,Running Shoes,1,532.77,10,West,Cash on Delivery,5.0
+ORD11970,2023-01-10,CUST0619,45.0,Home & Kitchen,LED Desk Lamp,1,3782.31,5,South,Credit Card,4.0
+ORD11838,2024-07-07,CUST0674,20.0,Electronics,Power Bank,1,2232.11,0,West,Net Banking,4.0
+ORD11800,2024-04-16,CUST0119,50.0,Electronics,Smartwatch,2,5602.97,10,South,Net Banking,2.0
+ORD10872,2023-04-17,CUST0278,18.0,Electronics,Smartphone Case,2,1559.86,10,East,Debit Card,4.0
+ORD11573,2024-10-05,CUST0052,35.0,Fashion,Leather Wallet,2,1880.6,0,West,UPI,
+ORD11567,2023-01-14,CUST0128,61.0,Fashion,Denim Jacket,1,1094.21,10,North,Net Banking,
+ORD10533,2023-12-24,CUST0486,26.0,Fashion,Women's Dress,1,1373.92,10,North,Debit Card,4.0
+ORD11967,2024-06-24,CUST0534,22.0,Sports,Resistance Band,1,2174.09,10,West,Credit Card,3.0
+ORD11357,2023-12-14,CUST0389,50.0,Beauty,Shampoo 500ml,1,373.56,10,South,Net Banking,4.0
+ORD11100,2023-06-07,CUST0228,64.0,Electronics,Smartphone Case,1,4000.1,0,West,Credit Card,5.0
+ORD10713,2024-01-25,CUST0011,50.0,Electronics,Wireless Earbuds,1,4558.41,10, North ,Credit Card,3.0
+ORD10078,2023-09-01,CUST0548,46.0,Home & Kitchen,Cushion Cover,2,4180.27,10,East,UPI,3.0
+ORD10264,2023-12-22,CUST0360,64.0,Fashion,Denim Jacket,1,693.12,0,North,UPI,5.0
+ORD11063,2023-08-06,CUST0650,33.0,Fashion,Women's Dress,2,3299.82,15,North,Debit Card,
+ORD10150,2023-09-12,CUST0203,62.0,Fashion,Running Shoes,1,1846.18,15,North,UPI,1.0
+ORD11966,2024-04-26,CUST0299,62.0,Sports,Football,1,1343.69,20,east,UPI,
+ORD11539,2023-08-23,CUST0041,58.0,Home & Kitchen,Cushion Cover,1,1705.13,10,North,Credit Card,2.0
+ORD11975,2023-03-24,CUST0474,49.0,Electronics,Power Bank,2,3566.99,10,East,UPI,5.0
+ORD10470,2024-01-02,CUST0815,18.0,Home & Kitchen,Storage Rack,1,3237.11,0,East,Debit Card,5.0
+ORD10565,2023-02-24,CUST0308,25.0,Home & Kitchen,Non-stick Pan,2,1807.68,20,East,Net Banking,4.0
+ORD11799,2024-12-18,CUST0686,39.0,Fashion,Leather Wallet,1,2229.46,5,North,Credit Card,5.0
+ORD10462,2024-06-29,CUST0625,58.0,Home & Kitchen,Cushion Cover,3,2443.84,10,East,Net Banking,3.0
+ORD11278,2023-12-19,CUST0341,38.0,Electronics,Bluetooth Speaker,-1,3051.98,10,West,UPI,1.0
+ORD10897,2024-07-07,CUST0257,33.0,Fashion,Running Shoes,1,1018.81,10,Central,UPI,
+ORD11796,2024-11-10,CUST0493,35.0,Electronics,Smartphone Case,2,2411.63,10,south,UPI,5.0
+ORD11870,2024-01-10,CUST0576,61.0,Sports,Football,2,2870.06,10, West ,UPI,4.0
+ORD11394,2024-12-17,CUST0213,54.0,Home & Kitchen,Storage Rack,2,3158.07,0, South ,Net Banking,3.0
+ORD11346,2024-07-31,CUST0105,21.0,Beauty,Sunscreen SPF50,1,1345.3,0,West,UPI,4.0
+ORD10696,2023-10-03,CUST0547,64.0,Electronics,Wireless Earbuds,1,5965.33,10,East,UPI,4.0
+ORD11176,2024-06-16,CUST0051,24.0,Beauty,Hair Dryer,4,1331.31,15,South,Net Banking,1.0
+ORD11753,2024-10-08,CUST0419,19.0,Fashion,Running Shoes,2,1615.41,5,South,Debit Card,3.0
+ORD10929,2023-05-19,CUST0491,57.0,Fashion,Men's T-Shirt,1,1576.51,0,West,UPI,4.0
+ORD11327,2024-03-14,CUST0073,,Home & Kitchen,Cushion Cover,1,3706.5,0,East,UPI,4.0
+ORD11215,2024-07-05,CUST0253,40.0,Sports,Resistance Band,5,777.06,5,west,UPI,4.0
+ORD10587,2023-09-28,CUST0488,25.0,Fashion,Leather Wallet,4,1438.64,10,South,Credit Card,5.0
+ORD11373,2024-12-01,CUST0025,,Fashion,Running Shoes,3,1147.22,15,Central,UPI,3.0
+ORD10244,2024-10-24,CUST0198,47.0,Fashion,Running Shoes,2,2918.77,10,East,Credit Card,3.0
+ORD11818,2024-03-23,CUST0036,64.0,Electronics,Power Bank,1,885.22,10,South,UPI,
+ORD11112,2024-02-24,CUST0446,55.0,Home & Kitchen,LED Desk Lamp,3,534.39,10,East,Net Banking,5.0
+ORD10752,2023-05-06,CUST0554,60.0,Sports,Cricket Bat,2,2742.79,0,Central,UPI,5.0
+ORD11680,2023-08-11,CUST0508,51.0,Beauty,Face Serum,1,1322.4,0,South,Credit Card,4.0
+ORD11974,2023-08-15,CUST0800,62.0,Home & Kitchen,Storage Rack,1,994.29,0,East,Cash on Delivery,3.0
+ORD11803,2023-01-20,CUST0532,35.0,Beauty,Sunscreen SPF50,2,1040.79,10,East,Cash on Delivery,5.0
+ORD11443,2023-12-20,CUST0120,25.0,Home & Kitchen,Non-stick Pan,2,3075.69,0,East,Debit Card,3.0
+ORD11313,2023-09-11,CUST0068,23.0,Electronics,Smartphone Case,1,4288.67,10,central,Cash on Delivery,1.0
+ORD10649,2024-05-09,CUST0080,18.0,Home & Kitchen,Non-stick Pan,1,3737.77,5,North,Credit Card,
+ORD11191,2024-12-19,CUST0314,29.0,Electronics,Power Bank,1,2072.24,5,Central,Cash on Delivery,
+ORD10596,2024-04-12,CUST0302,61.0,Electronics,Wireless Earbuds,1,1217.46,0,North,UPI,5.0
+ORD10314,2023-12-11,CUST0373,43.0,Electronics,Smartphone Case,1,5178.5,0,East,Debit Card,4.0
+ORD10934,2024-12-02,CUST0737,51.0,Home & Kitchen,LED Desk Lamp,1,3581.32,10,,Credit Card,
+ORD10156,2023-07-07,CUST0121,25.0,Fashion,Running Shoes,2,870.59,0,West,Cash on Delivery,5.0
+ORD11381,2023-11-18,CUST0347,33.0,Electronics,Power Bank,1,3819.71,0,West,Debit Card,5.0
+ORD11406,2023-08-16,CUST0181,31.0,Electronics,Smartwatch,1,5487.39,10,North,Net Banking,4.0
+ORD11304,2023-12-05,CUST0259,21.0,Fashion,Leather Wallet,1,2831.21,0,East,Credit Card,5.0
+ORD11151,2023-12-12,CUST0787,,Home & Kitchen,LED Desk Lamp,2,2867.16,15,West,UPI,5.0
+ORD11000,2024-12-29,CUST0397,34.0,Electronics,Wireless Earbuds,1,5158.97,0,South,UPI,3.0
+ORD11732,2023-11-20,CUST0689,49.0,Fashion,Women's Dress,2,3261.84,0,,Debit Card,4.0
+ORD11802,2023-01-10,CUST0593,47.0,Electronics,Wireless Earbuds,1,3939.1,0,Central,Cash on Delivery,4.0
+ORD11047,2024-11-04,CUST0283,64.0,Electronics,Smartphone Case,1,2286.22,0,North,Credit Card,5.0
+ORD11641,2023-02-07,CUST0107,37.0,Fashion,Women's Dress,1,898.45,0,North,UPI,4.0
+ORD11690,2024-12-14,CUST0497,29.0,Electronics,Power Bank,1,1707.92,10,West,UPI,4.0
+ORD11307,2023-12-04,CUST0290,44.0,Beauty,Face Serum,1,1577.06,15,Central,Cash on Delivery,3.0
+ORD11928,2024-03-27,CUST0366,62.0,Fashion,Running Shoes,1,1221.85,0,Central,UPI,4.0
+ORD11496,2024-10-08,CUST0654,49.0,Beauty,Hair Dryer,6,1226.33,5,West,UPI,5.0
+ORD11763,2023-04-12,CUST0683,31.0,Fashion,Men's T-Shirt,1,,0,North,Cash on Delivery,4.0
+ORD11392,2024-09-20,CUST0566,62.0,Electronics,Smartphone Case,1,4420.11,25,South,Net Banking,5.0
+ORD10026,2023-05-06,CUST0075,51.0,Home & Kitchen,Non-stick Pan,2,2257.14,5,central,Credit Card,
+ORD10197,2024-07-25,CUST0593,41.0,Fashion,Running Shoes,3,978.65,10,Central,Debit Card,5.0
+ORD11089,2024-01-05,CUST0818,20.0,Electronics,Bluetooth Speaker,1,1002.75,10, North ,Cash on Delivery,5.0
+ORD10016,2024-02-29,CUST0812,32.0,Home & Kitchen,Storage Rack,1,3304.71,15,South,UPI,5.0
+ORD11491,2024-07-29,CUST0195,50.0,Fashion,Running Shoes,1,745.41,0,South,Credit Card,4.0
+ORD11322,2024-05-22,CUST0269,31.0,Fashion,Men's T-Shirt,2,2387.94,10,West,Debit Card,5.0
+ORD10884,2024-03-29,CUST0162,29.0,Electronics,Power Bank,1,5945.62,15,North,Credit Card,2.0
+ORD10622,2023-12-24,CUST0033,44.0,Beauty,Hair Dryer,1,336.25,0,East,UPI,1.0
+ORD11361,2023-08-10,CUST0586,19.0,Home & Kitchen,Blender,1,1503.67,0,East,Credit Card,4.0
+ORD11845,2024-07-14,CUST0587,34.0,Fashion,Running Shoes,4,2136.62,0,North,Debit Card,5.0
+ORD11051,2024-04-24,CUST0158,51.0,Sports,Yoga Mat,1,1166.61,5,North,UPI,5.0
+ORD11613,2023-09-23,CUST0739,,Sports,Yoga Mat,1,2392.25,0,North,Net Banking,
+ORD11068,2023-06-04,CUST0599,44.0,Beauty,Face Serum,1,444.23,0,West,UPI,5.0
+ORD10498,2024-10-25,CUST0307,59.0,Fashion,Women's Dress,2,944.69,5,East,UPI,5.0
+ORD10793,2024-03-06,CUST0081,43.0,Beauty,Hair Dryer,2,768.16,0,North,UPI,5.0
+ORD10965,2023-11-08,CUST0695,31.0,Electronics,Bluetooth Speaker,1,1295.51,0,North,Debit Card,3.0
+ORD10516,2024-07-28,CUST0116,55.0,Fashion,Leather Wallet,3,2264.45,0,North,Credit Card,4.0
+ORD11990,2024-06-21,CUST0154,58.0,Home & Kitchen,Storage Rack,1,1512.41,10,East,UPI,
+ORD11586,2023-06-04,CUST0444,37.0,Home & Kitchen,Blender,1,301.8,0,West,Cash on Delivery,2.0
+ORD11942,2023-09-22,CUST0479,63.0,Electronics,Bluetooth Speaker,1,1103.93,10,North,Net Banking,5.0
+ORD11479,2024-09-21,CUST0713,26.0,Electronics,Power Bank,2,4264.25,15,East,UPI,5.0
+ORD11412,2024-04-13,CUST0279,52.0,Fashion,Men's T-Shirt,1,1187.04,5,east,Net Banking,4.0
+ORD11096,2024-05-13,CUST0141,50.0,Beauty,Hair Dryer,1,175.36,15,North,Cash on Delivery,4.0
+ORD10543,2023-11-17,CUST0836,22.0,Home & Kitchen,Blender,3,3749.01,0,,UPI,5.0
+ORD10457,2024-10-02,CUST0133,39.0,Electronics,Wireless Earbuds,2,2233.74,0,East,Debit Card,5.0
+ORD10634,2024-03-11,CUST0259,56.0,Beauty,Hair Dryer,1,820.25,5,north,Debit Card,
+ORD10432,2024-10-01,CUST0082,44.0,Sports,Dumbbell Set,1,1496.63,10,East,UPI,4.0
+ORD10628,2023-06-23,CUST0726,28.0,Beauty,Face Serum,1,566.14,10,South,Net Banking,5.0
+ORD11678,2024-09-03,CUST0257,46.0,Electronics,Smartphone Case,1,1294.95,0,East,Credit Card,5.0
+ORD10729,2023-12-11,CUST0483,22.0,Fashion,Men's T-Shirt,2,3254.95,10,East,UPI,5.0
+ORD11289,2024-10-27,CUST0103,39.0,Electronics,Smartwatch,1,3010.94,0, East ,Credit Card,5.0
+ORD10210,2024-03-05,CUST0010,48.0,Home & Kitchen,LED Desk Lamp,3,2796.04,10,South,Credit Card,3.0
+ORD10317,2023-10-04,CUST0201,36.0,Home & Kitchen,Blender,5,1294.81,10,East,UPI,5.0
+ORD11921,2023-07-11,CUST0592,41.0,Electronics,Bluetooth Speaker,2,4781.69,5,South,Credit Card,3.0
+ORD10514,2023-09-18,CUST0812,32.0,Home & Kitchen,Blender,2,1394.47,5,east,UPI,5.0
+ORD11338,2023-04-27,CUST0094,22.0,Electronics,Smartphone Case,2,5680.38,10, East ,Debit Card,5.0
+ORD11559,2024-04-16,CUST0165,44.0,Beauty,Face Serum,5,1471.28,0,North,UPI,1.0
+ORD10830,2023-10-14,CUST0204,45.0,Home & Kitchen,Non-stick Pan,3,632.48,15,South,Credit Card,3.0
+ORD10320,2024-04-25,CUST0824,37.0,Electronics,Smartphone Case,1,5957.86,5,East,Credit Card,5.0
+ORD11032,2024-07-18,CUST0582,46.0,Electronics,Smartwatch,1,1565.14,0,East,UPI,5.0
+ORD11418,2023-08-25,CUST0724,21.0,Fashion,Denim Jacket,1,3489.24,10,West,Debit Card,4.0
+ORD10142,2023-06-10,CUST0589,22.0,Electronics,Smartphone Case,1,3212.4,15,East,Cash on Delivery,3.0
+ORD11111,2024-01-07,CUST0553,57.0,Fashion,Running Shoes,1,2076.93,10,West,UPI,4.0
+ORD11889,2024-09-30,CUST0203,35.0,Fashion,Denim Jacket,1,1450.91,0, West ,Credit Card,4.0
+ORD11503,2024-06-27,CUST0351,47.0,Beauty,Sunscreen SPF50,1,1436.31,10,North,UPI,4.0
+ORD11528,2024-10-23,CUST0653,54.0,Fashion,Leather Wallet,1,2302.72,10,West,,3.0
+ORD10754,2024-07-18,CUST0781,45.0,Electronics,Smartwatch,1,2064.33,15,Central,Credit Card,5.0
+ORD11002,2023-10-31,CUST0620,61.0,Beauty,Hair Dryer,2,1503.95,10,East,UPI,4.0
+ORD11240,2023-11-29,CUST0747,60.0,Home & Kitchen,LED Desk Lamp,1,1435.85,10,East,,4.0
+ORD10581,2024-02-27,CUST0700,26.0,Fashion,Leather Wallet,2,1005.66,10, West ,Cash on Delivery,5.0
+ORD10563,2024-05-21,CUST0025,39.0,Home & Kitchen,Storage Rack,1,1397.5,10,central,Cash on Delivery,3.0
+ORD10399,2024-09-21,CUST0808,39.0,Fashion,Women's Dress,2,797.3,10,South,Debit Card,5.0
+ORD11950,2024-01-11,CUST0644,,Fashion,Women's Dress,1,542.08,5,West,Credit Card,4.0
+ORD10669,2024-06-14,CUST0223,19.0,Fashion,Denim Jacket,1,1362.82,0,West,UPI,5.0
+ORD11515,2024-08-12,CUST0056,50.0,Electronics,Smartwatch,1,3971.57,20,North,Debit Card,5.0
+ORD10253,2023-12-20,CUST0462,52.0,Beauty,Shampoo 500ml,2,421.22,0,North,Credit Card,5.0
+ORD10908,2024-01-30,CUST0197,40.0,Beauty,Shampoo 500ml,2,1255.6,0,South,Credit Card,5.0
+ORD10469,2023-02-27,CUST0587,61.0,Beauty,Shampoo 500ml,1,388.57,5,North,Cash on Delivery,4.0
+ORD10915,2023-02-05,CUST0249,57.0,Beauty,Face Serum,1,1230.99,10,Central,Cash on Delivery,5.0
+ORD10358,2024-03-25,CUST0452,46.0,Fashion,Running Shoes,1,2455.08,10,West,UPI,3.0
+ORD11279,2023-06-06,CUST0005,57.0,Sports,Yoga Mat,1,2366.0,5,Central,Credit Card,5.0
+ORD11301,2023-08-12,CUST0196,46.0,Beauty,Hair Dryer,3,736.23,0,North,Debit Card,3.0
+ORD11203,2024-04-20,CUST0343,23.0,Beauty,Sunscreen SPF50,1,1509.66,5,South,Net Banking,3.0
+ORD11306,2024-12-24,CUST0323,,Electronics,Smartphone Case,2,1547.44,0,North,,5.0
+ORD11415,2023-05-15,CUST0408,19.0,Home & Kitchen,Non-stick Pan,2,2575.13,0,North,Debit Card,1.0
+ORD10509,2024-01-23,CUST0848,63.0,Home & Kitchen,Non-stick Pan,2,1907.38,0,Central,Net Banking,3.0
+ORD10750,2023-02-20,CUST0655,46.0,Electronics,Smartphone Case,1,5966.14,15,South,Debit Card,5.0
+ORD11608,2023-09-04,CUST0817,27.0,Home & Kitchen,Storage Rack,2,668.89,5,West,Debit Card,4.0
+ORD11997,2024-10-19,CUST0172,45.0,Electronics,Smartphone Case,1,4424.23,10,South,Debit Card,
+ORD10130,2023-11-23,CUST0527,21.0,Electronics,Power Bank,1,2926.98,10,West,UPI,4.0
+ORD10145,2023-01-24,CUST0504,27.0,Electronics,Bluetooth Speaker,1,3994.81,5,West,UPI,4.0
+ORD10961,2023-03-18,CUST0454,30.0,Beauty,Lipstick,1,636.36,15, South ,Debit Card,4.0
+ORD10848,2024-01-24,CUST0517,28.0,Home & Kitchen,Storage Rack,1,3817.06,0,North,Credit Card,
+ORD11670,2023-11-28,CUST0596,64.0,Sports,Football,1,1498.43,5,Central,UPI,3.0
+ORD10716,2024-01-07,CUST0846,20.0,Home & Kitchen,Non-stick Pan,2,4228.05,0,North,Credit Card,3.0
+ORD10906,2024-11-05,CUST0122,63.0,Electronics,Bluetooth Speaker,2,1533.41,0,Central,Credit Card,
+ORD11792,2024-03-19,CUST0825,45.0,Fashion,Denim Jacket,1,760.91,5,West,Debit Card,2.0
+ORD11097,2024-12-01,CUST0262,41.0,Fashion,Running Shoes,1,1718.57,15,North,UPI,
+ORD11933,2023-08-20,CUST0640,38.0,Sports,Football,1,1226.06,0,West,Debit Card,5.0
+ORD10236,2024-06-09,CUST0849,58.0,Fashion,Denim Jacket,1,1923.85,5,Central,Credit Card,3.0
+ORD11062,2024-03-22,CUST0003,50.0,Beauty,Sunscreen SPF50,2,933.34,0,North,Credit Card,4.0
